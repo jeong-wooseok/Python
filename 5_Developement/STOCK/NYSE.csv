@@ -1,0 +1,3114 @@
+Symbol,Name,Industry,IndustryCode
+BABA,Alibaba Group Holding Ltd ADR,소프트웨어 및 IT서비스,572010
+TSM,Taiwan Semiconductor Manufacturing Co Ltd ADR,반도체 및 반도체 장비,571010
+V,Visa Inc Class A,소프트웨어 및 IT서비스,572010
+JPM,JPMorgan Chase & Co,은행,551010
+JNJ,Johnson & Johnson,제약,562010
+WMT,Walmart Inc,식품 및 약품소매,543010
+PG,Procter & Gamble Co,"개인, 가정 용품 및 서비스",542010
+UNH,UnitedHealth Group Inc,헬스케어 업체 및 서비스,561020
+MA,Mastercard Inc Class A,소프트웨어 및 IT서비스,572010
+BRK.B,Berkshire Hathaway Inc Class B,복합 기업,544010
+DIS,Walt Disney Co,미디어 및 출판,533020
+BAC,Bank of America Corp,은행,551010
+HD,Home Depot Inc,전문품 상점,534030
+VZ,Verizon Communications Inc,통신 서비스,574010
+BRK.A,Berkshire Hathaway Inc Class A,복합 기업,544010
+NKE,Nike Inc Class B,섬유 및 의류,532020
+NVS,Novartis AG ADR,제약,562010
+XOM,Exxon Mobil Corp,오일 및 가스,501020
+TM,Toyota Motor Corp ADR,자동차 및 자동차 부품,531010
+KO,Coca-Cola Co,음료,541010
+T,AT&T Inc,통신 서비스,574010
+MRK,Merck & Co Inc,제약,562010
+PFE,Pfizer Inc,제약,562010
+CRM,Salesforce.Com Inc,소프트웨어 및 IT서비스,572010
+ABBV,Abbvie Inc,제약,562010
+TMO,Thermo Fisher Scientific Inc,헬스케어 장비 및 용품,561010
+ABT,Abbott Laboratories,헬스케어 장비 및 용품,561010
+CVX,Chevron Corp,오일 및 가스,501020
+ORCL,Oracle Corp,소프트웨어 및 IT서비스,572010
+LLY,Eli Lilly and Co,제약,562010
+ACN,Accenture PLC Class A,소프트웨어 및 IT서비스,572010
+DHR,Danaher Corp,헬스케어 장비 및 용품,561010
+NEE,Nextera Energy Inc,전기 유틸리티,591010
+MDT,Medtronic PLC,헬스케어 장비 및 용품,561010
+UL,Unilever PLC ADR,"개인, 가정 용품 및 서비스",542010
+MCD,Mcdonald's Corp,호텔 및 엔터테인먼트,533010
+SAP,SAP SE ADR,소프트웨어 및 IT서비스,572010
+BMY,Bristol-Myers Squibb Co,제약,562010
+HON,Honeywell International Inc,복합 기업,544010
+UNP,Union Pacific Corp,화물 및 물류 서비스,524050
+SHOP,Shopify Inc Class A,소프트웨어 및 IT서비스,572010
+C,Citigroup Inc,은행,551010
+WFC,Wells Fargo & Co,은행,551010
+UPS,United Parcel Service Inc Class B,화물 및 물류 서비스,524050
+HDB,HDFC Bank Ltd ADR,은행,551010
+MS,Morgan Stanley,투자은행 및 서비스,551020
+LIN,Linde PLC,화학,511010
+SNE,Sony Corp ADR,"컴퓨터, 전화 및 가전제품",571060
+PM,Philip Morris International Inc,식품 및 담배,541020
+NVO,Novo Nordisk A/S ADR,제약,562010
+LOW,Lowe's Companies Inc,전문품 상점,534030
+RY,Royal Bank of Canada,은행,551010
+TOT,Total SE ADR,오일 및 가스,501020
+BA,Boeing Co,우주항공 및 국방,521010
+SE,Sea Ltd ADR,소프트웨어 및 IT서비스,572010
+IBM,International Business Machines Corp,소프트웨어 및 IT서비스,572010
+BUD,Anheuser Busch Inbev NV ADR,음료,541010
+BLK,BlackRock Inc,투자은행 및 서비스,551020
+HSBC,HSBC Holdings PLC ADR,은행,551010
+CHL,China Mobile Ltd ADR,통신 서비스,574010
+SCHW,Charles Schwab Corp,투자은행 및 서비스,551020
+BHP,BHP Group Ltd ADR,메탈&마이닝,512010
+TD,Toronto-Dominion Bank,은행,551010
+RTX,Raytheon Technologies Corp,우주항공 및 국방,521010
+CAT,Caterpillar Inc,"건설장비 및 대형차, 기차, 배",521020
+GS,Goldman Sachs Group Inc,투자은행 및 서비스,551020
+RIO,Rio Tinto PLC ADR,메탈&마이닝,512010
+SQ,Square Inc Class A,전문 및 상업 서비스,522030
+GE,General Electric Co,복합 기업,544010
+UBER,Uber Technologies Inc,소프트웨어 및 IT서비스,572010
+NOW,ServiceNow Inc,소프트웨어 및 IT서비스,572010
+AXP,American Express Co,은행,551010
+TGT,Target Corp,다양한 소매업,534020
+CVS,CVS Health Corp,헬스케어 업체 및 서비스,561020
+LMT,Lockheed Martin Corp,우주항공 및 국방,521010
+VALE,Vale SA ADR,메탈&마이닝,512010
+MMM,3M Co,복합 기업,544010
+GSK,GlaxoSmithKline PLC ADR,제약,562010
+NIO,NIO Inc ADR,자동차 및 자동차 부품,531010
+AMT,American Tower Corp,주택 및 상업용 리츠,601020
+DE,Deere & Co,"건설장비 및 대형차, 기차, 배",521020
+DEO,Diageo PLC ADR,음료,541010
+SYK,Stryker Corp,헬스케어 장비 및 용품,561010
+EL,Estee Lauder Companies Inc Class A,"개인, 가정 용품 및 서비스",542010
+UN,Unilever NV ADR,"개인, 가정 용품 및 서비스",542010
+BTI,British American Tobacco PLC ADR,식품 및 담배,541020
+BP,BP PLC ADR,오일 및 가스,501020
+SNOW,Snowflake Inc. Class A,소프트웨어 및 IT서비스,572010
+RDS.A,Royal Dutch Shell PLC ADR,오일 및 가스,501020
+TJX,TJX Companies Inc,다양한 소매업,534020
+ANTM,Anthem Inc,헬스케어 업체 및 서비스,561020
+FIS,Fidelity National Information Services Inc,핀테크,573010
+CNI,Canadian National Railway Co,화물 및 물류 서비스,524050
+CI,Cigna Corp,헬스케어 업체 및 서비스,561020
+INFY,Infosys Ltd ADR,소프트웨어 및 IT서비스,572010
+ZTS,Zoetis Inc Class A,제약,562010
+MO,Altria Group Inc,식품 및 담배,541020
+BX,Blackstone Group Inc Class A,투자은행 및 서비스,551020
+BDX,Becton Dickinson and Co,헬스케어 장비 및 용품,561010
+USB,U.S. Bancorp,은행,551010
+GM,General Motors Co,자동차 및 자동차 부품,531010
+BEKE,Ke Holdings Inc ADR,부동산 운영 관리,601010
+RDS.B,Royal Dutch Shell PLC ADR,오일 및 가스,501020
+SPGI,S&P Global Inc,전문 및 상업 서비스,522030
+SNAP,Snap Inc Class A,소프트웨어 및 IT서비스,572010
+ENB,Enbridge Inc,오일 및 가스 장비 및 서비스,501030
+TFC,Truist Financial Corp,은행,551010
+PLD,Prologis Inc,주택 및 상업용 리츠,601020
+CB,Chubb Ltd,보험,553010
+CL,Colgate-Palmolive Co,"개인, 가정 용품 및 서비스",542010
+PNC,PNC Financial Services Group Inc,은행,551010
+FDX,FedEx Corp,화물 및 물류 서비스,524050
+DUK,Duke Energy Corp,전기 유틸리티,591010
+BNS,Bank of Nova Scotia,은행,551010
+CCI,Crown Castle International Corp,주택 및 상업용 리츠,601020
+DASH,DoorDash Inc Class A,소프트웨어 및 IT서비스,572010
+EQNR,Equinor ASA ADR,오일 및 가스,501020
+SHW,Sherwin-Williams Co,화학,511010
+ITW,Illinois Tool Works Inc,복합 기업,544010
+ICE,Intercontinental Exchange Inc,투자은행 및 서비스,551020
+ABB,Abb Ltd ADR,"건설장비 및 대형차, 기차, 배",521020
+NSC,Norfolk Southern Corp,화물 및 물류 서비스,524050
+SPOT,Spotify Technology SA,소프트웨어 및 IT서비스,572010
+BBL,BHP Group PLC ADR,메탈&마이닝,512010
+APD,Air Products and Chemicals Inc,화학,511010
+MUFG,Mitsubishi UFJ Financial Group Inc ADR,은행,551010
+SO,Southern Co,전기 유틸리티,591010
+TWLO,Twilio Inc Class A,소프트웨어 및 IT서비스,572010
+ECL,Ecolab Inc,화학,511010
+DD,Dupont De Nemours Inc,화학,511010
+SAN,Banco Santander SA ADR,은행,551010
+WBK,Westpac Banking Corp ADR,은행,551010
+UBS,UBS Group AG,투자은행 및 서비스,551020
+BAM,Brookfield Asset Management Inc Class A,투자은행 및 서비스,551020
+GPN,Global Payments Inc,전문 및 상업 서비스,522030
+D,Dominion Energy Inc,전기 유틸리티,591010
+HCA,HCA Healthcare Inc,헬스케어 업체 및 서비스,561020
+VMW,VMware Inc Class A,소프트웨어 및 IT서비스,572010
+MMC,Marsh & McLennan Companies Inc,보험,553010
+TAK,Takeda Pharmaceutical Co Ltd ADR,제약,562010
+DELL,Dell Technologies Inc Class C,"컴퓨터, 전화 및 가전제품",571060
+SCCO,Southern Copper Corp,메탈&마이닝,512010
+PGR,Progressive Corp,보험,553010
+EW,Edwards Lifesciences Corp,헬스케어 장비 및 용품,561010
+HUM,Humana Inc,헬스케어 업체 및 서비스,561020
+COF,Capital One Financial Corp,은행,551010
+IBN,ICICI Bank Ltd ADR,은행,551010
+DG,Dollar General Corp,다양한 소매업,534020
+BSX,Boston Scientific Corp,헬스케어 장비 및 용품,561010
+COP,ConocoPhillips,오일 및 가스,501020
+MCO,Moody's Corp,전문 및 상업 서비스,522030
+PUK,Prudential PLC ADR,보험,553010
+CVNA,Carvana Co Class A,전문품 상점,534030
+NEM,Newmont Corporation,메탈&마이닝,512010
+BMO,Bank of Montreal,은행,551010
+NOC,Northrop Grumman Corp,우주항공 및 국방,521010
+EPD,Enterprise Products Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+ABEV,Ambev SA ADR,음료,541010
+EMR,Emerson Electric Co,"건설장비 및 대형차, 기차, 배",521020
+ETN,Eaton Corporation PLC,"건설장비 및 대형차, 기차, 배",521020
+PHG,Koninklijke Philips NV ADR,헬스케어 장비 및 용품,561010
+HMC,Honda Motor Co Ltd ADR,자동차 및 자동차 부품,531010
+WM,Waste Management Inc,전문 및 상업 서비스,522030
+RELX,Relx PLC ADR,전문 및 상업 서비스,522030
+CP,Canadian Pacific Railway Ltd,화물 및 물류 서비스,524050
+CHWY,Chewy Inc Class A,전문품 상점,534030
+SMFG,Sumitomo Mitsui Financial Group Inc ADR,은행,551010
+AON,Aon PLC Class A,보험,553010
+FCX,Freeport-McMoRan Inc,메탈&마이닝,512010
+MET,MetLife Inc,보험,553010
+CEO,CNOOC Ltd ADR,오일 및 가스,501020
+KMB,Kimberly-Clark Corp,"개인, 가정 용품 및 서비스",542010
+DOW,Dow Inc,화학,511010
+GD,General Dynamics Corp,우주항공 및 국방,521010
+PINS,Pinterest Inc Class A,소프트웨어 및 IT서비스,572010
+PLTR,Palantir Technologies Inc Class A,소프트웨어 및 IT서비스,572010
+TEL,TE Connectivity Ltd,"건설장비 및 대형차, 기차, 배",521020
+PBR,Petroleo Brasileiro SA Petrobras ADR,오일 및 가스,501020
+ROP,Roper Technologies Inc,소프트웨어 및 IT서비스,572010
+LVS,Las Vegas Sands Corp,호텔 및 엔터테인먼트,533010
+NGG,National Grid PLC ADR,복합 유틸리티,591040
+GOLD,Barrick Gold Corp,메탈&마이닝,512010
+RACE,Ferrari NV,자동차 및 자동차 부품,531010
+TRP,TC Energy Corp,오일 및 가스 장비 및 서비스,501030
+VEEV,Veeva Systems Inc Class A,헬스케어 장비 및 용품,561010
+BK,Bank of New York Mellon Corp,투자은행 및 서비스,551020
+BAX,Baxter International Inc,헬스케어 장비 및 용품,561010
+U,Unity Software Inc,소프트웨어 및 IT서비스,572010
+LHX,L3harris Technologies Inc,우주항공 및 국방,521010
+CM,Canadian Imperial Bank of Commerce,은행,551010
+APH,Amphenol Corp Class A,전자 장비 및 부품,571040
+RKT,Rocket Companies Inc Class A,은행,551010
+F,Ford Motor Co,자동차 및 자동차 부품,531010
+XPEV,Xpeng Inc ADR,자동차 및 자동차 부품,531010
+E,Eni SpA ADR,오일 및 가스,501020
+CMG,Chipotle Mexican Grill Inc,호텔 및 엔터테인먼트,533010
+BCE,BCE Inc,통신 서비스,574010
+TAL,TAL Education Group ADR,교육서비스,631010
+TRI,Thomson Reuters Corp,전문 및 상업 서비스,522030
+APTV,Aptiv PLC,자동차 및 자동차 부품,531010
+PSA,Public Storage,주택 및 상업용 리츠,601020
+A,Agilent Technologies Inc,헬스케어 장비 및 용품,561010
+SYY,Sysco Corp,식품 및 약품소매,543010
+STZ,Constellation Brands Inc Class A,음료,541010
+JCI,Johnson Controls International PLC,"건설장비 및 대형차, 기차, 배",521020
+MFC,Manulife Financial Corp,보험,553010
+CNC,Centene Corp,헬스케어 업체 및 서비스,561020
+PH,Parker-Hannifin Corp,"건설장비 및 대형차, 기차, 배",521020
+DLR,Digital Realty Trust Inc,주택 및 상업용 리츠,601020
+ING,ING Groep NV ADR,은행,551010
+WIT,Wipro Ltd ADR,소프트웨어 및 IT서비스,572010
+TWTR,Twitter Inc,소프트웨어 및 IT서비스,572010
+TME,Tencent Music Entertainment Group ADR,소프트웨어 및 IT서비스,572010
+BCS,Barclays PLC ADR,은행,551010
+EOG,EOG Resources Inc,오일 및 가스,501020
+STM,STMicroelectronics NV ADR,반도체 및 반도체 장비,571010
+TT,Trane Technologies PLC,"건설장비 및 대형차, 기차, 배",521020
+SLB,Schlumberger NV,오일 및 가스 장비 및 서비스,501030
+IQV,IQVIA Holdings Inc,생명과학 및 메디컬 리서치,562020
+TRV,Travelers Companies Inc,보험,553010
+LU,Lufax Holding Ltd ADR,핀테크,573010
+PPG,PPG Industries Inc,화학,511010
+CMI,Cummins Inc,자동차 및 자동차 부품,531010
+AIG,American International Group Inc,보험,553010
+KMI,Kinder Morgan Inc,오일 및 가스 장비 및 서비스,501030
+INFO,IHS Markit Ltd,전문 및 상업 서비스,522030
+CARR,Carrier Global Corp,"건설장비 및 대형차, 기차, 배",521020
+SRE,Sempra Energy,복합 유틸리티,591040
+CRH,CRH PLC ADR,건축 자재,512020
+KKR,KKR & Co Inc,투자은행 및 서비스,551020
+LYG,Lloyds Banking Group PLC ADR,은행,551010
+ALC,Alcon AG,헬스케어 장비 및 용품,561010
+PANW,Palo Alto Networks Inc,소프트웨어 및 IT서비스,572010
+GIS,General Mills Inc,식품 및 담배,541020
+MSCI,MSCI Inc,전문 및 상업 서비스,522030
+CS,Credit Suisse Group AG ADR,은행,551010
+BBVA,Banco Bilbao Vizcaya Argentaria SA ADR,은행,551010
+RNG,RingCentral Inc Class A,소프트웨어 및 IT서비스,572010
+ZBH,Zimmer Biomet Holdings Inc,헬스케어 장비 및 용품,561010
+BSBR,Banco Santander Brasil SA ADR,은행,551010
+VFC,VF Corp,섬유 및 의류,532020
+PRU,Prudential Financial Inc,보험,553010
+ALL,Allstate Corp,보험,553010
+HPQ,HP Inc,"컴퓨터, 전화 및 가전제품",571060
+LYB,LyondellBasell Industries NV Class A,화학,511010
+TDG,TransDigm Group Inc,우주항공 및 국방,521010
+AMX,America Movil SAB de CV ADR,통신 서비스,574010
+CTVA,Corteva Inc,식품 및 담배,541020
+AFL,Aflac Inc,보험,553010
+W,Wayfair Inc Class A,다양한 소매업,534020
+TDOC,Teladoc Health Inc,헬스케어 업체 및 서비스,561020
+YUM,Yum! Brands Inc,호텔 및 엔터테인먼트,533010
+PSX,Phillips 66,오일 및 가스,501020
+ORAN,Orange SA ADR,통신 서비스,574010
+PBR.A,Petroleo Brasileiro SA Petrobras ADR,오일 및 가스,501020
+SPG,Simon Property Group Inc,주택 및 상업용 리츠,601020
+CHT,Chunghwa Telecom Co Ltd ADR,통신 서비스,574010
+HLT,Hilton Worldwide Holdings Inc,호텔 및 엔터테인먼트,533010
+RMD,Resmed Inc,헬스케어 장비 및 용품,561010
+CNQ,Canadian Natural Resources Ltd,오일 및 가스,501020
+NTR,Nutrien Ltd,화학,511010
+ES,Eversource Energy,전기 유틸리티,591010
+HSY,Hershey Co,식품 및 담배,541020
+ROK,Rockwell Automation Inc,"건설장비 및 대형차, 기차, 배",521020
+ITUB,Itau Unibanco Holding SA ADR,은행,551010
+DFS,Discover Financial Services,은행,551010
+QSR,Restaurant Brands International Inc,호텔 및 엔터테인먼트,533010
+EDU,New Oriental Education & Technology Group Inc ADR,교육서비스,631010
+RSG,Republic Services Inc,전문 및 상업 서비스,522030
+EC,Ecopetrol SA ADR,오일 및 가스,501020
+MPC,Marathon Petroleum Corp,오일 및 가스,501020
+SU,Suncor Energy Inc,오일 및 가스,501020
+BBY,Best Buy Co Inc,전문품 상점,534030
+BLL,Ball Corp,용기 및 포장,513020
+ADM,Archer-Daniels-Midland Co,식품 및 담배,541020
+MSI,Motorola Solutions Inc,커뮤니케이션 및 네트워킹,571020
+MCK,Mckesson Corp,식품 및 약품소매,543010
+PEG,Public Service Enterprise Group Inc,전기 유틸리티,591010
+GLW,Corning Inc,전자 장비 및 부품,571040
+LUV,Southwest Airlines Co,운송업,524060
+PXD,Pioneer Natural Resources Co,오일 및 가스,501020
+MTD,Mettler-Toledo International Inc,"건설장비 및 대형차, 기차, 배",521020
+AWK,American Water Works Company Inc,수도 유틸리티,591030
+AZO,Autozone Inc,전문품 상점,534030
+OTIS,Otis Worldwide Corp,"건설장비 및 대형차, 기차, 배",521020
+STT,State Street Corp,투자은행 및 서비스,551020
+AME,AMETEK Inc,"건설장비 및 대형차, 기차, 배",521020
+SWK,Stanley Black & Decker Inc,"건설장비 및 대형차, 기차, 배",521020
+SLF,Sun Life Financial Inc,보험,553010
+WMB,Williams Companies Inc,오일 및 가스 장비 및 서비스,501030
+FRC,First Republic Bank,은행,551010
+WEC,WEC Energy Group Inc,전기 유틸리티,591010
+KEYS,Keysight Technologies Inc,"건설장비 및 대형차, 기차, 배",521020
+MT,ArcelorMittal SA ADR,메탈&마이닝,512010
+WCN,Waste Connections Inc,전문 및 상업 서비스,522030
+NWG,Natwest Group PLC ADR,은행,551010
+WELL,Welltower Inc,주택 및 상업용 리츠,601020
+TU,Telus Corp,통신 서비스,574010
+DAL,Delta Air Lines Inc,운송업,524060
+TEF,Telefonica SA ADR,통신 서비스,574010
+MPLX,MPLX LP Unit,오일 및 가스 장비 및 서비스,501030
+KR,Kroger Co,식품 및 약품소매,543010
+DHI,D.R. Horton Inc,주택건설,532030
+DB,Deutsche Bank AG,은행,551010
+TLK,Telkom Indonesia (Persero) Tbk PT ADR,통신 서비스,574010
+FCAU,Fiat Chrysler Automobiles NV,자동차 및 자동차 부품,531010
+NET,Cloudflare Inc Class A,소프트웨어 및 IT서비스,572010
+ZTO,ZTO Express (Cayman) Inc ADR,화물 및 물류 서비스,524050
+CLX,Clorox Co,"개인, 가정 용품 및 서비스",542010
+VLO,Valero Energy Corp,오일 및 가스,501020
+BKR,Baker Hughes Co,오일 및 가스 장비 및 서비스,501030
+FMS,Fresenius Medical Care AG & Co KGaA ADR,헬스케어 업체 및 서비스,561020
+AMP,Ameriprise Financial Inc,투자은행 및 서비스,551020
+WY,Weyerhaeuser Co,주택 및 상업용 리츠,601020
+PAYC,Paycom Software Inc,소프트웨어 및 IT서비스,572010
+WORK,Slack Technologies Inc Class A,소프트웨어 및 IT서비스,572010
+YUMC,Yum China Holdings Inc,호텔 및 엔터테인먼트,533010
+FTV,Fortive Corp,"건설장비 및 대형차, 기차, 배",521020
+HRL,Hormel Foods Corp,식품 및 담배,541020
+ANET,Arista Networks Inc,커뮤니케이션 및 네트워킹,571020
+TSN,Tyson Foods Inc Class A,식품 및 담배,541020
+FNV,Franco-Nevada Corp,메탈&마이닝,512010
+UMC,United Microelectronics Corp ADR,반도체 및 반도체 장비,571010
+DTE,DTE Energy Co,전기 유틸리티,591010
+PCG,PG&E Corp,전기 유틸리티,591010
+ED,Consolidated Edison Inc,전기 유틸리티,591010
+BBD,Banco Bradesco SA ADR,은행,551010
+ARE,Alexandria Real Estate Equities Inc,주택 및 상업용 리츠,601020
+EIX,Edison International,전기 유틸리티,591010
+NOK,Nokia Oyj ADR,커뮤니케이션 및 네트워킹,571020
+MKC,McCormick & Company Inc,식품 및 담배,541020
+BF.B,Brown-Forman Corp Class B,음료,541010
+SYF,Synchrony Financial,은행,551010
+OXY,Occidental Petroleum Corp,오일 및 가스,501020
+EQR,Equity Residential,주택 및 상업용 리츠,601020
+AVB,Avalonbay Communities Inc,주택 및 상업용 리츠,601020
+FLT,Fleetcor Technologies Inc,전문 및 상업 서비스,522030
+AJG,Arthur J Gallagher & Co,보험,553010
+MGA,Magna International Inc,자동차 및 자동차 부품,531010
+CAJ,Canon Inc ADR,사무기기,571050
+CCEP,Coca-Cola European Partners PLC,음료,541010
+WST,West Pharmaceutical Services Inc,헬스케어 장비 및 용품,561010
+BIP,Brookfield Infrastructure Partners LP Unit,복합 기업,544010
+PPL,PPL Corp,복합 유틸리티,591040
+ABC,Amerisourcebergen Corp,헬스케어 장비 및 용품,561010
+EFX,Equifax Inc,전문 및 상업 서비스,522030
+O,Realty Income Corp,주택 및 상업용 리츠,601020
+IX,Orix Corp ADR,은행,551010
+LH,Laboratory Corporation of America Holdings,헬스케어 업체 및 서비스,561020
+CHA,China Telecom Corp Ltd ADR,통신 서비스,574010
+VMC,Vulcan Materials Co,건축 자재,512020
+APO,Apollo Global Management Inc Class A,투자은행 및 서비스,551020
+CHD,Church & Dwight Co Inc,"개인, 가정 용품 및 서비스",542010
+BEPC,Brookfield Renewable Corp Class A,전기 유틸리티,591010
+CBRE,CBRE Group Inc Class A,부동산 운영 관리,601010
+BBDO,Banco Bradesco SA ADR,은행,551010
+LEN,Lennar Corp Class A,주택건설,532030
+GWW,W W Grainger Inc,"건설장비 및 대형차, 기차, 배",521020
+QS,Quantumscape Corp Class A,자동차 및 자동차 부품,531010
+PKX,Posco ADR,메탈&마이닝,512010
+K,Kellogg Co,식품 및 담배,541020
+FTCH,Farfetch Ltd Class A,소프트웨어 및 IT서비스,572010
+KSU,Kansas City Southern,화물 및 물류 서비스,524050
+OKE,ONEOK Inc,오일 및 가스 장비 및 서비스,501030
+IP,International Paper Co,용기 및 포장,513020
+HES,Hess Corp,오일 및 가스,501020
+ALB,Albemarle Corp,화학,511010
+IR,Ingersoll Rand Inc,"건설장비 및 대형차, 기차, 배",521020
+SNN,Smith & Nephew PLC ADR,헬스케어 장비 및 용품,561010
+ATUS,Altice USA Inc Class A,통신 서비스,574010
+HAL,Halliburton Co,오일 및 가스 장비 및 서비스,501030
+ET,Energy Transfer LP Unit,오일 및 가스 장비 및 서비스,501030
+CCL,Carnival Corp,호텔 및 엔터테인먼트,533010
+MTB,M&T Bank Corp,은행,551010
+EPAM,Epam Systems Inc,소프트웨어 및 IT서비스,572010
+FTS,Fortis Inc,전기 유틸리티,591010
+XYL,Xylem Inc,"건설장비 및 대형차, 기차, 배",521020
+CTLT,Catalent Inc,제약,562010
+VIPS,Vipshop Holdings Ltd ADR,소프트웨어 및 IT서비스,572010
+MLM,Martin Marietta Materials Inc,건축 자재,512020
+ETR,Entergy Corp,전기 유틸리티,591010
+RCI,Rogers Communications Inc Class B,통신 서비스,574010
+URI,United Rentals Inc,전문 및 상업 서비스,522030
+HIG,Hartford Financial Services Group Inc,보험,553010
+CNHI,CNH Industrial NV,"건설장비 및 대형차, 기차, 배",521020
+KEY,KeyCorp,은행,551010
+WPM,Wheaton Precious Metals Corp,메탈&마이닝,512010
+CHU,China Unicom Hong Kong Ltd ADR,통신 서비스,574010
+COO,Cooper Companies Inc,헬스케어 장비 및 용품,561010
+ROL,Rollins Inc,전문 및 상업 서비스,522030
+DOV,Dover Corp,"건설장비 및 대형차, 기차, 배",521020
+AEE,Ameren Corp,복합 유틸리티,591040
+AES,AES Corp,전기 유틸리티,591010
+VTR,Ventas Inc,주택 및 상업용 리츠,601020
+TFX,Teleflex Inc,헬스케어 장비 및 용품,561010
+RF,Regions Financial Corp,은행,551010
+AMCR,Amcor PLC,용기 및 포장,513020
+CCC,CLARIVATE PLC,전문 및 상업 서비스,522030
+GIB,CGI Inc Class A,소프트웨어 및 IT서비스,572010
+HUBS,HubSpot Inc,소프트웨어 및 IT서비스,572010
+BR,Broadridge Financial Solutions Inc,핀테크,573010
+NMR,Nomura Holdings Inc ADR,투자은행 및 서비스,551020
+CFG,Citizens Financial Group Inc,은행,551010
+TRU,TransUnion,전문 및 상업 서비스,522030
+PAGS,PagSeguro Digital Ltd Class A,전문 및 상업 서비스,522030
+KMX,Carmax Inc,전문품 상점,534030
+NUE,Nucor Corp,메탈&마이닝,512010
+ZEN,Zendesk Inc,소프트웨어 및 IT서비스,572010
+LFC,China Life Insurance Co Ltd ADR,보험,553010
+RCL,Royal Caribbean Cruises Ltd,호텔 및 엔터테인먼트,533010
+AEM,Agnico Eagle Mines Ltd,메탈&마이닝,512010
+FE,FirstEnergy Corp,전기 유틸리티,591010
+TYL,Tyler Technologies Inc,소프트웨어 및 IT서비스,572010
+DGX,Quest Diagnostics Inc,헬스케어 업체 및 서비스,561020
+BURL,Burlington Stores Inc,다양한 소매업,534020
+SKM,SK Telecom Co Ltd ADR,통신 서비스,574010
+KB,KB Financial Group Inc ADR,은행,551010
+CAG,Conagra Brands Inc,식품 및 담배,541020
+FMX,Fomento Economico Mexicano SAB de CV ADR,음료,541010
+AVTR,Avantor Inc,헬스케어 장비 및 용품,561010
+PKI,PerkinElmer Inc,헬스케어 장비 및 용품,561010
+CMS,CMS Energy Corp,복합 유틸리티,591040
+WAT,Waters Corp,헬스케어 장비 및 용품,561010
+CAH,Cardinal Health Inc,식품 및 약품소매,543010
+SHG,Shinhan Financial Group Co Ltd ADR,은행,551010
+INVH,Invitation Homes Inc,주택 및 상업용 리츠,601020
+STE,Steris plc,헬스케어 장비 및 용품,561010
+HPE,Hewlett Packard Enterprise Co,"컴퓨터, 전화 및 가전제품",571060
+CE,Celanese Corp,화학,511010
+PEAK,Healthpeak Properties Inc,주택 및 상업용 리츠,601020
+DRI,Darden Restaurants Inc,호텔 및 엔터테인먼트,533010
+VAR,Varian Medical Systems Inc,헬스케어 장비 및 용품,561010
+WAB,Westinghouse Air Brake Technologies Corp,"건설장비 및 대형차, 기차, 배",521020
+LYV,Live Nation Entertainment Inc,호텔 및 엔터테인먼트,533010
+ASX,ASE Technology Holding Co Ltd ADR,반도체 및 반도체 장비,571010
+GNRC,Generac Holdings Inc,"건설장비 및 대형차, 기차, 배",521020
+FMC,FMC Corp,화학,511010
+SUZ,Suzano SA ADR,종이 및 임산물,513010
+ESS,Essex Property Trust Inc,주택 및 상업용 리츠,601020
+PBA,Pembina Pipeline Corp,오일 및 가스 장비 및 서비스,501030
+ALLY,Ally Financial Inc,은행,551010
+UI,Ubiquiti Inc,커뮤니케이션 및 네트워킹,571020
+KEP,Korea Electric Power Corp ADR,전기 유틸리티,591010
+GPC,Genuine Parts Co,자동차 및 자동차 부품,531010
+LDOS,Leidos Holdings Inc,소프트웨어 및 IT서비스,572010
+IEX,IDEX Corp,"건설장비 및 대형차, 기차, 배",521020
+MGM,MGM Resorts International,호텔 및 엔터테인먼트,533010
+BAP,Credicorp Ltd,은행,551010
+ELAN,Elanco Animal Health Inc,제약,562010
+CDAY,Ceridian HCM Holding Inc,소프트웨어 및 IT서비스,572010
+MAS,Masco Corp,주택건설,532030
+NVR,NVR Inc,주택건설,532030
+MAA,Mid-America Apartment Communities Inc,주택 및 상업용 리츠,601020
+DPZ,Domino's Pizza Inc,호텔 및 엔터테인먼트,533010
+BXP,Boston Properties Inc,주택 및 상업용 리츠,601020
+BIO,Bio Rad Laboratories Inc Class A,헬스케어 장비 및 용품,561010
+VIV,Telefonica Brasil SA ADR,통신 서비스,574010
+J,Jacobs Engineering Group Inc,건설 및 엔지니어링,522010
+IT,Gartner Inc,소프트웨어 및 IT서비스,572010
+EXR,Extra Space Storage Inc,주택 및 상업용 리츠,601020
+EMN,Eastman Chemical Co,화학,511010
+DRE,Duke Realty Corp,주택 및 상업용 리츠,601020
+TDY,Teledyne Technologies Inc,전자 장비 및 부품,571040
+YSG,Yatsen Holding Ltd ADR,"개인, 가정 용품 및 서비스",542010
+RJF,Raymond James Financial Inc,투자은행 및 서비스,551020
+MGP,MGM Growth Properties LLC Class A,주택 및 상업용 리츠,601020
+FICO,Fair Isaac Corp,소프트웨어 및 IT서비스,572010
+MKL,Markel Corp,보험,553010
+AGR,Avangrid Inc,복합 유틸리티,591040
+CPB,Campbell Soup Co,식품 및 담배,541020
+GSX,GSX Techedu Inc ADR,교육서비스,631010
+GDDY,GoDaddy Inc Class A,소프트웨어 및 IT서비스,572010
+BEN,Franklin Resources Inc,투자은행 및 서비스,551020
+CXO,Concho Resources Inc,오일 및 가스,501020
+SUI,Sun Communities Inc,주택 및 상업용 리츠,601020
+OMC,Omnicom Group Inc,미디어 및 출판,533020
+VICI,VICI Properties Inc,주택 및 상업용 리츠,601020
+WPP,WPP PLC ADR,미디어 및 출판,533020
+PKG,Packaging Corp of America,용기 및 포장,513020
+AVY,Avery Dennison Corp,용기 및 포장,513020
+ESTC,Elastic NV,소프트웨어 및 IT서비스,572010
+DVA,DaVita Inc,헬스케어 업체 및 서비스,561020
+AVLR,Avalara Inc,소프트웨어 및 IT서비스,572010
+NTCO,Natura & Co Holding SA ADR,"개인, 가정 용품 및 서비스",542010
+BKI,Black Knight Inc,소프트웨어 및 IT서비스,572010
+CRL,Charles River Laboratories International Inc,생명과학 및 메디컬 리서치,562020
+AI,C3Ai Inc Class A,소프트웨어 및 IT서비스,572010
+MOH,Molina Healthcare Inc,헬스케어 업체 및 서비스,561020
+CVE,Cenovus Energy Inc,오일 및 가스,501020
+SNP,China Petroleum & Chemical Corp ADR,오일 및 가스,501020
+L,Loews Corp,보험,553010
+OSH,Oak Street Health Inc,헬스케어 업체 및 서비스,561020
+BRO,Brown & Brown Inc,보험,553010
+CHGG,Chegg Inc,전문 및 상업 서비스,522030
+CCK,Crown Holdings Inc,용기 및 포장,513020
+JHX,James Hardie Industries PLC ADR,건축 자재,512020
+SJM,J M Smucker Co,식품 및 담배,541020
+IFF,International Flavors & Fragrances Inc,식품 및 담배,541020
+LN,Line Corp ADR,소프트웨어 및 IT서비스,572010
+BAH,Booz Allen Hamilton Holding Corp Class A,소프트웨어 및 IT서비스,572010
+TEVA,Teva Pharmaceutical Industries Ltd ADR,제약,562010
+BEP,Brookfield Renewable Partners LP Unit,전기 유틸리티,591010
+GGG,Graco Inc,"건설장비 및 대형차, 기차, 배",521020
+LB,L Brands Inc,전문품 상점,534030
+SMG,Scotts Miracle-Gro Co,화학,511010
+LUMN,Centurylink Inc,통신 서비스,574010
+NI PR B,NiSource Inc ADR,복합 유틸리티,591040
+FBHS,Fortune Brands Home & Security Inc,주택건설,532030
+EQH,Equitable Holdings Inc,투자은행 및 서비스,551020
+HWM,Howmet Aerospace Inc,우주항공 및 국방,521010
+WRK,Westrock Co,용기 및 포장,513020
+ENIA,Enel Americas SA ADR,전기 유틸리티,591010
+QGEN,Qiagen NV,생명과학 및 메디컬 리서치,562020
+FDS,Factset Research Systems Inc,전문 및 상업 서비스,522030
+MPW,Medical Properties Trust Inc,주택 및 상업용 리츠,601020
+IHG,InterContinental Hotels Group PLC ADR,호텔 및 엔터테인먼트,533010
+EVRG,Evergy Inc,전기 유틸리티,591010
+WHR,Whirlpool Corp,가정용품,532040
+DT,Dynatrace Inc,소프트웨어 및 IT서비스,572010
+RDY,Dr.Reddy's Laboratories Ltd ADR,제약,562010
+CABO,Cable One Inc,통신 서비스,574010
+ARES,Ares Management Corp Class A,투자은행 및 서비스,551020
+WRB,W. R. Berkley Corp,보험,553010
+BF.A,Brown-Forman Corp Class A,음료,541010
+WPC,WP Carey Inc,주택 및 상업용 리츠,601020
+MTN,Vail Resorts Inc,호텔 및 엔터테인먼트,533010
+ATHM,Autohome Inc ADR,미디어 및 출판,533020
+NLY,Annaly Capital Management Inc,주택 및 상업용 리츠,601020
+FNF,Fidelity National Financial Inc,보험,553010
+TXT,Textron Inc,우주항공 및 국방,521010
+AAP,Advance Auto Parts Inc,전문품 상점,534030
+LW,Lamb Weston Holdings Inc,식품 및 담배,541020
+UDR,UDR Inc,주택 및 상업용 리츠,601020
+PHM,Pultegroup Inc,주택건설,532030
+CNP,CenterPoint Energy Inc,복합 유틸리티,591040
+UHS,Universal Health Services Inc Class B,헬스케어 업체 및 서비스,561020
+BCH,Banco de Chile ADR,은행,551010
+RPM,RPM International Inc,화학,511010
+WTRG,Essential Utilities Inc,수도 유틸리티,591030
+SAM,Boston Beer Company Inc Class A,음료,541010
+WLK,Westlake Chemical Corp,화학,511010
+SBSW,Sibanye Stillwater Ltd ADR,메탈&마이닝,512010
+KL,Kirkland Lake Gold Ltd,메탈&마이닝,512010
+ATO,Atmos Energy Corp,천연가스 유틸리티,591020
+XPO,XPO Logistics Inc,화물 및 물류 서비스,524050
+MOS,Mosaic Co,화학,511010
+FND,Floor & Decor Holdings Inc Class A,전문품 상점,534030
+LII,Lennox International Inc,"건설장비 및 대형차, 기차, 배",521020
+CNA,CNA Financial Corp,보험,553010
+ELS,Equity LifeStyle Properties Inc,주택 및 상업용 리츠,601020
+DNB,Dun & Bradstreet Holdings Inc,전문 및 상업 서비스,522030
+MHK,Mohawk Industries Inc,가정용품,532040
+DAR,Darling Ingredients Inc,식품 및 담배,541020
+TTC,Toro Co,"건설장비 및 대형차, 기차, 배",521020
+PWR,Quanta Services Inc,건설 및 엔지니어링,522010
+TAP,Molson Coors Beverage Co Class B,음료,541010
+ALLE,Allegion PLC,커뮤니케이션 및 네트워킹,571020
+TREX,Trex Company Inc,주택건설,532030
+RH,RH,전문품 상점,534030
+GWRE,Guidewire Software Inc,소프트웨어 및 IT서비스,572010
+BSAC,Banco Santander-Chile ADR,은행,551010
+BILL,Bill.com Holdings Inc,소프트웨어 및 IT서비스,572010
+TTM,Tata Motors Ltd ADR,자동차 및 자동차 부품,531010
+VST,Vistra Corp,전기 유틸리티,591010
+FSLY,Fastly Inc Class A,소프트웨어 및 IT서비스,572010
+TECK,Teck Resources Ltd Class B,메탈&마이닝,512010
+MMP,Magellan Midstream Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+TS,Tenaris SA ADR,오일 및 가스 장비 및 서비스,501030
+LNC,Lincoln National Corp,보험,553010
+GL,Globe Life Inc,보험,553010
+BG,Bunge Ltd,식품 및 담배,541020
+AQN,Algonquin Power & Utilities Corp,복합 유틸리티,591040
+PLAN,Anaplan Inc,소프트웨어 및 IT서비스,572010
+HEI.A,HEICO Corp Class A,우주항공 및 국방,521010
+LEA,Lear Corp,자동차 및 자동차 부품,531010
+SID,Companhia Siderurgica Nacional ADR,메탈&마이닝,512010
+NRG,NRG Energy Inc,전기 유틸리티,591010
+GFL,GFL Environmental Inc,전문 및 상업 서비스,522030
+PNR,Pentair PLC,"건설장비 및 대형차, 기차, 배",521020
+IPG,Interpublic Group of Companies Inc,미디어 및 출판,533020
+CF,CF Industries Holdings Inc,화학,511010
+BWA,Borgwarner Inc,자동차 및 자동차 부품,531010
+CPT,Camden Property Trust,주택 및 상업용 리츠,601020
+SKLZ,Skillz Inc Class A,기타 금융업,556010
+WSM,Williams-Sonoma Inc,전문품 상점,534030
+AU,AngloGold Ashanti Ltd ADR,메탈&마이닝,512010
+DLB,Dolby Laboratories Inc Class A,미디어 및 출판,533020
+LMND,Lemonade Inc,보험,553010
+FVRR,Fiverr International Ltd,소프트웨어 및 IT서비스,572010
+TPR,Tapestry Inc,전문품 상점,534030
+NVTA,Invitae Corp,생명과학 및 메디컬 리서치,562020
+BFAM,Bright Horizons Family Solutions Inc,"개인, 가정 용품 및 서비스",542010
+RE,Everest Re Group Ltd,보험,553010
+BHC,Bausch Health Companies Inc,제약,562010
+CX,Cemex SAB de CV ADR,건축 자재,512020
+ARMK,Aramark,호텔 및 엔터테인먼트,533010
+WEX,WEX Inc,전문 및 상업 서비스,522030
+AMH,American Homes 4 Rent Class A,주택 및 상업용 리츠,601020
+IVZ,Invesco Ltd,투자은행 및 서비스,551020
+AOS,A. O. Smith Corp,"건설장비 및 대형차, 기차, 배",521020
+SNA,Snap-On Inc,"건설장비 및 대형차, 기차, 배",521020
+CMA,Comerica Inc,은행,551010
+DECK,Deckers Outdoor Corp,섬유 및 의류,532020
+KGC,Kinross Gold Corp,메탈&마이닝,512010
+MNSO,MINISO Group Holding Ltd ADR,다양한 소매업,534020
+OC,Owens Corning,주택건설,532030
+ATR,Aptargroup Inc,용기 및 포장,513020
+VEDL,Vedanta Ltd ADR,메탈&마이닝,512010
+HUBB,Hubbell Inc,"건설장비 및 대형차, 기차, 배",521020
+WU,Western Union Co,전문 및 상업 서비스,522030
+LSPD,Lightspeed POS Inc,소프트웨어 및 IT서비스,572010
+EBR,Centrais Eletricas Brasileiras SA ADR,전기 유틸리티,591010
+ST,Sensata Technologies Holding PLC,전자 장비 및 부품,571040
+ATH,Athene Holding Ltd Class A,보험,553010
+AGCO,AGCO Corp,"건설장비 및 대형차, 기차, 배",521020
+OCFT,OneConnect Financial Technology Co Ltd ADR,핀테크,573010
+IRM,Iron Mountain Inc,주택 및 상업용 리츠,601020
+Y,Alleghany Corp,보험,553010
+PNW,Pinnacle West Capital Corp,전기 유틸리티,591010
+SCI,Service Corporation International,"개인, 가정 용품 및 서비스",542010
+AEG,Aegon NV ADR,보험,553010
+LEVI,Levi Strauss & Co Class A,섬유 및 의류,532020
+SMAR,Smartsheet Inc Class A,소프트웨어 및 IT서비스,572010
+FHN,First Horizon Corp (Tennessee),은행,551010
+SJR,Shaw Communications Inc Class B,통신 서비스,574010
+LAD,Lithia Motors Inc Class A,전문품 상점,534030
+PEN,Penumbra Inc,헬스케어 장비 및 용품,561010
+CIEN,Ciena Corp,커뮤니케이션 및 네트워킹,571020
+RS,Reliance Steel & Aluminum Co,메탈&마이닝,512010
+NI,NiSource Inc,복합 유틸리티,591040
+GPS,Gap Inc,전문품 상점,534030
+RNR,Renaissancere Holdings Ltd,보험,553010
+NCLH,Norwegian Cruise Line Holdings Ltd,호텔 및 엔터테인먼트,533010
+CHE,Chemed Corp,헬스케어 업체 및 서비스,561020
+EV,Eaton Vance Corp,투자은행 및 서비스,551020
+CSL,Carlisle Companies Inc,복합 기업,544010
+GLOB,Globant SA,소프트웨어 및 IT서비스,572010
+MBT,Mobil'nye Telesistemy PAO ADR,통신 서비스,574010
+AYX,Alteryx Inc Class A,소프트웨어 및 IT서비스,572010
+NYT,New York Times Co Class A,미디어 및 출판,533020
+IAA,IAA Inc,전문품 상점,534030
+EHC,Encompass Health Corp,헬스케어 업체 및 서비스,561020
+AIZ,Assurant Inc,보험,553010
+RL,Ralph Lauren Corp Class A,섬유 및 의류,532020
+STOR,STORE Capital Corp,주택 및 상업용 리츠,601020
+ACM,AECOM,건설 및 엔지니어링,522010
+ACI,Albertsons Companies Inc Class A,식품 및 약품소매,543010
+GFI,Gold Fields Ltd ADR,메탈&마이닝,512010
+OHI,Omega Healthcare Investors Inc,주택 및 상업용 리츠,601020
+NLSN,Nielsen Holdings PLC,미디어 및 출판,533020
+JNPR,Juniper Networks Inc,커뮤니케이션 및 네트워킹,571020
+USFD,US Foods Holding Corp,식품 및 약품소매,543010
+ALV,Autoliv Inc,자동차 및 자동차 부품,531010
+ARW,Arrow Electronics Inc,반도체 및 반도체 장비,571010
+CAE,CAE Inc,비즈니스교육,631030
+RGA,Reinsurance Group of America Inc,보험,553010
+VER,VEREIT Inc,주택 및 상업용 리츠,601020
+DVN,Devon Energy Corp,오일 및 가스,501020
+G,Genpact Ltd,전문 및 상업 서비스,522030
+SPCE,Virgin Galactic Holdings Inc Class A,우주항공 및 국방,521010
+AFG,American Financial Group Inc,보험,553010
+UGI,UGI Corp,천연가스 유틸리티,591020
+COG,Cabot Oil & Gas Corp,오일 및 가스,501020
+WSO,Watsco Inc,"건설장비 및 대형차, 기차, 배",521020
+JLL,Jones Lang LaSalle Inc,부동산 운영 관리,601010
+SITE,SiteOne Landscape Supply Inc,식품 및 담배,541020
+VOYA,Voya Financial Inc,투자은행 및 서비스,551020
+DCI,Donaldson Company Inc,전문 및 상업 서비스,522030
+KNX,Knight-Swift Transportation Holdings Inc Class A,화물 및 물류 서비스,524050
+HEI,HEICO Corp,우주항공 및 국방,521010
+RHI,Robert Half International Inc,전문 및 상업 서비스,522030
+HST,Host Hotels & Resorts Inc,주택 및 상업용 리츠,601020
+DXC,DXC Technology Co,소프트웨어 및 IT서비스,572010
+H,Hyatt Hotels Corp Class A,호텔 및 엔터테인먼트,533010
+ADT,ADT Inc,커뮤니케이션 및 네트워킹,571020
+WAL,Western Alliance Bancorp,은행,551010
+VNO,Vornado Realty Trust,주택 및 상업용 리츠,601020
+CLF,Cleveland-Cliffs Inc,메탈&마이닝,512010
+OMF,OneMain Holdings Inc,은행,551010
+SSL,Sasol Ltd ADR,화학,511010
+CLR,Continental Resources Inc,오일 및 가스,501020
+PVH,PVH Corp,섬유 및 의류,532020
+KSS,Kohls Corp,다양한 소매업,534020
+BERY,Berry Global Group Inc,용기 및 포장,513020
+PTR,PetroChina Co Ltd ADR,오일 및 가스,501020
+SC,Santander Consumer USA Holdings Inc,은행,551010
+TRGP,Targa Resources Corp,오일 및 가스 장비 및 서비스,501030
+PLNT,Planet Fitness Inc Class A,호텔 및 엔터테인먼트,533010
+KIM,Kimco Realty Corp,주택 및 상업용 리츠,601020
+AXTA,Axalta Coating Systems Ltd,화학,511010
+PSXP,Phillips 66 Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+ITT,ITT Inc,"건설장비 및 대형차, 기차, 배",521020
+WES,Western Midstream Partners LP Unit,오일 및 가스,501020
+QTWO,Q2 Holdings Inc,소프트웨어 및 IT서비스,572010
+COLD,Americold Realty Trust,주택 및 상업용 리츠,601020
+ICL,Icl Group Ltd,화학,511010
+BC,Brunswick Corp,레저 상품,532050
+PSO,Pearson PLC ADR,미디어 및 출판,533020
+GRUB,GrubHub Inc,소프트웨어 및 IT서비스,572010
+HII,Huntington Ingalls Industries Inc,우주항공 및 국방,521010
+SQM,Sociedad Quimica y Minera de Chile SA ADR,화학,511010
+LPL,LG Display Co Ltd ADR,전자 장비 및 부품,571040
+TMX,Terminix Global Holdings Inc,전문 및 상업 서비스,522030
+SEE,Sealed Air Corp,용기 및 포장,513020
+ALK,Alaska Air Group Inc,운송업,524060
+MRO,Marathon Oil Corp,오일 및 가스,501020
+JBL,Jabil Inc,전자 장비 및 부품,571040
+PFGC,Performance Food Group Co,식품 및 약품소매,543010
+NNN,National Retail Properties Inc,주택 및 상업용 리츠,601020
+RBA,Ritchie Bros. Auctioneers Inc,전문 및 상업 서비스,522030
+HRC,Hill-Rom Holdings Inc,헬스케어 장비 및 용품,561010
+KRC,Kilroy Realty Corp,주택 및 상업용 리츠,601020
+YETI,Yeti Holdings Inc,레저 상품,532050
+AMWL,American Well Corp Class A,소프트웨어 및 IT서비스,572010
+JEF,Jefferies Financial Group Inc,투자은행 및 서비스,551020
+WF,Woori Financial Group Inc ADR,은행,551010
+BLD,TopBuild Corp,건설 및 엔지니어링,522010
+AN,AutoNation Inc,전문품 상점,534030
+PHI,PLDT Inc ADR,통신 서비스,574010
+TPL,Texas Pacific Land Corp,,
+HLF,Herbalife Nutrition Ltd,식품 및 담배,541020
+CUBE,CubeSmart,주택 및 상업용 리츠,601020
+PII,Polaris Inc,레저 상품,532050
+CPRI,Capri Holdings Ltd,전문품 상점,534030
+FRT,Federal Realty Investment Trust,주택 및 상업용 리츠,601020
+HAE,Haemonetics Corp,헬스케어 장비 및 용품,561010
+TIMB,Tim SA ADR,통신 서비스,574010
+POST,Post Holdings Inc,식품 및 담배,541020
+PB,Prosperity Bancshares Inc,은행,551010
+OSK,Oshkosh Corp,"건설장비 및 대형차, 기차, 배",521020
+BE,Bloom Energy Corp Class A,"건설장비 및 대형차, 기차, 배",521020
+TKR,Timken Co,"건설장비 및 대형차, 기차, 배",521020
+GMED,Globus Medical Inc Class A,헬스케어 장비 및 용품,561010
+WMS,Advanced Drainage Systems Inc,주택건설,532030
+AZEK,Azek Company Inc Class A,주택건설,532030
+JHG,Janus Henderson Group PLC,투자은행 및 서비스,551020
+PSTG,Pure Storage Inc Class A,"컴퓨터, 전화 및 가전제품",571060
+HESM,Hess Midstream Operations LP Class A,오일 및 가스 장비 및 서비스,501030
+ORA,Ormat Technologies Inc,전기 유틸리티,591010
+HOG,Harley-Davidson Inc,자동차 및 자동차 부품,531010
+HUN,Huntsman Corp,화학,511010
+TX,Ternium SA ADR,메탈&마이닝,512010
+CFR,Cullen/Frost Bankers Inc,은행,551010
+HTA,Healthcare Trust Of America Inc Class A,주택 및 상업용 리츠,601020
+VRT,Vertiv Holdings Co Class A,"건설장비 및 대형차, 기차, 배",521020
+MSA,MSA Safety Inc,전문 및 상업 서비스,522030
+OGE,OGE Energy Corp,전기 유틸리티,591010
+CACI,CACI International Inc Class A,소프트웨어 및 IT서비스,572010
+PRGO,Perrigo Company PLC,제약,562010
+REXR,Rexford Industrial Realty Inc,주택 및 상업용 리츠,601020
+NVRO,Nevro Corp,헬스케어 장비 및 용품,561010
+SON,Sonoco Products Co,용기 및 포장,513020
+VNT,Vontier Corp,"건설장비 및 대형차, 기차, 배",521020
+NOV,Nov Inc,오일 및 가스 장비 및 서비스,501030
+CHH,Choice Hotels International Inc,호텔 및 엔터테인먼트,533010
+AER,AerCap Holdings NV,전문 및 상업 서비스,522030
+GGB,Gerdau SA ADR,메탈&마이닝,512010
+MTZ,MasTec Inc,건설 및 엔지니어링,522010
+DKS,Dick's Sporting Goods Inc,전문품 상점,534030
+JWN,Nordstrom Inc,다양한 소매업,534020
+NEP,Nextera Energy Partners LP Unit,전기 유틸리티,591010
+PSTH,Pershing Square Tontine Holdings Ltd Class A,기타 금융업,556010
+ACC,American Campus Communities Inc,주택 및 상업용 리츠,601020
+FOUR,Shift4 Payments Inc Class A,전문 및 상업 서비스,522030
+ASAN,Asana Inc Class A,소프트웨어 및 IT서비스,572010
+TPX,Tempur Sealy International Inc,가정용품,532040
+MDLA,Medallia Inc,소프트웨어 및 IT서비스,572010
+SKX,Skechers USA Inc Class A,섬유 및 의류,532020
+FAF,First American Financial Corp,보험,553010
+ENIC,Enel Chile SA ADR,전기 유틸리티,591010
+LSI,Life Storage Inc,주택 및 상업용 리츠,601020
+BWXT,BWX Technologies Inc,우주항공 및 국방,521010
+LEG,Leggett & Platt Inc,가정용품,532040
+THO,Thor Industries Inc,레저 상품,532050
+WH,Wyndham Hotels & Resorts Inc,호텔 및 엔터테인먼트,533010
+CLGX,Corelogic Inc,전문 및 상업 서비스,522030
+WFC PR L,Wells Fargo & Co PRF,은행,551010
+VAC,Marriott Vacations Worldwide Corp,호텔 및 엔터테인먼트,533010
+BBU,Brookfield Business Partners LP Unit,건설 및 엔지니어링,522010
+SNV,Synovus Financial Corp,은행,551010
+AIRC,Apartment Income REIT Corp,주택 및 상업용 리츠,601020
+ORI,Old Republic International Corp,보험,553010
+INSP,Inspire Medical Systems Inc,헬스케어 장비 및 용품,561010
+SAIC,Science Applications International Corp,소프트웨어 및 IT서비스,572010
+RAMP,Liveramp Holdings Inc,소프트웨어 및 IT서비스,572010
+NVST,Envista Holdings Corp,헬스케어 장비 및 용품,561010
+EBS,Emergent BioSolutions Inc,제약,562010
+SBS,Companhia de Saneamento Basico do Estado de Sao Paulo SABESP ADR,수도 유틸리티,591030
+MDU,MDU Resources Group Inc,복합 유틸리티,591040
+TNET,TriNet Group Inc,전문 및 상업 서비스,522030
+FTI,TechnipFMC PLC,오일 및 가스 장비 및 서비스,501030
+EVR,Evercore Inc Class A,투자은행 및 서비스,551020
+RBC,Regal Beloit Corp,"건설장비 및 대형차, 기차, 배",521020
+TOL,Toll Brothers Inc,주택건설,532030
+BJ,BJ's Wholesale Club Holdings Inc,다양한 소매업,534020
+GIL,Gildan Activewear Inc,섬유 및 의류,532020
+BYD,Boyd Gaming Corp,호텔 및 엔터테인먼트,533010
+HBI,HanesBrands Inc,섬유 및 의류,532020
+BHVN,Biohaven Pharmaceutical Holding Company Ltd,생명과학 및 메디컬 리서치,562020
+COTY,Coty Inc Class A,"개인, 가정 용품 및 서비스",542010
+CCJ,Cameco Corp,우라늄,503010
+MAN,ManpowerGroup Inc,전문 및 상업 서비스,522030
+ESNT,Essent Group Ltd,보험,553010
+EME,EMCOR Group Inc,건설 및 엔지니어링,522010
+RXN,Rexnord Corp,"건설장비 및 대형차, 기차, 배",521020
+STWD,Starwood Property Trust Inc,주택 및 상업용 리츠,601020
+PRI,Primerica Inc,보험,553010
+EGP,Eastgroup Properties Inc,주택 및 상업용 리츠,601020
+PAC,Grupo Aeroportuario del Pacifico SAB de CV ADR,운송 인프라,524070
+SF,Stifel Financial Corp,투자은행 및 서비스,551020
+FR,First Industrial Realty Trust Inc,주택 및 상업용 리츠,601020
+KT,KT Corp ADR,통신 서비스,574010
+DM,Desktop Metal Inc Class A,전자 장비 및 부품,571040
+INGR,Ingredion Inc,식품 및 담배,541020
+LAZ,Lazard Ltd Class A,투자은행 및 서비스,551020
+HUYA,HUYA Inc ADR,소프트웨어 및 IT서비스,572010
+ELC,Entergy Louisiana LLC PRF,전기 유틸리티,591010
+DQ,Daqo New Energy Corp ADR,재생에너지,502010
+ASH,Ashland Global Holdings Inc.,화학,511010
+SAIL,SailPoint Technologies Holdings Inc,소프트웨어 및 IT서비스,572010
+PAG,Penske Automotive Group Inc,전문품 상점,534030
+MP,Mp Materials Corp Class A,메탈&마이닝,512010
+UNM,Unum Group,보험,553010
+NYCB,New York Community Bancorp Inc,은행,551010
+COR,CoreSite Realty Corp,주택 및 상업용 리츠,601020
+AL,Air Lease Corp Class A,전문 및 상업 서비스,522030
+BB,BlackBerry Ltd,소프트웨어 및 IT서비스,572010
+MPLN,Multiplan Corp Class A,기타 금융업,556010
+ORCC,Owl Rock Capital Corp,투자은행 및 서비스,551020
+AUY,Yamana Gold Inc,메탈&마이닝,512010
+ASR,Grupo Aeroportuario del Sureste SAB de CV ADR,운송 인프라,524070
+DEI,Douglas Emmett Inc,주택 및 상업용 리츠,601020
+XEC,Cimarex Energy Co,오일 및 가스,501020
+KMPR,Kemper Corp,보험,553010
+AMG,Affiliated Managers Group Inc,투자은행 및 서비스,551020
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,주택 및 상업용 리츠,601020
+STZ.B,Constellation Brands Inc Class B,음료,541010
+FLS,Flowserve Corp,"건설장비 및 대형차, 기차, 배",521020
+CUZ,Cousins Properties Inc,주택 및 상업용 리츠,601020
+BRX,Brixmor Property Group Inc,주택 및 상업용 리츠,601020
+KWR,Quaker Chemical Corp,화학,511010
+TKC,Turkcell Iletisim Hizmetleri AS ADR,통신 서비스,574010
+DCP,DCP Midstream LP Unit,오일 및 가스 장비 및 서비스,501030
+UGP,Ultrapar Participacoes SA ADR,오일 및 가스,501020
+TV,Grupo Televisa SAB ADR,미디어 및 출판,533020
+THC,Tenet Healthcare Corp,헬스케어 업체 및 서비스,561020
+HLI,Houlihan Lokey Inc Class A,투자은행 및 서비스,551020
+EQT,EQT Corp,오일 및 가스,501020
+FL,Foot Locker Inc,전문품 상점,534030
+TFII,TFI International Inc,화물 및 물류 서비스,524050
+VVNT,Vivint Smart Home Inc Class A,커뮤니케이션 및 네트워킹,571020
+CW,Curtiss-Wright Corp,우주항공 및 국방,521010
+X,United States Steel Corp,메탈&마이닝,512010
+NOVA,Sunnova Energy International Inc,재생에너지,502010
+STAG,STAG Industrial Inc,주택 및 상업용 리츠,601020
+NEWR,New Relic Inc,소프트웨어 및 IT서비스,572010
+ASGN,ASGN Inc,소프트웨어 및 IT서비스,572010
+RSI,Rush Street Interactive Inc Class A,호텔 및 엔터테인먼트,533010
+SWI,SolarWinds Corp,소프트웨어 및 IT서비스,572010
+CR,Crane Co,"건설장비 및 대형차, 기차, 배",521020
+SHAK,Shake Shack Inc Class A,호텔 및 엔터테인먼트,533010
+GPK,Graphic Packaging Holding Co,용기 및 포장,513020
+CCIV.U,Churchill Capital IV Corp,기타 금융업,556010
+HFC,HollyFrontier Corp,오일 및 가스,501020
+WK,Workiva Inc Class A,소프트웨어 및 IT서비스,572010
+WBS,Webster Financial Corp,은행,551010
+CFX,Colfax Corp,"건설장비 및 대형차, 기차, 배",521020
+ESI,Element Solutions Inc,화학,511010
+FLO,Flowers Foods Inc,식품 및 담배,541020
+PRLB,Proto Labs Inc,"건설장비 및 대형차, 기차, 배",521020
+MMS,Maximus Inc,전문 및 상업 서비스,522030
+EXP,Eagle Materials Inc,건축 자재,512020
+ALSN,Allison Transmission Holdings Inc,"건설장비 및 대형차, 기차, 배",521020
+AA,Alcoa Corp,메탈&마이닝,512010
+MSM,MSC Industrial Direct Co Inc Class A,"건설장비 및 대형차, 기차, 배",521020
+OVV,Ovintiv Inc,오일 및 가스,501020
+NEU,NewMarket Corp,화학,511010
+RLI,Rli Corp,보험,553010
+HHC,Howard Hughes Corp,부동산 운영 관리,601010
+MTG,MGIC Investment Corp,보험,553010
+SHLX,Shell Midstream Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+XRX,Xerox Holdings Corp,사무기기,571050
+ENV,Envestnet Inc,소프트웨어 및 IT서비스,572010
+KBR,KBR Inc,소프트웨어 및 IT서비스,572010
+CLH,Clean Harbors Inc,전문 및 상업 서비스,522030
+CLDR,Cloudera Inc,전문 및 상업 서비스,522030
+IDA,Idacorp Inc,전기 유틸리티,591010
+NOMD,Nomad Foods Ltd,식품 및 담배,541020
+SLG,SL Green Realty Corp,주택 및 상업용 리츠,601020
+CZZ,Cosan Ltd Class A,오일 및 가스,501020
+CIB,Bancolombia SA ADR,은행,551010
+CCIV,Churchill Capital IV Corp Class A,기타 금융업,556010
+CC,Chemours Co,화학,511010
+THG,Hanover Insurance Group Inc,보험,553010
+NCR,NCR Corp,소프트웨어 및 IT서비스,572010
+BAC PR L,Bank of America Corp Convertible Preference Shares Series L,은행,551010
+VMI,Valmont Industries Inc,건설 및 엔지니어링,522010
+SNX,SYNNEX Corp,"컴퓨터, 전화 및 가전제품",571060
+VVV,Valvoline Inc,화학,511010
+WTS,Watts Water Technologies Inc Class A,"건설장비 및 대형차, 기차, 배",521020
+SSD,Simpson Manufacturing Co Inc,주택건설,532030
+NAV,Navistar International Corp,"건설장비 및 대형차, 기차, 배",521020
+FSR,Fisker Inc Class A,기타 금융업,556010
+AXS,AXIS Capital Holdings Ltd,보험,553010
+WCC,Wesco International Inc,"건설장비 및 대형차, 기차, 배",521020
+CRI,Carter's Inc,전문품 상점,534030
+ARD,Ardagh Group SA Class A,용기 및 포장,513020
+DAVA,Endava PLC ADR,소프트웨어 및 IT서비스,572010
+M,Macy's Inc,다양한 소매업,534020
+OLN,Olin Corp,화학,511010
+CWEN,Clearway Energy Inc Class C,전기 유틸리티,591010
+AYI,Acuity Brands Inc,주택건설,532030
+SPR,Spirit AeroSystems Holdings Inc Class A,우주항공 및 국방,521010
+MSP,Datto Holding Corp,소프트웨어 및 IT서비스,572010
+PK,Park Hotels & Resorts Inc,주택 및 상업용 리츠,601020
+RYN,Rayonier Inc,주택 및 상업용 리츠,601020
+MSGS,Madison Square Garden Sports Corp Class A,미디어 및 출판,533020
+APAM,Artisan Partners Asset Management Inc Class A,투자은행 및 서비스,551020
+RDN,Radian Group Inc,보험,553010
+IIPR,Innovative Industrial Properties Inc,주택 및 상업용 리츠,601020
+LPX,Louisiana-Pacific Corp,종이 및 임산물,513010
+JBGS,JBG SMITH Properties,주택 및 상업용 리츠,601020
+NVT,nVent Electric PLC,"건설장비 및 대형차, 기차, 배",521020
+PRSP,Perspecta Inc,소프트웨어 및 IT서비스,572010
+NEA,Nuveen Amt-Free Quality Municipal Income Fund,다양한 금융서비스,555010
+HIW,Highwoods Properties Inc,주택 및 상업용 리츠,601020
+PFSI,PennyMac Financial Services Inc,은행,551010
+PNM,PNM Resources Inc,전기 유틸리티,591010
+UNF,UniFirst Corp,전문 및 상업 서비스,522030
+HXL,Hexcel Corp,우주항공 및 국방,521010
+JBT,John Bean Technologies Corp,"건설장비 및 대형차, 기차, 배",521020
+GTES,Gates Industrial Corporation PLC,"건설장비 및 대형차, 기차, 배",521020
+UAA,Under Armour Inc Class A,섬유 및 의류,532020
+SRC,Spirit Realty Capital Inc,주택 및 상업용 리츠,601020
+STL,Sterling Bancorp,은행,551010
+WYND,Wyndham Destinations Inc,호텔 및 엔터테인먼트,533010
+FCN,FTI Consulting Inc,전문 및 상업 서비스,522030
+AM,Antero Midstream Corp,오일 및 가스 장비 및 서비스,501030
+HR,Healthcare Realty Trust Inc,주택 및 상업용 리츠,601020
+AVNT,Avient Corp,화학,511010
+IFS,Intercorp Financial Services Inc,은행,551010
+AWI,Armstrong World Industries Inc,주택건설,532030
+SNDR,Schneider National Inc Class B,화물 및 물류 서비스,524050
+AJRD,Aerojet Rocketdyne Holdings Inc,우주항공 및 국방,521010
+WWE,World Wrestling Entertainment Inc Class A,미디어 및 출판,533020
+SWCH,Switch Inc Class A,"컴퓨터, 전화 및 가전제품",571060
+NFG,National Fuel Gas Co,천연가스 유틸리티,591020
+NRZ,New Residential Investment Corp,주택 및 상업용 리츠,601020
+DDD,3D Systems Corp,"컴퓨터, 전화 및 가전제품",571060
+CBD,Companhia Brasileira de Distribuicao ADR,식품 및 약품소매,543010
+BXMT,Blackstone Mortgage Trust Inc Class A,주택 및 상업용 리츠,601020
+PRG,PROG Holdings Inc,전문품 상점,534030
+SAFE,Safehold Inc,주택 및 상업용 리츠,601020
+SEM,Select Medical Holdings Corp,헬스케어 업체 및 서비스,561020
+ADC,Agree Realty Corp,주택 및 상업용 리츠,601020
+PSN,Parsons Corp,소프트웨어 및 IT서비스,572010
+CNNE,Cannae Holdings Inc,호텔 및 엔터테인먼트,533010
+CIT,CIT Group Inc,은행,551010
+EGHT,8x8 Inc,커뮤니케이션 및 네트워킹,571020
+STN,Stantec Inc,건설 및 엔지니어링,522010
+GKOS,Glaukos Corp,헬스케어 장비 및 용품,561010
+GRA,W R Grace & Co,화학,511010
+QTS,QTS Realty Trust Inc Class A,주택 및 상업용 리츠,601020
+ENS,EnerSys,"건설장비 및 대형차, 기차, 배",521020
+AEO,American Eagle Outfitters Inc,전문품 상점,534030
+PD,PagerDuty Inc,소프트웨어 및 IT서비스,572010
+HPP,Hudson Pacific Properties Inc,주택 및 상업용 리츠,601020
+BKH,Black Hills Corp,복합 유틸리티,591040
+RHP,Ryman Hospitality Properties Inc,주택 및 상업용 리츠,601020
+POR,Portland General Electric Co,전기 유틸리티,591010
+JMIA,Jumia Technologies AG ADR,소프트웨어 및 IT서비스,572010
+OGS,ONE Gas Inc,천연가스 유틸리티,591020
+TRNO,Terreno Realty Corp,주택 및 상업용 리츠,601020
+ETRN,Equitrans Midstream Corp,오일 및 가스 장비 및 서비스,501030
+GOOS,Canada Goose Holdings Inc,섬유 및 의류,532020
+IGT,International Game Technology PLC,호텔 및 엔터테인먼트,533010
+ADS,Alliance Data Systems Corp,전문 및 상업 서비스,522030
+UA,Under Armour Inc Class C,섬유 및 의류,532020
+LCII,LCI Industries,레저 상품,532050
+R,Ryder System Inc,화물 및 물류 서비스,524050
+SLQT,SelectQuote Inc,보험,553010
+DOC,Physicians Realty Trust,주택 및 상업용 리츠,601020
+BKU,BankUnited Inc,은행,551010
+BCO,Brinks Co,전문 및 상업 서비스,522030
+FNB,F.N.B. Corp,은행,551010
+HE,Hawaiian Electric Industries Inc,전기 유틸리티,591010
+PSB,PS Business Parks Inc,주택 및 상업용 리츠,601020
+CBU,Community Bank System Inc,은행,551010
+REZI,Resideo Technologies Inc,"건설장비 및 대형차, 기차, 배",521020
+NJR,New Jersey Resources Corp,천연가스 유틸리티,591020
+BSMX,Banco Santander Mexico SA Institucion de Banca Multiple Grupo Financiero Santand,은행,551010
+UNVR,Univar Solutions Inc,화학,511010
+AQUA,Evoqua Water Technologies Corp,전문 및 상업 서비스,522030
+MFG,Mizuho Financial Group Inc ADR,은행,551010
+ALE,ALLETE Inc,전기 유틸리티,591010
+CNS,Cohen & Steers Inc,투자은행 및 서비스,551020
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,다양한 금융서비스,555010
+MUSA,Murphy Usa Inc,오일 및 가스,501020
+MC,Moelis & Co Class A,투자은행 및 서비스,551020
+KEX,Kirby Corp,화물 및 물류 서비스,524050
+CPA,Copa Holdings SA Class A,운송업,524060
+TRTN,Triton International Ltd,전문 및 상업 서비스,522030
+SPB,Spectrum Brands Holdings Inc,가정용품,532040
+CMD,Cantel Medical Corp,헬스케어 장비 및 용품,561010
+GRP.U,Granite Real Estate Investment Trust Stapled Securities,주택 및 상업용 리츠,601020
+ADNT,Adient PLC,자동차 및 자동차 부품,531010
+BMEZ,BlackRock Health Sciences Trust II,다양한 금융서비스,555010
+AB,AllianceBernstein Holding LP Unit,투자은행 및 서비스,551020
+SWX,Southwest Gas Holdings Inc,천연가스 유틸리티,591020
+CNMD,Conmed Corp,헬스케어 장비 및 용품,561010
+BOH,Bank of Hawaii Corp,은행,551010
+AMN,AMN Healthcare Services Inc,헬스케어 업체 및 서비스,561020
+EQC,Equity Commonwealth,주택 및 상업용 리츠,601020
+VSH,Vishay Intertechnology Inc,반도체 및 반도체 장비,571010
+HI,Hillenbrand Inc,"건설장비 및 대형차, 기차, 배",521020
+IBP,Installed Building Products Inc,건설 및 엔지니어링,522010
+WNS,WNS (Holdings) Ltd ADR,전문 및 상업 서비스,522030
+BRFS,BRF SA ADR,식품 및 담배,541020
+ARNC,Arconic Corp (PITTSBURGH),메탈&마이닝,512010
+KMT,Kennametal Inc,"건설장비 및 대형차, 기차, 배",521020
+AIT,Applied Industrial Technologies Inc,"건설장비 및 대형차, 기차, 배",521020
+CNO,CNO Financial Group Inc,보험,553010
+ROG,Rogers Corp,반도체 및 반도체 장비,571010
+ENR,Energizer Holdings Inc,"건설장비 및 대형차, 기차, 배",521020
+OSB,Norbord Inc,종이 및 임산물,513010
+NSP,Insperity Inc,전문 및 상업 서비스,522030
+TGNA,Tegna Inc,미디어 및 출판,533020
+AGI,Alamos Gold Inc Class A,메탈&마이닝,512010
+TMHC,Taylor Morrison Home Corp,주택건설,532030
+TRN,Trinity Industries Inc,"건설장비 및 대형차, 기차, 배",521020
+NAD,Nuveen Quality Municipal Income Fund,다양한 금융서비스,555010
+SXT,Sensient Technologies Corp,화학,511010
+KBH,KB Home,주택건설,532030
+ABG,Asbury Automotive Group Inc,전문품 상점,534030
+BXS,BancorpSouth Bank,은행,551010
+SOGO,Sogou Inc ADR,소프트웨어 및 IT서비스,572010
+LTHM,Livent Corp,화학,511010
+AGO,Assured Guaranty Ltd,보험,553010
+SR,Spire Inc,천연가스 유틸리티,591020
+FN,Fabrinet,전자 장비 및 부품,571040
+CWK,Cushman & Wakefield PLC,부동산 운영 관리,601010
+WTM,White Mountains Insurance Group Ltd,보험,553010
+APG,APi Group Corp,건설 및 엔지니어링,522010
+DNP,DNP Select Income Fund Inc,다양한 금융서비스,555010
+ASB,Associated Banc-Corp,은행,551010
+SIX,Six Flags Entertainment Corp,호텔 및 엔터테인먼트,533010
+GATX,GATX Corp,은행,551010
+BMI,Badger Meter Inc,"건설장비 및 대형차, 기차, 배",521020
+HL,Hecla Mining Co,메탈&마이닝,512010
+EAF,GrafTech International Ltd,메탈&마이닝,512010
+DAO,Youdao Inc ADR,소프트웨어 및 IT서비스,572010
+FHI,Federated Hermes Inc Class B,투자은행 및 서비스,551020
+ACA,Arcosa Inc,건설 및 엔지니어링,522010
+MTH,Meritage Homes Corp,주택건설,532030
+BIO.B,Bio Rad Laboratories Inc Class B,헬스케어 장비 및 용품,561010
+MDC,MDC Holdings Inc,주택건설,532030
+PCI,Pimco Dynamic Credit and Mortgage Income Fund,다양한 금융서비스,555010
+GOLF,Acushnet Holdings Corp,레저 상품,532050
+CNX,CNX Resources Corp,오일 및 가스,501020
+CCU,Compania Cervecerias Unidas SA ADR,음료,541010
+NGVT,Ingevity Corp,화학,511010
+DAN,Dana Inc,자동차 및 자동차 부품,531010
+NOAH,Noah Holdings Ltd ADR,투자은행 및 서비스,551020
+NHI,National Health Investors Inc,주택 및 상업용 리츠,601020
+AWR,American States Water Co,수도 유틸리티,591030
+BIPC,Brookfield Infrastructure Corp Class A,천연가스 유틸리티,591020
+HP,Helmerich and Payne Inc,오일 및 가스 장비 및 서비스,501030
+CIG,Companhia Energetica de Minas Gerais CEMIG ADR,전기 유틸리티,591010
+HRB,H & R Block Inc,"개인, 가정 용품 및 서비스",542010
+OFC,Corporate Office Properties Trust,주택 및 상업용 리츠,601020
+WOR,Worthington Industries Inc,메탈&마이닝,512010
+GDOT,Green Dot Corp Class A,은행,551010
+PJT,PJT Partners Inc Class A,투자은행 및 서비스,551020
+WRI,Weingarten Realty Investors,주택 및 상업용 리츠,601020
+FLR,Fluor Corp,건설 및 엔지니어링,522010
+BFT,Foley Trasimene Acquisition II Corp Class A,기타 금융업,556010
+APLE,Apple Hospitality REIT Inc,주택 및 상업용 리츠,601020
+FSKR,FS KKR Capital Corp II,다양한 금융서비스,555010
+TARO,Taro Pharmaceutical Industries Ltd,제약,562010
+MATX,Matson Inc,화물 및 물류 서비스,524050
+MCY,Mercury General Corp,보험,553010
+NUS,NU Skin Enterprises Inc Class A,"개인, 가정 용품 및 서비스",542010
+ATCO,Atlas Corp (Canada),화물 및 물류 서비스,524050
+BOX,Box Inc Class A,소프트웨어 및 IT서비스,572010
+CWH,Camping World Holdings Inc Class A,전문품 상점,534030
+CUK,Carnival PLC ADR,호텔 및 엔터테인먼트,533010
+MAXR,Maxar Technologies Inc,커뮤니케이션 및 네트워킹,571020
+LXP,Lexington Realty Trust,주택 및 상업용 리츠,601020
+WD,Walker & Dunlop Inc,은행,551010
+EVTC,Evertec Inc,전문 및 상업 서비스,522030
+BSTZ,Blackrock Science and Technology Trust II,다양한 금융서비스,555010
+ESE,ESCO Technologies Inc,"건설장비 및 대형차, 기차, 배",521020
+JKS,JinkoSolar Holding Co Ltd ADR,재생에너지,502010
+BVN,Compania de Minas Buenaventura SAA ADR,메탈&마이닝,512010
+ALLY PR A,GMAC Capital Trust I PRF,다양한 금융서비스,555010
+PHR,Phreesia Inc,소프트웨어 및 IT서비스,572010
+XL,XL Fleet Corp Class A,자동차 및 자동차 부품,531010
+AEL,American Equity Investment Life Holding Co,보험,553010
+B,Barnes Group Inc,"건설장비 및 대형차, 기차, 배",521020
+ABM,ABM Industries Inc,전문 및 상업 서비스,522030
+DY,Dycom Industries Inc,건설 및 엔지니어링,522010
+GHC,Graham Holdings Co Class B,"개인, 가정 용품 및 서비스",542010
+GPI,Group 1 Automotive Inc,전문품 상점,534030
+AG,First Majestic Silver Corp,메탈&마이닝,512010
+FUL,HB Fuller Co,화학,511010
+EPR,EPR Properties,주택 및 상업용 리츠,601020
+SCL,Stepan Co,화학,511010
+RMO,Romeo Power Inc Class A,자동차 및 자동차 부품,531010
+NNI,Nelnet Inc Class A,전문 및 상업 서비스,522030
+ONTO,Onto Innovation Inc,반도체 및 반도체 장비,571010
+GME,GameStop Corp Class A,전문품 상점,534030
+MXL,Maxlinear Inc,반도체 및 반도체 장비,571010
+AMRC,Ameresco Inc Class A,재생에너지,502010
+CBT,Cabot Corp,화학,511010
+TDC,Teradata Corp,소프트웨어 및 IT서비스,572010
+EAT,Brinker International Inc,호텔 및 엔터테인먼트,533010
+HYLN,Hyliion Holdings Corp Class A,기타 금융업,556010
+AVA,Avista Corp,복합 유틸리티,591040
+CIXX,CI Financial Corp,투자은행 및 서비스,551020
+HGV,Hilton Grand Vacations Inc,호텔 및 엔터테인먼트,533010
+JELD,JELD-WEN Holding Inc,주택건설,532030
+USM,United States Cellular Corp,통신 서비스,574010
+BRC,Brady Corp Class A,전문 및 상업 서비스,522030
+OUT,OUTFRONT Media Inc,주택 및 상업용 리츠,601020
+PEB,Pebblebrook Hotel Trust,주택 및 상업용 리츠,601020
+CWT,California Water Service Group,수도 유틸리티,591030
+SSTK,Shutterstock Inc,소프트웨어 및 IT서비스,572010
+SUM,Summit Materials Inc Class A,건축 자재,512020
+ENBL,Enable Midstream Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,다양한 금융서비스,555010
+DHR PR A,Danaher Corp PRF,헬스케어 장비 및 용품,561010
+MANU,Manchester United PLC Class A,호텔 및 엔터테인먼트,533010
+HMY,Harmony Gold Mining Company Ltd ADR,메탈&마이닝,512010
+SPXC,SPX Corp,"건설장비 및 대형차, 기차, 배",521020
+BNL,Broadstone Net Lease Inc Class A,주택 및 상업용 리츠,601020
+NEE PR P,Nextera Energy Inc Unit,전기 유틸리티,591010
+OIBR.C,Oi SA em Recuperacao Judicial ADR,통신 서비스,574010
+JOE,St. Joe Co,부동산 운영 관리,601010
+SAVE,Spirit Airlines Inc,운송업,524060
+PRMW,Primo Water Corp (MISSISSAUGA),음료,541010
+CADE,Cadence Bancorp Class A,은행,551010
+ITGR,Integer Holdings Corp,헬스케어 장비 및 용품,561010
+KFY,Korn Ferry,전문 및 상업 서비스,522030
+WWW,Wolverine World Wide Inc,섬유 및 의류,532020
+CMC,Commercial Metals Co,메탈&마이닝,512010
+TEX,Terex Corp,"건설장비 및 대형차, 기차, 배",521020
+HTH,Hilltop Holdings Inc,은행,551010
+SWN,Southwestern Energy Co,오일 및 가스,501020
+MIC,Macquarie Infrastructure Corp,운송 인프라,524070
+KTB,Kontoor Brands Inc,섬유 및 의류,532020
+RRC,Range Resources Corp,오일 및 가스,501020
+KW,Kennedy-Wilson Holdings Inc,부동산 운영 관리,601010
+C PR N,Citigroup Capital XIII PRF,다양한 금융서비스,555010
+ELY,Callaway Golf Co,레저 상품,532050
+VNE,Veoneer Inc,자동차 및 자동차 부품,531010
+ZYME,Zymeworks Inc,생명과학 및 메디컬 리서치,562020
+MED,Medifast Inc,식품 및 담배,541020
+ADCT,ADC Therapeutics SA,생명과학 및 메디컬 리서치,562020
+BFT.U,Foley Trasimene Acquisition II Corp,기타 금융업,556010
+NSA,National Storage Affiliates Trust,주택 및 상업용 리츠,601020
+RCUS,Arcus Biosciences Inc,제약,562010
+AIN,Albany International Corp Class A,"건설장비 및 대형차, 기차, 배",521020
+UTF,Cohen & Steers Infrastructure Fund Inc,다양한 금융서비스,555010
+SUN,Sunoco LP Unit,오일 및 가스,501020
+RVLV,Revolve Group Inc Class A,다양한 소매업,534020
+KOF,Coca-Cola Femsa SAB de CV ADR,음료,541010
+TRQ,Turquoise Hill Resources Ltd,메탈&마이닝,512010
+YALA,Yalla Group Ltd ADR,소프트웨어 및 IT서비스,572010
+AX,Axos Financial Inc,은행,551010
+CWEN.A,Clearway Energy Inc Class A,전기 유틸리티,591010
+KAR,KAR Auction Services Inc,전문품 상점,534030
+MOG.A,Moog Inc Class A,우주항공 및 국방,521010
+PING,Ping Identity Holding Corp,소프트웨어 및 IT서비스,572010
+SHO,Sunstone Hotel Investors Inc,주택 및 상업용 리츠,601020
+AZUL,Azul SA ADR,운송업,524060
+RLJ,RLJ Lodging Trust,주택 및 상업용 리츠,601020
+CIM,Chimera Investment Corp,주택 및 상업용 리츠,601020
+AVAL,Grupo Aval Acciones y Valores SA ADR,은행,551010
+FUBO,Fubotv Inc,소프트웨어 및 IT서비스,572010
+SEAS,SeaWorld Entertainment Inc,호텔 및 엔터테인먼트,533010
+FLOW,SPX FLOW Inc,"건설장비 및 대형차, 기차, 배",521020
+DHR PR B,Danaher Corp PRF,헬스케어 장비 및 용품,561010
+ZNH,China Southern Airlines Co Ltd ADR,운송업,524060
+MUR,Murphy Oil Corp,오일 및 가스,501020
+TAC,TransAlta Corp,전기 유틸리티,591010
+FUN,Cedar Fair LP Unit,호텔 및 엔터테인먼트,533010
+DNMR,Danimer Scientific Inc Class A,용기 및 포장,513020
+CLNY,Colony Capital Inc Class A,주택 및 상업용 리츠,601020
+DOOR,Masonite International Corp,주택건설,532030
+YELP,Yelp Inc,소프트웨어 및 IT서비스,572010
+ATI,Allegheny Technologies Inc,우주항공 및 국방,521010
+MSGE,Madison Square Garden Entertainment Corp Class A,호텔 및 엔터테인먼트,533010
+FBC,Flagstar Bancorp Inc,은행,551010
+ATKR,Atkore International Group Inc,"건설장비 및 대형차, 기차, 배",521020
+AZRE,Azure Power Global Ltd,전기 유틸리티,591010
+AVNS,Avanos Medical Inc,헬스케어 장비 및 용품,561010
+MTX,Minerals Technologies Inc,화학,511010
+NUV,Nuveen Municipal Value Fund Inc,다양한 금융서비스,555010
+NZF,Nuveen Municipal Credit Income Fund,다양한 금융서비스,555010
+MAC,Macerich Co,주택 및 상업용 리츠,601020
+LEN.B,Lennar Corp Class B,주택건설,532030
+SJI,South Jersey Industries Inc,천연가스 유틸리티,591020
+FBP,First Bancorp,은행,551010
+JW.A,John Wiley & Sons Inc Class A,전문 및 상업 서비스,522030
+MGY,Magnolia Oil & Gas Corp Class A,오일 및 가스,501020
+MAX,MediaAlpha Inc Class A,소프트웨어 및 IT서비스,572010
+CNK,Cinemark Holdings Inc,호텔 및 엔터테인먼트,533010
+TPH,TRI Pointe Group Inc,주택건설,532030
+MLI,Mueller Industries Inc,"건설장비 및 대형차, 기차, 배",521020
+WGO,Winnebago Industries Inc,레저 상품,532050
+TCP,TC PipeLines LP Unit,오일 및 가스 장비 및 서비스,501030
+WHD,Cactus Inc Class A,오일 및 가스 장비 및 서비스,501030
+BCAT,BlackRock Capital Allocation Trust,다양한 금융서비스,555010
+THS,TreeHouse Foods Inc,식품 및 담배,541020
+CDE,Coeur Mining Inc,메탈&마이닝,512010
+CEA,China Eastern Airlines Corp Ltd ADR,운송업,524060
+SIG,Signet Jewelers Ltd,전문품 상점,534030
+SITC,Site Centers Corp,주택 및 상업용 리츠,601020
+TROX,Tronox Holdings PLC,화학,511010
+FSK,FS KKR Capital Corp,다양한 금융서비스,555010
+TSE,Trinseo SA,화학,511010
+IPOF,Social Capital Hedosophia Holdings Corp VI Class A,기타 금융업,556010
+EPRT,Essential Properties Realty Trust Inc,주택 및 상업용 리츠,601020
+RIG,Transocean Ltd,오일 및 가스 장비 및 서비스,501030
+NEE PR Q,Nextera Energy Inc,전기 유틸리티,591010
+CMP,Compass Minerals International Inc,화학,511010
+NAC,Nuveen California Quality Municipal Income Fund,다양한 금융서비스,555010
+MAIN,Main Street Capital Corp,은행,551010
+TDS,Telephone and Data Systems Inc,통신 서비스,574010
+PQG,PQ Group Holdings Inc,화학,511010
+ENLC,EnLink Midstream LLC Unit,오일 및 가스 장비 및 서비스,501030
+CRC,California Resources Corp,오일 및 가스,501020
+INT,World Fuel Services Corp,오일 및 가스,501020
+IBA,Industrias Bachoco SAB de CV ADR,식품 및 담배,541020
+CUB,Cubic Corp,우주항공 및 국방,521010
+EGO,Eldorado Gold Corp,메탈&마이닝,512010
+CTB,Cooper Tire & Rubber Co,자동차 및 자동차 부품,531010
+FSS,Federal Signal Corp,"건설장비 및 대형차, 기차, 배",521020
+GB,Global Blue Group Holding Ltd,핀테크,573010
+YEXT,Yext Inc,소프트웨어 및 IT서비스,572010
+LAC,Lithium Americas Corp,메탈&마이닝,512010
+LZB,La-Z-Boy Inc,가정용품,532040
+PRO,Pros Holdings Inc,소프트웨어 및 IT서비스,572010
+MD,MEDNAX Inc,헬스케어 업체 및 서비스,561020
+JPM PR C,JPMorgan Chase & Co ADR,은행,551010
+HRI,Herc Holdings Inc,전문 및 상업 서비스,522030
+OR,Osisko Gold Royalties Ltd,메탈&마이닝,512010
+FCPT,Four Corners Property Trust Inc,주택 및 상업용 리츠,601020
+OI,O-I Glass Inc,용기 및 포장,513020
+MWA,Mueller Water Products Inc Series A,"건설장비 및 대형차, 기차, 배",521020
+PDM,Piedmont Office Realty Trust Inc Class A,주택 및 상업용 리츠,601020
+CALX,Calix Inc,커뮤니케이션 및 네트워킹,571020
+BDN,Brandywine Realty Trust,주택 및 상업용 리츠,601020
+GDV,Gabelli Dividend & Income Trust,다양한 금융서비스,555010
+FTAI,Fortress Transportation and Infrastructure Investors LLC,은행,551010
+CSTM,Constellium SE Class A,메탈&마이닝,512010
+PVG,Pretium Resources Inc,메탈&마이닝,512010
+WBT,Welbilt Inc,"건설장비 및 대형차, 기차, 배",521020
+FIX,Comfort Systems USA Inc,건설 및 엔지니어링,522010
+OMI,Owens & Minor Inc,헬스케어 장비 및 용품,561010
+PGRE,Paramount Group Inc,주택 및 상업용 리츠,601020
+RPAI,Retail Properties of America Inc Class A,주택 및 상업용 리츠,601020
+ATGE,Adtalem Global Education Inc,교육서비스,631010
+EURN,Euronav NV,오일 및 가스 장비 및 서비스,501030
+AR,Antero Resources Corp,오일 및 가스,501020
+MTOR,Meritor Inc,자동차 및 자동차 부품,531010
+SAH,Sonic Automotive Inc Class A,전문품 상점,534030
+BCC,Boise Cascade Co,종이 및 임산물,513010
+MFGP,Micro Focus International PLC ADR,소프트웨어 및 IT서비스,572010
+MYOV,Myovant Sciences Ltd,생명과학 및 메디컬 리서치,562020
+BIG,Big Lots Inc,다양한 소매업,534020
+APTV PR A,Aptiv PLC Convertible Preference Shares Series A,자동차 및 자동차 부품,531010
+BDC,Belden Inc,커뮤니케이션 및 네트워킹,571020
+BDXB,Becton Dickinson and Co ADR,헬스케어 장비 및 용품,561010
+MTDR,Matador Resources Co,오일 및 가스,501020
+SJW,SJW Group,수도 유틸리티,591030
+IPOE,Social Capital Hedosophia Holdings Corp. V Class A,기타 금융업,556010
+RF PR A,Regions Financial Corp ADR,은행,551010
+BUR,Burford Capital Ltd,투자은행 및 서비스,551020
+ADX,Adams Diversified Equity Fund Inc,다양한 금융서비스,555010
+PTY,Pimco Corporate & Income Opportunity Fund,다양한 금융서비스,555010
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,다양한 금융서비스,555010
+PBH,Prestige Consumer Healthcare Inc,제약,562010
+FIT,Fitbit Inc Class A,"컴퓨터, 전화 및 가전제품",571060
+XHR,Xenia Hotels & Resorts Inc,주택 및 상업용 리츠,601020
+AVTR PR A,Avantor Inc Convertible Preference Shares Series A,헬스케어 장비 및 용품,561010
+VGR,Vector Group Ltd,식품 및 담배,541020
+JPS,Nuveen Preferred & Income Securities Fund,다양한 금융서비스,555010
+GSBD,Goldman Sachs BDC Inc,은행,551010
+PCGU,PG&E Corp Unit,전기 유틸리티,591010
+EPC,Edgewell Personal Care Co,"개인, 가정 용품 및 서비스",542010
+CVI,CVR Energy Inc,오일 및 가스,501020
+NEE PR O,Nextera Energy Inc Unit,전기 유틸리티,591010
+EBR.B,Centrais Eletricas Brasileiras SA ADR,전기 유틸리티,591010
+PIPR,Piper Sandler Companies,투자은행 및 서비스,551020
+ITCB,Itau Corpbanca ADR,은행,551010
+WRE,Washington Real Estate Investment Trust,주택 및 상업용 리츠,601020
+JPM PR D,JPMorgan Chase & Co ADR,은행,551010
+GCP,GCP Applied Technologies Inc,건축 자재,512020
+CVA,Covanta Holding Corp,전문 및 상업 서비스,522030
+RLGY,Realogy Holdings Corp,부동산 운영 관리,601010
+HBM,Hudbay Minerals Inc,메탈&마이닝,512010
+EVA,Enviva Partners LP Unit,종이 및 임산물,513010
+IPOF.U,Social Capital Hedosophia Holdings Corp VI,기타 금융업,556010
+SKY,Skyline Champion Corp,주택건설,532030
+WFC PR Q,Wells Fargo & Co ADR,은행,551010
+DEA,Easterly Government Properties Inc,주택 및 상업용 리츠,601020
+CPK,Chesapeake Utilities Corp,천연가스 유틸리티,591020
+T PR C,AT&T Inc ADR,통신 서비스,574010
+ALG,Alamo Group Inc,"건설장비 및 대형차, 기차, 배",521020
+BGS,B&G Foods Inc,식품 및 담배,541020
+WFC PR Z,Wells Fargo & Co ADR,은행,551010
+BTT,Blackrock Municipal 2030 Target Term Trust,다양한 금융서비스,555010
+ABR,Arbor Realty Trust Inc,주택 및 상업용 리츠,601020
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,다양한 금융서비스,555010
+KAI,Kadant Inc,"건설장비 및 대형차, 기차, 배",521020
+FBK,FB Financial Corp,은행,551010
+NS,NuStar Energy LP Unit,오일 및 가스 장비 및 서비스,501030
+DRH,Diamondrock Hospitality Co,주택 및 상업용 리츠,601020
+HNP,Huaneng Power International Inc ADR,전기 유틸리티,591010
+HMN,Horace Mann Educators Corp,보험,553010
+AVYA,Avaya Holdings Corp,커뮤니케이션 및 네트워킹,571020
+NTB,Bank of N.T. Butterfield & Son Ltd,은행,551010
+KRO,Kronos Worldwide Inc,화학,511010
+RVT,Royce Value Trust Inc,다양한 금융서비스,555010
+TWO,Two Harbors Investment Corp,주택 및 상업용 리츠,601020
+AAT,American Assets Trust Inc,주택 및 상업용 리츠,601020
+UFS,Domtar Corp,종이 및 임산물,513010
+JHI,John Hancock Investors Trust,다양한 금융서비스,555010
+SBE,Switchback Energy Acquisition Corp Class A,기타 금융업,556010
+SOLN,Southern Co Unit Series A,전기 유틸리티,591010
+MFA,MFA Financial Inc,주택 및 상업용 리츠,601020
+UE,Urban Edge Properties,주택 및 상업용 리츠,601020
+PDI,PIMCO Dynamic Income Fund,다양한 금융서비스,555010
+CRS,Carpenter Technology Corp,메탈&마이닝,512010
+AMK,AssetMark Financial Holdings Inc,투자은행 및 서비스,551020
+KN,Knowles Corp,"컴퓨터, 전화 및 가전제품",571060
+PMT,PennyMac Mortgage Investment Trust,주택 및 상업용 리츠,601020
+HTGC,Hercules Capital Inc,다양한 금융서비스,555010
+C PR K,Citigroup Inc ADR,은행,551010
+BSIG,Brightsphere Investment Group Inc,투자은행 및 서비스,551020
+DSL,DoubleLine Income Solutions Fund,다양한 금융서비스,555010
+ACB,Aurora Cannabis Inc,제약,562010
+NPO,EnPro Industries Inc,"건설장비 및 대형차, 기차, 배",521020
+VSTO,Vista Outdoor Inc,레저 상품,532050
+USPH,U.S. Physical Therapy Inc,헬스케어 업체 및 서비스,561020
+LGF.B,Lions Gate Entertainment Corp Class B,미디어 및 출판,533020
+TUP,Tupperware Brands Corp,가정용품,532040
+BAK,Braskem SA ADR,화학,511010
+SRE PR A,Sempra Energy PRF,복합 유틸리티,591040
+IPOE.U,Social Capital Hedosophia Holdings Corp. V,기타 금융업,556010
+USNA,USANA Health Sciences Inc,"개인, 가정 용품 및 서비스",542010
+MKC.V,McCormick & Company Inc,식품 및 담배,541020
+CIG.C,Companhia Energetica de Minas Gerais CEMIG ADR,전기 유틸리티,591010
+BKE,Buckle Inc,전문품 상점,534030
+ELP,Companhia Paranaense de Energia ADR,전기 유틸리티,591010
+CXP,Columbia Property Trust Inc,주택 및 상업용 리츠,601020
+EB,Eventbrite Inc Class A,소프트웨어 및 IT서비스,572010
+GAB,Gabelli Equity Trust Inc,다양한 금융서비스,555010
+ARI,Apollo Commercial Real Estate Finance Inc,주택 및 상업용 리츠,601020
+BV,Brightview Holdings Inc,전문 및 상업 서비스,522030
+ZUO,Zuora Inc Class A,소프트웨어 및 IT서비스,572010
+RQI,Cohen & Steers Quality Income Realty Fund Inc,다양한 금융서비스,555010
+BSM,Black Stone Minerals LP Unit,오일 및 가스,501020
+CPG,Crescent Point Energy Corp,오일 및 가스,501020
+YPF,YPF SA ADR,오일 및 가스,501020
+KAMN,Kaman Corp,"건설장비 및 대형차, 기차, 배",521020
+STPK,Star Peak Energy Transition Corp Class A,기타 금융업,556010
+BOOT,Boot Barn Holdings Inc,전문품 상점,534030
+BDJ,Blackrock Enhanced Equity Dividend Trust,다양한 금융서비스,555010
+MNR,Monmouth Real Estate Investment Corp,주택 및 상업용 리츠,601020
+GNW,Genworth Financial Inc Class A,보험,553010
+HEP,Holly Energy Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+IAG,Iamgold Corp,메탈&마이닝,512010
+GES,Guess? Inc,전문품 상점,534030
+ARGO,Argo Group International Holdings Ltd,보험,553010
+HKIB,Amtd International Inc ADR,투자은행 및 서비스,551020
+TY,Tri-Continental Corp,다양한 금융서비스,555010
+ESRT,Empire State Realty Trust Inc Class A,주택 및 상업용 리츠,601020
+SBE.U,Switchback Energy Acquisition Corp Unit,기타 금융업,556010
+LTC,LTC Properties Inc,주택 및 상업용 리츠,601020
+PNC PR P,PNC Financial Services Group Inc ADR,은행,551010
+KEN,Kenon Holdings Ltd,전기 유틸리티,591010
+GVA,Granite Construction Inc,건설 및 엔지니어링,522010
+CEQP,Crestwood Equity Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+CLB,Core Laboratories NV,오일 및 가스 장비 및 서비스,501030
+BALY,Bally's Corp,호텔 및 엔터테인먼트,533010
+COF PR I,Capital One Financial Corp ADR,은행,551010
+WDR,Waddell & Reed Financial Inc Class A,투자은행 및 서비스,551020
+AROC,Archrock Inc,오일 및 가스 장비 및 서비스,501030
+MEI,Methode Electronics Inc,전자 장비 및 부품,571040
+DKL,Delek Logistics Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+SBH,Sally Beauty Holdings Inc,전문품 상점,534030
+SCS,Steelcase Inc Class A,전문 및 상업 서비스,522030
+PFS,Provident Financial Services Inc,은행,551010
+WPF,Foley Trasimene Acquisition Corp Class A,기타 금융업,556010
+LNN,Lindsay Corp,"건설장비 및 대형차, 기차, 배",521020
+EVH,Evolent Health Inc Class A,헬스케어 장비 및 용품,561010
+GTN,Gray Television Inc,미디어 및 출판,533020
+USA,Liberty All-Star Equity Fund,다양한 금융서비스,555010
+SA,Seabridge Gold Inc,메탈&마이닝,512010
+HOME,At Home Group Inc,전문품 상점,534030
+FSM,Fortuna Silver Mines Inc,메탈&마이닝,512010
+GNL,Global Net Lease Inc,주택 및 상업용 리츠,601020
+UIS,Unisys Corp,소프트웨어 및 IT서비스,572010
+PAR,PAR Technology Corp,사무기기,571050
+SOL,ReneSola Ltd ADR,건설 및 엔지니어링,522010
+MMI,Marcus & Millichap Inc,부동산 운영 관리,601010
+LBRT,Liberty Oilfield Services Inc Class A,오일 및 가스 장비 및 서비스,501030
+HSC,Harsco Corp,전문 및 상업 서비스,522030
+USAC,USA Compression Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+DDS,Dillard's Inc Class A,다양한 소매업,534020
+CBZ,CBIZ Inc,전문 및 상업 서비스,522030
+MS PR F,Morgan Stanley ADR,투자은행 및 서비스,551020
+ANF,Abercrombie & Fitch Co Class A,전문품 상점,534030
+DK,Delek US Holdings Inc,오일 및 가스,501020
+BAC PR B,Bank of America Corp ADR,은행,551010
+CCS,Century Communities Inc,주택건설,532030
+HNI,HNI Corp,전문 및 상업 서비스,522030
+JPM PR G,JPMorgan Chase & Co ADR,은행,551010
+VCRA,Vocera Communications Inc,커뮤니케이션 및 네트워킹,571020
+AMRX,Amneal Pharmaceuticals Inc Class A,제약,562010
+STPK.U,Star Peak Energy Transition Corp,기타 금융업,556010
+SYX,Systemax Inc,다양한 산업재 도매업,522020
+DLX,Deluxe Corp,전문 및 상업 서비스,522030
+BBN,Blackrock Taxable Municipal Bond Trust,다양한 금융서비스,555010
+GMS,GMS Inc,주택건설,532030
+DEN,Denbury Inc,오일 및 가스,501020
+MTRN,Materion Corp,메탈&마이닝,512010
+ERJ,Embraer SA ADR,우주항공 및 국방,521010
+BAC PR M,Bank of America Corp ADR,은행,551010
+KRG,Kite Realty Group Trust,주택 및 상업용 리츠,601020
+TSLX,Sixth Street Specialty Lending Inc,다양한 금융서비스,555010
+AIR,AAR Corp,우주항공 및 국방,521010
+FFG,FBL Financial Group Inc Class A,보험,553010
+KKR PR C,KKR & Co Inc PRF,투자은행 및 서비스,551020
+BAC PR N,Bank of America Corp ADR,은행,551010
+CNR,Cornerstone Building Brands Inc,주택건설,532030
+FPF,First Trust Intermediate Duration Preferred & Income Fund,다양한 금융서비스,555010
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,다양한 금융서비스,555010
+BTZ,Blackrock Credit Allocation Income Trust,다양한 금융서비스,555010
+ALX,Alexander's Inc,주택 및 상업용 리츠,601020
+BRMK,Broadmark Realty Capital Inc,은행,551010
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,다양한 금융서비스,555010
+VERT.U,Vertiv Holdings Co Unit,"건설장비 및 대형차, 기차, 배",521020
+CODI,Compass Diversified Holdings,기타 금융업,556010
+EPAC,Enerpac Tool Group Corp Class A,"건설장비 및 대형차, 기차, 배",521020
+ACH,Aluminum Corp of China Ltd ADR,메탈&마이닝,512010
+FTV PR A,Fortive Corp Convertible Preference Shares Series A,"건설장비 및 대형차, 기차, 배",521020
+UTZ,UTZ Brands Inc Class A,식품 및 담배,541020
+BPMP,BP Midstream Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+MODN,Model N Inc,소프트웨어 및 IT서비스,572010
+HYT,Blackrock Corporate High Yield Fund Inc,다양한 금융서비스,555010
+AKR,Acadia Realty Trust,주택 및 상업용 리츠,601020
+TNC,Tennant Co,"건설장비 및 대형차, 기차, 배",521020
+NWN,Northwest Natural Holding Co,천연가스 유틸리티,591020
+SI,Silvergate Capital Corp Class A,은행,551010
+JWS,Jaws Acquisition Corp Class A,기타 금융업,556010
+DCUE,Dominion Energy Inc Unit Series A,전기 유틸리티,591010
+WPF.U,Foley Trasimene Acquisition Corp Unit,기타 금융업,556010
+SWM,Schweitzer-Mauduit International Inc,종이 및 임산물,513010
+PLT,Plantronics Inc,커뮤니케이션 및 네트워킹,571020
+FOE,Ferro Corp,화학,511010
+GWB,Great Western Bancorp Inc,은행,551010
+PBI,Pitney Bowes Inc,사무기기,571050
+STC,Stewart Information Services Corp,보험,553010
+GS PR D,Goldman Sachs Group Inc ADR,투자은행 및 서비스,551020
+GHG,GreenTree Hospitality Group Ltd ADR,호텔 및 엔터테인먼트,533010
+PGTI,PGT Innovations Inc,주택건설,532030
+GFF,Griffon Corp,주택건설,532030
+SAND,Sandstorm Gold Ltd,메탈&마이닝,512010
+BXMX,Nuveen S&P 500 BuyWrite Income Fund,다양한 금융서비스,555010
+NGA,Northern Genesis Acquisition Corp,기타 금융업,556010
+AKO.B,Embotelladora Andina SA ADR,음료,541010
+FRO,Frontline Ltd,오일 및 가스 장비 및 서비스,501030
+HY,Hyster-Yale Materials Handling Inc Class A,"건설장비 및 대형차, 기차, 배",521020
+WMK,Weis Markets Inc,식품 및 약품소매,543010
+NFJ,Allianzgi Dividend Interest & Premium Strategy Fund,다양한 금융서비스,555010
+UVV,Universal Corp,식품 및 담배,541020
+MHO,M/I Homes Inc,주택건설,532030
+IRT,Independence Realty Trust Inc,주택 및 상업용 리츠,601020
+WSO.B,Watsco Inc Class B,"건설장비 및 대형차, 기차, 배",521020
+RGR,Sturm Ruger & Company Inc,레저 상품,532050
+VLRS,Controladora Vuela Compania de Aviacion SAB de CV ADR,운송업,524060
+BST,BlackRock Science and Technology Trust,다양한 금융서비스,555010
+GOL,Gol Linhas Aereas Inteligentes SA ADR,운송업,524060
+COF PR J,Capital One Financial Corp ADR,은행,551010
+PTA,Cohen & Steers Tax-Adv Pref Secs and Inc Fund,,
+T PR A,AT&T Inc ADR,통신 서비스,574010
+LINX,Linx SA ADR,소프트웨어 및 IT서비스,572010
+UNFI,United Natural Foods Inc,식품 및 약품소매,543010
+NFH,New Frontier Health Corp Class A,헬스케어 업체 및 서비스,561020
+DGNR,Dragoneer Growth Opportunities Corp Class A,기타 금융업,556010
+FCF,First Commonwealth Financial Corp,은행,551010
+CRK,Comstock Resources Inc,오일 및 가스,501020
+LADR,Ladder Capital Corp Class A,주택 및 상업용 리츠,601020
+AZZ,AZZ Inc,"건설장비 및 대형차, 기차, 배",521020
+ALEX,Alexander & Baldwin Inc (Hawaii),주택 및 상업용 리츠,601020
+NGA.U,Northern Genesis Acquisition Corp,기타 금융업,556010
+DRQ,Dril-Quip Inc,오일 및 가스 장비 및 서비스,501030
+NEXA,Nexa Resources SA,메탈&마이닝,512010
+ALL PR H,Allstate Corp ADR,보험,553010
+MSC,Studio City International Holdings Ltd ADR,호텔 및 엔터테인먼트,533010
+PACK,Ranpak Holdings Corp Class A,용기 및 포장,513020
+OXM,Oxford Industries Inc,섬유 및 의류,532020
+ELF,e.l.f. Beauty Inc,전문품 상점,534030
+CANG,Cango Inc ADR,전문 및 상업 서비스,522030
+KOS,Kosmos Energy Ltd,오일 및 가스,501020
+GBX,Greenbrier Companies Inc,"건설장비 및 대형차, 기차, 배",521020
+PRPB.U,CC Neuberger Principal Holdings II,기타 금융업,556010
+WFC PR A,Wells Fargo & Co ADR,은행,551010
+SKT,Tanger Factory Outlet Centers Inc,주택 및 상업용 리츠,601020
+CLI,Mack-Cali Realty Corp,주택 및 상업용 리츠,601020
+WFC PR X,Wells Fargo & Co ADR,은행,551010
+HCC,Warrior Met Coal Inc,메탈&마이닝,512010
+TR,Tootsie Roll Industries Inc,식품 및 담배,541020
+JPM PR H,JPMorgan Chase & Co ADR,은행,551010
+CTS,CTS Corp,전자 장비 및 부품,571040
+DIN,Dine Brands Global Inc,호텔 및 엔터테인먼트,533010
+USB PR A,U.S. Bancorp ADR,은행,551010
+FDP,Fresh Del Monte Produce Inc,식품 및 담배,541020
+TGP,Teekay LNG Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+JWS.U,Jaws Acquisition Corp Unit,기타 금융업,556010
+EVRI,Everi Holdings Inc,호텔 및 엔터테인먼트,533010
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,다양한 금융서비스,555010
+OII,Oceaneering International Inc,오일 및 가스 장비 및 서비스,501030
+USB PR M,U.S. Bancorp ADR,은행,551010
+FINV,FinVolution Group ADR,소프트웨어 및 IT서비스,572010
+GEF.B,Greif Inc Class B,용기 및 포장,513020
+NMZ,Nuveen Municipal High Income Opportunity Fund,다양한 금융서비스,555010
+MS PR I,Morgan Stanley ADR,투자은행 및 서비스,551020
+MS PR K,Morgan Stanley ADR,투자은행 및 서비스,551020
+PRPB,CC Neuberger Principal Holdings II Class A,기타 금융업,556010
+BSX PR A,Boston Scientific Corp PRF,헬스케어 장비 및 용품,561010
+GEF,Greif Inc Class A,용기 및 포장,513020
+GTY,Getty Realty Corp,주택 및 상업용 리츠,601020
+CMRE,Costamare Inc,화물 및 물류 서비스,524050
+BIF,Boulder Growth & Income Fund,다양한 금융서비스,555010
+GSAH,GS Acquisition Holdings Corp II Class A,기타 금융업,556010
+DUK PR A,Duke Energy Corp ADR,전기 유틸리티,591010
+STAR,iStar Inc,주택 및 상업용 리츠,601020
+CRHC,Cohn Robbins Holdings Corp Class A,기타 금융업,556010
+IMAX,Imax Corp,미디어 및 출판,533020
+CLS,Celestica Inc,반도체 및 반도체 장비,571010
+NBHC,National Bank Holdings Corp Class A,은행,551010
+LGF.A,Lions Gate Entertainment Corp Class A,미디어 및 출판,533020
+BAC PR O,Bank of America Corp ADR,은행,551010
+APSG,Apollo Strategic Growth Capital Class A,기타 금융업,556010
+AKO.A,Embotelladora Andina SA ADR,음료,541010
+BAC PR C,Bank of America Corp ADR,은행,551010
+CHCT,Community Healthcare Trust Inc,주택 및 상업용 리츠,601020
+ARCO,Arcos Dorados Holdings Inc Class A,호텔 및 엔터테인먼트,533010
+GEO,Geo Group Inc,주택 및 상업용 리츠,601020
+DTP,DTE Energy Co Unit,전기 유틸리티,591010
+LGVW,Longview Acquisition Corp Class A,기타 금융업,556010
+KRA,Kraton Corp,화학,511010
+MS PR A,Morgan Stanley ADR,투자은행 및 서비스,551020
+GS PR J,Goldman Sachs Group Inc ADR,투자은행 및 서비스,551020
+C PR J,Citigroup Inc ADR,은행,551010
+PRA,ProAssurance Corp,보험,553010
+OEC,Orion Engineered Carbons SA,화학,511010
+EOS,Eaton Vance Enhanced Equity Income Fund II,다양한 금융서비스,555010
+FOR,Forestar Group Inc,건설 및 엔지니어링,522010
+OFG,OFG Bancorp,은행,551010
+RTP,Reinvent Technology Partners Class A,기타 금융업,556010
+DGNR.U,Dragoneer Growth Opportunities Corp,기타 금융업,556010
+SXI,Standex International Corp,"건설장비 및 대형차, 기차, 배",521020
+C PR S,Citigroup Inc ADR,은행,551010
+COF PR G,Capital One Financial Corp ADR,은행,551010
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,다양한 금융서비스,555010
+AJAX.U,Ajax I,기타 금융업,556010
+RNP,Cohen & Steers Reit & Preferred & Income Fund Inc,다양한 금융서비스,555010
+CLNC,Colony Credit Real Estate Inc Class A,주택 및 상업용 리츠,601020
+PLOW,Douglas Dynamics Inc,"건설장비 및 대형차, 기차, 배",521020
+MET PR F,MetLife Inc ADR,보험,553010
+HQH,Tekla Healthcare Investors,다양한 금융서비스,555010
+NXRT,NexPoint Residential Trust Inc,주택 및 상업용 리츠,601020
+AXL,American Axle & Manufacturing Holdings Inc,자동차 및 자동차 부품,531010
+TPGY,TPG Pace Beneficial Finance Corp. Class A,기타 금융업,556010
+BHE,Benchmark Electronics Inc,반도체 및 반도체 장비,571010
+GHLD,Guild Holdings Co Class A,은행,551010
+RAD,Rite Aid Corp,식품 및 약품소매,543010
+SM,SM Energy Co,오일 및 가스,501020
+WFC PR W,Wells Fargo & Co ADR,은행,551010
+KREF,KKR Real Estate Finance Trust Inc,주택 및 상업용 리츠,601020
+SCU,Sculptor Capital Management Inc Class A,투자은행 및 서비스,551020
+DNOW,NOW Inc,"건설장비 및 대형차, 기차, 배",521020
+ACEL,Accel Entertainment Inc,호텔 및 엔터테인먼트,533010
+WLL,Whiting Petroleum Corp,오일 및 가스,501020
+MEG,Montrose Environmental Group Inc,전문 및 상업 서비스,522030
+TGH,Textainer Group Holdings Ltd,전문 및 상업 서비스,522030
+AWF,AllianceBernstein Global High Income Fund Inc,다양한 금융서비스,555010
+GFLU,GFL Environmental Inc Unit,전문 및 상업 서비스,522030
+CYH,Community Health Systems Inc,헬스케어 업체 및 서비스,561020
+ATH PR A,Athene Holding Ltd ADR,보험,553010
+MS PR E,Morgan Stanley ADR,투자은행 및 서비스,551020
+PBF,PBF Energy Inc Class A,오일 및 가스,501020
+BHLB,Berkshire Hills Bancorp Inc,은행,551010
+DHT,DHT Holdings Inc,오일 및 가스 장비 및 서비스,501030
+RWT,Redwood Trust Inc,주택 및 상업용 리츠,601020
+LRN,Stride Inc,교육서비스,631010
+AJAX,Ajax I Class A,기타 금융업,556010
+IH,Ihuman Inc ADR,소프트웨어 및 IT서비스,572010
+USB PR H,U.S. Bancorp ADR,은행,551010
+AIO,Allianzgi Artificial Intelligence & Technology Opportunities Fund,다양한 금융서비스,555010
+TFC PR R,Truist Financial Corp ADR,은행,551010
+NP,Neenah Inc,종이 및 임산물,513010
+FFC,Flaherty & Crumrine Preferred and Income Securities Fund Inc,다양한 금융서비스,555010
+GSAH.U,GS Acquisition Holdings Corp II Unit,기타 금융업,556010
+WOW,WideOpenWest Inc,미디어 및 출판,533020
+AOD,Aberdeen Total Dynamic Dividend Fund,다양한 금융서비스,555010
+LGVW.U,Longview Acquisition Corp Unit,기타 금융업,556010
+CRY,CryoLife Inc,헬스케어 장비 및 용품,561010
+TPRE,Third Point Reinsurance Ltd,보험,553010
+WFC PR R,Wells Fargo & Co ADR,은행,551010
+UHT,Universal Health Realty Income Trust,주택 및 상업용 리츠,601020
+MYI,Blackrock Muniyield Quality Fund III Inc,다양한 금융서비스,555010
+EIG,Employers Holdings Inc,보험,553010
+HZO,MarineMax Inc,레저 상품,532050
+SMP,Standard Motor Products Inc,자동차 및 자동차 부품,531010
+BRBR,Bellring Brands Inc Class A,식품 및 담배,541020
+CRHC.U,Cohn Robbins Holdings Corp,기타 금융업,556010
+JPM PR J,JPMorgan Chase & Co ADR,은행,551010
+ENVA,Enova International Inc,은행,551010
+JPC,Nuveen Preferred & Income Opportunities Fund,다양한 금융서비스,555010
+WNC,Wabash National Corp,"건설장비 및 대형차, 기차, 배",521020
+CSR,Investors Real Estate Trust,주택 및 상업용 리츠,601020
+SPH,Suburban Propane Partners LP Unit,오일 및 가스,501020
+GAM,General American Investors Co Inc,다양한 금융서비스,555010
+APSG.U,Apollo Strategic Growth Capital,기타 금융업,556010
+IPOD,Social Capital Hedosophia Holdings Corp. IV Class A,기타 금융업,556010
+INN,Summit Hotel Properties Inc,주택 및 상업용 리츠,601020
+BAC PR K,Bank of America Corp ADR,은행,551010
+DRD,DRDGOLD Ltd ADR,메탈&마이닝,512010
+AGRO,Adecoagro SA,식품 및 담배,541020
+CCX,Churchill Capital Corp II Class A,기타 금융업,556010
+QUOT,Quotient Technology Inc,미디어 및 출판,533020
+LL,Lumber Liquidators Holdings Inc,전문품 상점,534030
+BAC PR A,Bank of America Corp ADR,은행,551010
+LEAP,Ribbit LEAP Ltd Class A,기타 금융업,556010
+BMA,Banco Macro SA ADR,은행,551010
+DLY,DoubleLine Yield Opportunities Fund,다양한 금융서비스,555010
+KYN,Kayne Anderson Energy Infrastructure Fund Inc,다양한 금융서비스,555010
+PML,PIMCO Municipal Income Fund II,다양한 금융서비스,555010
+AHH,Armada Hoffler Properties Inc,주택 및 상업용 리츠,601020
+DBD,Diebold Nixdorf Inc,"컴퓨터, 전화 및 가전제품",571060
+RTP.U,Reinvent Technology Partners,기타 금융업,556010
+HNGR,Hanger Inc,헬스케어 업체 및 서비스,561020
+GRC,Gorman-Rupp Co,"건설장비 및 대형차, 기차, 배",521020
+BANC,Banc of California Inc,은행,551010
+VTOL,Bristow Group Inc,운송업,524060
+TEN,Tenneco Inc Class A,자동차 및 자동차 부품,531010
+MET PR E,MetLife Inc ADR,보험,553010
+BKD,Brookdale Senior Living Inc,헬스케어 업체 및 서비스,561020
+LC,LendingClub Corp,은행,551010
+GATO,Gatos Silver Inc,메탈&마이닝,512010
+GOF,Guggenheim Strategic Opportunities Fund,다양한 금융서비스,555010
+RES,RPC Inc,오일 및 가스 장비 및 서비스,501030
+HEXO,Hexo Corp,제약,562010
+HMI,Huami Corp ADR,"컴퓨터, 전화 및 가전제품",571060
+NX,Quanex Building Products Corp,주택건설,532030
+VMO,Invesco Van Kampen Municipal Opportunity Trust,다양한 금융서비스,555010
+JQC,Nuveen Credit Strategies Income Fund,다양한 금융서비스,555010
+VET,Vermilion Energy Inc,오일 및 가스,501020
+TALO,Talos Energy Inc,오일 및 가스,501020
+NEX,Nextier Oilfield Solutions Inc,오일 및 가스 장비 및 서비스,501030
+CKH,SEACOR Holdings Inc,오일 및 가스 장비 및 서비스,501030
+SFL,SFL Corporation Ltd,오일 및 가스 장비 및 서비스,501030
+TPB,Turning Point Brands Inc,식품 및 담배,541020
+THQ,Tekla Healthcare Opportunities Fund,다양한 금융서비스,555010
+BHK,BlackRock Core Bond Trust,다양한 금융서비스,555010
+STT PR D,State Street Corp ADR,투자은행 및 서비스,551020
+CARS,Cars.com Inc,소프트웨어 및 IT서비스,572010
+STNG,Scorpio Tankers Inc,오일 및 가스 장비 및 서비스,501030
+ERF,Enerplus Corp,오일 및 가스,501020
+CXW,Corecivic Inc,주택 및 상업용 리츠,601020
+DESP,Despegar.com Corp,호텔 및 엔터테인먼트,533010
+TPC,Tutor Perini Corp,건설 및 엔지니어링,522010
+EQH PR A,Equitable Holdings Inc ADR,투자은행 및 서비스,551020
+TPGY.U,TPG Pace Beneficial Finance Corp.,기타 금융업,556010
+PUMP,ProPetro Holding Corp,오일 및 가스 장비 및 서비스,501030
+TEO,Telecom Argentina SA ADR,통신 서비스,574010
+ACCO,ACCO Brands Corp,전문 및 상업 서비스,522030
+GEL,Genesis Energy LP Unit Class A,오일 및 가스 장비 및 서비스,501030
+FBM,Foundation Building Materials Inc,주택건설,532030
+SRI,Stoneridge Inc,자동차 및 자동차 부품,531010
+PAM,Pampa Energia SA ADR,전기 유틸리티,591010
+VAPO,Vapotherm Inc,헬스케어 장비 및 용품,561010
+EMD,Western Asset Emerging Markets Debt Fund Inc,다양한 금융서비스,555010
+AVAN,Avanti Acquisition Corp Class A,기타 금융업,556010
+TRTX,TPG RE Finance Trust Inc,주택 및 상업용 리츠,601020
+RBAC,RedBall Acquisition Corp Class A,기타 금융업,556010
+BCSF,Bain Capital Specialty Finance Inc,투자은행 및 서비스,551020
+RA,Brookfield Real Assets Income Fund Inc,다양한 금융서비스,555010
+TDF,Templeton Dragon Fund Inc,다양한 금융서비스,555010
+GLT,Glatfelter Corp,종이 및 임산물,513010
+IGR,CBRE Clarion Global Real Estate Income Fund,다양한 금융서비스,555010
+NDMO,Nuveen Dynamic Municipal Opportunities Fund,,
+GS PR K,Goldman Sachs Group Inc ADR,투자은행 및 서비스,551020
+SHI,Sinopec Shanghai Petrochemical Co Ltd ADR,오일 및 가스,501020
+BEST,BEST Inc ADR,화물 및 물류 서비스,524050
+KNL,Knoll Inc,전문 및 상업 서비스,522030
+MYE,Myers Industries Inc,용기 및 포장,513020
+PRTY,Party City Holdco Inc,전문품 상점,534030
+VGAC,VG Acquisition Corp Class A,기타 금융업,556010
+PHK,PIMCO High Income Fund,다양한 금융서비스,555010
+MDP,Meredith Corp,미디어 및 출판,533020
+GPRK,GeoPark Ltd,오일 및 가스,501020
+VYGG,Vy Global Growth Class A,기타 금융업,556010
+AC,Associated Capital Group Inc Class A,투자은행 및 서비스,551020
+SYF PR A,Synchrony Financial ADR,은행,551010
+IPOD.U,Social Capital Hedosophia Holdings Corp. IV,기타 금융업,556010
+NIE,AllianzGI Equity & Convertible Income Fund,다양한 금융서비스,555010
+CEL,Cellcom Israel Ltd,통신 서비스,574010
+CIR,CIRCOR International Inc,"건설장비 및 대형차, 기차, 배",521020
+VVI,Viad Corp,미디어 및 출판,533020
+CCX.U,Churchill Capital Corp II Unit Class A,기타 금융업,556010
+CII,BlackRock Enhanced Capital And Income Fund Inc,다양한 금융서비스,555010
+SCHW PR D,Charles Schwab Corp ADR,투자은행 및 서비스,551020
+CBB,Cincinnati Bell Inc,통신 서비스,574010
+WFC PR N,Wells Fargo & Co ADR,은행,551010
+FI,Franks International NV,오일 및 가스 장비 및 서비스,501030
+ARCH,Arch Resources Inc Class A,석유,501010
+CNP PR B,CenterPoint Energy Inc ADR,복합 유틸리티,591040
+PARR,Par Pacific Holdings Inc,오일 및 가스,501020
+RPT,RPT Realty,주택 및 상업용 리츠,601020
+MSGN,MSG Networks Inc Class A,미디어 및 출판,533020
+BCX,BlackRock Resources and Commodities Strategy Trust,다양한 금융서비스,555010
+WLKP,Westlake Chemical Partners LP Unit,화학,511010
+CYD,China Yuchai International Ltd,자동차 및 자동차 부품,531010
+AAN,Aaron's Company Inc,은행,551010
+CFXA,Colfax Corp Unit,"건설장비 및 대형차, 기차, 배",521020
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund,다양한 금융서비스,555010
+ETP PR E,Energy Transfer Operating LP PRF,오일 및 가스 장비 및 서비스,501030
+MNRL,Brigham Minerals Inc Class A,오일 및 가스,501020
+BOAC.U,Bluescape Opportunities Acquisition Corp,기타 금융업,556010
+GOAC,GO Acquisition Corp Class A,기타 금융업,556010
+GIM,Templeton Global Income Fund,다양한 금융서비스,555010
+BFS,Saul Centers Inc,주택 및 상업용 리츠,601020
+HTD,John Hancock Tax Advantaged Dividend Income Fund,다양한 금융서비스,555010
+HLX,Helix Energy Solutions Group Inc,오일 및 가스 장비 및 서비스,501030
+QEP,QEP Resources Inc,오일 및 가스,501020
+KOP,Koppers Holdings Inc,화학,511010
+SII,Sprott Inc,투자은행 및 서비스,551020
+AGM,Federal Agricultural Mortgage Corp Class C,은행,551010
+AMBC,Ambac Financial Group Inc,보험,553010
+AGX,Argan Inc,건설 및 엔지니어링,522010
+AGCB,Altimeter Growth 2 Corp Class A,기타 금융업,556010
+SWT,Stanley Black & Decker Inc Unit,"건설장비 및 대형차, 기차, 배",521020
+DBI,Designer Brands Inc Class A,전문품 상점,534030
+HFRO,Highland Income Fund,다양한 금융서비스,555010
+IIM,Invesco Value Municipal Income Trust,다양한 금융서비스,555010
+AIV,Apartment Investment and Management Co Class A,주택 및 상업용 리츠,601020
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,다양한 금융서비스,555010
+PFN,PIMCO Income Strategy Fund II,다양한 금융서비스,555010
+WFC PR Y,Wells Fargo & Co ADR,은행,551010
+SLCA,U.S. Silica Holdings Inc,메탈&마이닝,512010
+LDP,Cohen & Steers Ltd Duration Preferred & Income Fund Inc,다양한 금융서비스,555010
+FTHY,First Trust High Yield Opportunities 2027 Term Fund,다양한 금융서비스,555010
+EXK,Endeavour Silver Corp,메탈&마이닝,512010
+HZAC,Horizon Acquisition Corp Class A,기타 금융업,556010
+GS PR A,Goldman Sachs Group Inc ADR,투자은행 및 서비스,551020
+NMCO,Nuveen Municipal Credit Opportunities Fund,다양한 금융서비스,555010
+NLY PR F,Annaly Capital Management Inc PRF,주택 및 상업용 리츠,601020
+RMAX,Re/Max Holdings Inc Class A,부동산 운영 관리,601010
+BOE,BlackRock Enhanced Global Dividend Trust,다양한 금융서비스,555010
+VKQ,Invesco Municipal Trust,다양한 금융서비스,555010
+ARR,ARMOUR Residential REIT Inc,주택 및 상업용 리츠,601020
+CUBI,Customers Bancorp Inc,은행,551010
+MOD,Modine Manufacturing Co,자동차 및 자동차 부품,531010
+TREB,Trebia Acquisition Corp Class A,기타 금융업,556010
+VGM,Invesco Trust for Investment Grade Municipals,다양한 금융서비스,555010
+CPS,Cooper-Standard Holdings Inc,자동차 및 자동차 부품,531010
+SQZ,SQZ Biotechnologies Co,생명과학 및 메디컬 리서치,562020
+HZON,Horizon Acquisition II Corp Class A,기타 금융업,556010
+GS PR N,Goldman Sachs Group Inc ADR,투자은행 및 서비스,551020
+ATEN,A10 Networks Inc,소프트웨어 및 IT서비스,572010
+LPG,Dorian LPG Ltd,오일 및 가스 장비 및 서비스,501030
+WTRU,Essential Utilities Inc Unit,수도 유틸리티,591030
+CCO,Clear Channel Outdoor Holdings Inc,미디어 및 출판,533020
+TBI,TrueBlue Inc,전문 및 상업 서비스,522030
+AVAN.U,Avanti Acquisition Corp,기타 금융업,556010
+TGI,Triumph Group Inc,우주항공 및 국방,521010
+RBAC.U,RedBall Acquisition Corp,기타 금융업,556010
+VTA,Invesco Dynamic Credit Opportunities Fund,다양한 금융서비스,555010
+IQI,Invesco Quality Municipal Income Trust,다양한 금융서비스,555010
+PCN,Pimco Corporate & Income Strategy Fund,다양한 금융서비스,555010
+DMS,Digital Media Solutions Inc Class A,미디어 및 출판,533020
+ARLO,Arlo Technologies Inc,소프트웨어 및 IT서비스,572010
+BFK,BlackRock Municipal Income Trust,다양한 금융서비스,555010
+BEDU,Bright Scholar Education Holdings Ltd ADR,교육서비스,631010
+CLW,Clearwater Paper Corp,종이 및 임산물,513010
+CPAC,Cementos Pacasmayo SAA ADR,건축 자재,512020
+VGAC.U,VG Acquisition Corp,기타 금융업,556010
+ATH PR C,Athene Holding Ltd ADR,보험,553010
+EFC,Ellington Financial Inc,주택 및 상업용 리츠,601020
+PACE,Tpg Pace Tech Opportunities Corp Class A,기타 금융업,556010
+PCPL,CC Neuberger Principal Holdings I Class A,기타 금융업,556010
+WCC PR A,Wesco International Inc ADR,"건설장비 및 대형차, 기차, 배",521020
+MYD,BlackRock MuniYield Fund Inc,다양한 금융서비스,555010
+CAL,Caleres Inc,전문품 상점,534030
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,다양한 금융서비스,555010
+DCO,Ducommun Inc,우주항공 및 국방,521010
+PDT,John Hancock Premium Dividend Fund,다양한 금융서비스,555010
+BOAC,Bluescape Opportunities Acquisition Corp Class A,기타 금융업,556010
+ATH PR B,Athene Holding Ltd ADR,보험,553010
+NID,Nuveen Intermediate Duration Municipal Term Fund,다양한 금융서비스,555010
+CPE,Callon Petroleum Co,오일 및 가스,501020
+LEAP.U,Ribbit LEAP Ltd,기타 금융업,556010
+IFFT,International Flavors & Fragrances Inc Unit,식품 및 담배,541020
+NEE PR N,NextEra Energy Capital Holdings Inc PRF,은행,551010
+NPK,National Presto Industries Inc,우주항공 및 국방,521010
+WFC PR O,Wells Fargo & Co ADR,은행,551010
+HGH,Hartford Financial Services Group Inc PRF,보험,553010
+CAPL,Crossamerica Partners LP Unit,오일 및 가스,501020
+MX,MagnaChip Semiconductor Corp,반도체 및 반도체 장비,571010
+PPR,Voya Prime Rate Trust,다양한 금융서비스,555010
+UTL,Unitil Corp,복합 유틸리티,591040
+NBB,Nuveen Taxable Municipal Income Fund,다양한 금융서비스,555010
+PBFX,PBF Logistics LP Unit,오일 및 가스 장비 및 서비스,501030
+DFIN,Donnelley Financial Solutions Inc,전문 및 상업 서비스,522030
+NLS,Nautilus Inc,레저 상품,532050
+BIT,Blackrock Multi-Sector Income Trust,다양한 금융서비스,555010
+MRC,MRC Global Inc,"건설장비 및 대형차, 기차, 배",521020
+NVGS,Navigator Holdings Ltd,오일 및 가스 장비 및 서비스,501030
+TCS,Container Store Group Inc,전문품 상점,534030
+VYGG.U,Vy Global Growth,기타 금융업,556010
+KODK,Eastman Kodak Co,"컴퓨터, 전화 및 가전제품",571060
+FPAC.U,Far Peak Acquisition Corp Unit,기타 금융업,556010
+EOI,Eaton Vance Enhanced Equity Income Fund,다양한 금융서비스,555010
+BTO,John Hancock Financial Opportunities Fund,다양한 금융서비스,555010
+BY,Byline Bancorp Inc,은행,551010
+BLX,Foreign Trade Bank of Latin America Inc Class E,은행,551010
+RC,Ready Capital Corp,주택 및 상업용 리츠,601020
+WFC PR P,Wells Fargo & Co ADR,은행,551010
+LOMA,Loma Negra Compania Industrial Argentina SA ADR,건축 자재,512020
+ASIX,AdvanSix Inc,화학,511010
+VEC,Vectrus Inc,전문 및 상업 서비스,522030
+ALL PR G,Allstate Corp ADR,보험,553010
+UMH,UMH Properties Inc,주택 및 상업용 리츠,601020
+USB PR P,U.S. Bancorp ADR,은행,551010
+TFC PR O,Truist Financial Corp ADR,은행,551010
+HIO,Western Asset High Income Opportunity Fund Inc,다양한 금융서비스,555010
+BBAR,Banco Bbva Argentina SA ADR,은행,551010
+CURO,CURO Group Holdings Corp,은행,551010
+GOAC.U,GO Acquisition Corp,기타 금융업,556010
+VVR,Invesco senior income trust,다양한 금융서비스,555010
+GMRE,Global Medical REIT Inc,주택 및 상업용 리츠,601020
+VCV,Invesco California Value Municipal Income Trust,다양한 금융서비스,555010
+FF,FutureFuel Corp,재생에너지,502010
+BGY,BlackRock Enhanced International Dividend Trust,다양한 금융서비스,555010
+PROS,ProSight Global Inc,보험,553010
+IHC,Independence Holding Co,보험,553010
+PZN,Pzena Investment Management Inc Class A,투자은행 및 서비스,551020
+HZAC.U,Horizon Acquisition Corp,기타 금융업,556010
+CSV,Carriage Services Inc,"개인, 가정 용품 및 서비스",542010
+CAAP,Corporacion America Airports SA,운송 인프라,524070
+IVR,Invesco Mortgage Capital Inc,주택 및 상업용 리츠,601020
+SCHW PR C,Charles Schwab Corp ADR,투자은행 및 서비스,551020
+WTTR,Select Energy Services Inc Class A,오일 및 가스 장비 및 서비스,501030
+MUC,BlackRock Muniholdings California Quality Fund Inc,다양한 금융서비스,555010
+MET PR A,MetLife Inc PRF,보험,553010
+SRG,Seritage Growth Properties Class A,주택 및 상업용 리츠,601020
+MMD,Mainstay Mackay Definedterm Municipal Opportunities Fund,다양한 금융서비스,555010
+TREB.U,Trebia Acquisition Corp Unit,기타 금융업,556010
+WBAI,500.Com Ltd ADR,호텔 및 엔터테인먼트,533010
+RFP,Resolute Forest Products Inc,종이 및 임산물,513010
+GLP,Global Partners LP Unit,오일 및 가스,501020
+CPF,Central Pacific Financial Corp,은행,551010
+CAI,CAI International Inc,화물 및 물류 서비스,524050
+BBDC,Barings BDC Inc,다양한 금융서비스,555010
+LDL,Lydall Inc,"건설장비 및 대형차, 기차, 배",521020
+NEE PR K,NextEra Energy Capital Holdings Inc PRF,은행,551010
+DAC,Danaos Corp,화물 및 물류 서비스,524050
+SEAH,Sports Entertainment Acquisition Corp. Class A,기타 금융업,556010
+GHY,PGIM Global High Yield Fund Inc,다양한 금융서비스,555010
+KNOP,Knot Offshore Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+NXJ,Nuveen New Jersey Quality Municipal Income Fund,다양한 금융서비스,555010
+NYCB PR A,New York Community Bancorp Inc ADR,은행,551010
+HZON.U,Horizon Acquisition II Corp,기타 금융업,556010
+CLDT,Chatham Lodging Trust,주택 및 상업용 리츠,601020
+MVF,BlackRock MuniVest Fund Inc,다양한 금융서비스,555010
+ETH,Ethan Allen Interiors Inc,가정용품,532040
+ONE,OneSmart International Education Group Ltd ADR,교육서비스,631010
+GCO,Genesco Inc,전문품 상점,534030
+SRE PR B,Sempra Energy Convertible Preference Shares Series B,복합 유틸리티,591040
+CEQP PR,Crestwood Equity Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+BGB,Blackstone Strategic Credit Fund,다양한 금융서비스,555010
+REVG,REV Group Inc,"건설장비 및 대형차, 기차, 배",521020
+AVK,Advent Convertible and Income Fund,다양한 금융서비스,555010
+RF PR C,Regions Financial Corp ADR,은행,551010
+REV,Revlon Inc Class A,"개인, 가정 용품 및 서비스",542010
+THR,Thermon Group Holdings Inc,"건설장비 및 대형차, 기차, 배",521020
+ACIC.U,Atlas Crest Investment Corp,기타 금융업,556010
+BLW,BlackRock Ltd Duration Income Trust,다양한 금융서비스,555010
+TG,Tredegar Corp,메탈&마이닝,512010
+RYI,Ryerson Holding Corp,메탈&마이닝,512010
+HIX,Western Asset High Income Fund II Inc,다양한 금융서비스,555010
+BME,Blackrock Health Sciences Trust,다양한 금융서비스,555010
+FMAC,FirstMark Horizon Acquisition Corp Class A,기타 금융업,556010
+AXS PR E,AXIS Capital Holdings Ltd ADR,보험,553010
+DMYD,dMY Technology Group II Inc Class A,기타 금융업,556010
+HVT,Haverty Furniture Companies Inc,전문품 상점,534030
+STT PR G,State Street Corp ADR,투자은행 및 서비스,551020
+SPNV,Supernova Partners Acquisition Company  Inc. Class A,기타 금융업,556010
+MUI,BlackRock Muni Intermediate Duration Fund Inc,다양한 금융서비스,555010
+KEY PR I,KeyCorp ADR,은행,551010
+RF PR B,Regions Financial Corp ADR,은행,551010
+GLOG,GasLog Ltd,화물 및 물류 서비스,524050
+AIG PR A,American International Group Inc ADR,보험,553010
+IFN,India Fund Inc,다양한 금융서비스,555010
+MMU,Western Asset Managed Municipals Fund Inc,다양한 금융서비스,555010
+EFT,Eaton Vance Floating-Rate Income Trust,다양한 금융서비스,555010
+CCV.U,Churchill Capital V Corp,기타 금융업,556010
+IMPX,AEA-Bridges Impact Corp. Class A,기타 금융업,556010
+FLNG,FLEX LNG Ltd,오일 및 가스,501020
+TUFN,Tufin Software Technologies Ltd,소프트웨어 및 IT서비스,572010
+ACND,Ascendant Digital Acquisition Corp Class A,기타 금융업,556010
+DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund,다양한 금융서비스,555010
+ATH PR D,Athene Holding Ltd ADR,보험,553010
+NPTN,NeoPhotonics Corp,반도체 및 반도체 장비,571010
+CMO,Capstead Mortgage Corp,주택 및 상업용 리츠,601020
+GCI,Gannett Co Inc,미디어 및 출판,533020
+PACE.U,Tpg Pace Tech Opportunities Corp,기타 금융업,556010
+GPMT,Granite Point Mortgage Trust Inc,주택 및 상업용 리츠,601020
+EQD,Equity Distribution Acquisition Corp Class A,기타 금융업,556010
+ELAT,Elanco Animal Health Inc Unit,제약,562010
+MPX,Marine Products Corp,레저 상품,532050
+ALL PR B,Allstate Corp PRF,보험,553010
+REX,REX American Resources Corp,재생에너지,502010
+MUA,BlackRock MuniAssets Fund Inc,다양한 금융서비스,555010
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc,다양한 금융서비스,555010
+ECOM,ChannelAdvisor Corp,소프트웨어 및 IT서비스,572010
+GTS,Triple-S Management Corp Class B,헬스케어 업체 및 서비스,561020
+HMLP,Hoegh LNG Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+JPI,Nuveen Preferred and Income Term Fund,다양한 금융서비스,555010
+ASPN,Aspen Aerogels Inc,주택건설,532030
+BXG,Bluegreen Vacations Corp,호텔 및 엔터테인먼트,533010
+FUSE,Fusion Acquisition Corp Class A,기타 금융업,556010
+AVD,American Vanguard Corp,화학,511010
+EVN,Eaton Vance Municipal Income Trust,다양한 금융서비스,555010
+MFL,Blackrock Muniholdings Investment Quality Fund,다양한 금융서비스,555010
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund,다양한 금융서비스,555010
+COE,China Online Education Group ADR,비즈니스교육,631030
+DNK,Phoenix Tree Holdings Ltd ADR,부동산 운영 관리,601010
+INSW,International Seaways Inc,오일 및 가스 장비 및 서비스,501030
+PSA PR N,Public Storage ADR,주택 및 상업용 리츠,601020
+HPS,John Hancock Preferred Income Fund III,다양한 금융서비스,555010
+PCPL.U,CC Neuberger Principal Holdings I Unit,기타 금융업,556010
+NCV,Allianzgi Convertible & Income Fund,다양한 금융서비스,555010
+PSA PR L,Public Storage ADR,주택 및 상업용 리츠,601020
+COF PR H,Capital One Financial Corp ADR,은행,551010
+ACIC,Atlas Crest Investment Corp Class A,기타 금융업,556010
+JFR,Nuveen Floating Rate Income Fund,다양한 금융서비스,555010
+MS PR L,Morgan Stanley ADR,투자은행 및 서비스,551020
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,다양한 금융서비스,555010
+UZD,United States Cellular Corp PRF,통신 서비스,574010
+MYN,BlackRock MuniYield New York Quality Fund Inc,다양한 금융서비스,555010
+NEW,Puxin Ltd ADR,교육서비스,631010
+IIAC,Investindustrial Acquisition Corp Class A,기타 금융업,556010
+DUKH,Duke Energy Corp PRF,전기 유틸리티,591010
+IPV,InterPrivate Acquisition Corp,기타 금융업,556010
+PNTM.U,Pontem Corp,기타 금융업,556010
+LEO,BNY Mellon Strategic Municipals Inc,다양한 금융서비스,555010
+JIH,Juniper Industrial Holdings Inc Class A,기타 금융업,556010
+MTW,Manitowoc Company Inc,"건설장비 및 대형차, 기차, 배",521020
+JHB,Nuveen Corporate Income November 2021 Target Term Fund,다양한 금융서비스,555010
+MQY,BlackRock MuniYield Quality Fund Inc,다양한 금융서비스,555010
+SEAH.U,Sports Entertainment Acquisition Corp.,기타 금융업,556010
+MCA,Blackrock Muniyield California Quality Fund Inc,다양한 금융서비스,555010
+NHF,NexPoint Strategic Opportunities Fund,다양한 금융서비스,555010
+TFC PR G,Truist Financial Corp ADR,은행,551010
+FSD,First Trust High Income Long/Short Fund,다양한 금융서비스,555010
+USB PR O,U.S. Bancorp ADR,은행,551010
+ISD,PGIM High Yield Bond Fund Inc,다양한 금융서비스,555010
+FRC PR K,First Republic Bank ADR,은행,551010
+THW,Tekla World Healthcare Fund,다양한 금융서비스,555010
+UZE,United States Cellular Corp PRF,통신 서비스,574010
+FMAC.U,FirstMark Horizon Acquisition Corp,기타 금융업,556010
+TDW,Tidewater Inc,오일 및 가스 장비 및 서비스,501030
+NBR,Nabors Industries Ltd,오일 및 가스 장비 및 서비스,501030
+EFR,Eaton Vance Senior Floating-Rate Trust,다양한 금융서비스,555010
+DSU,BlackRock Debt Strategies Fund Inc,다양한 금융서비스,555010
+VHI,Valhi Inc,화학,511010
+SRLP,Sprague Resources LP Unit,오일 및 가스,501020
+FAII,Fortress Value Acquisition Corp II Class A,기타 금융업,556010
+MCS,Marcus Corp,호텔 및 엔터테인먼트,533010
+DMYD.U,dMY Technology Group II Inc,기타 금융업,556010
+PKO,PIMCO Income Opportunity Fund,다양한 금융서비스,555010
+LXFR,Luxfer Holdings PLC,"건설장비 및 대형차, 기차, 배",521020
+USB PR Q,U.S. Bancorp ADR,은행,551010
+UVE,Universal Insurance Holdings Inc,보험,553010
+CAF,Morgan Stanley China A Share Fund Inc,다양한 금융서비스,555010
+HPI,John Hancock Preferred Income Fund,다양한 금융서비스,555010
+SXC,SunCoke Energy Inc,메탈&마이닝,512010
+VPG,Vishay Precision Group Inc,"건설장비 및 대형차, 기차, 배",521020
+GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust,다양한 금융서비스,555010
+BZH,Beazer Homes USA Inc,주택건설,532030
+KEY PR K,KeyCorp ADR,은행,551010
+CO,Global Cord Blood Corp,헬스케어 업체 및 서비스,561020
+MOV,Movado Group Inc,섬유 및 의류,532020
+EBF,Ennis Inc,전문 및 상업 서비스,522030
+DPG,Duff & Phelps Utility and Infrastructure Fund Inc,다양한 금융서비스,555010
+SOI,Solaris Oilfield Infrastructure Inc Class A,오일 및 가스 장비 및 서비스,501030
+RYAM,Rayonier Advanced Materials Inc,화학,511010
+STPC.U,Star Peak Corp II,기타 금융업,556010
+HQL,Tekla Life Sciences Investors,다양한 금융서비스,555010
+ESGC,Eros STX Global Corp Class A,미디어 및 출판,533020
+FUSE.U,Fusion Acquisition Corp Unit,기타 금융업,556010
+ACND.U,Ascendant Digital Acquisition Corp,기타 금융업,556010
+SPNV.U,"Supernova Partners Acquisition Company, Inc.",기타 금융업,556010
+TFC PR H,Truist Financial Corp ADR,은행,551010
+PPT,Putnam Premier Income Trust,다양한 금융서비스,555010
+IPV.U,InterPrivate Acquisition Corp Unit,기타 금융업,556010
+BCEI,Bonanza Creek Energy Inc,오일 및 가스,501020
+CFG PR E,Citizens Financial Group Inc ADR,은행,551010
+VER PR F,VEREIT Inc PRF,주택 및 상업용 리츠,601020
+STIC,Northern Star Acquisition Corp Class A,기타 금융업,556010
+HIGA,HIG Acquisition Corp Class A,기타 금융업,556010
+MNR PR C,Monmouth Real Estate Investment Corp PRF,주택 및 상업용 리츠,601020
+VNTR,Venator Materials PLC,화학,511010
+RMT,Royce Micro-Cap Trust Inc,다양한 금융서비스,555010
+SDHY,Pgim Short Duration High Yield Opportunities Fund,다양한 금융서비스,555010
+NTST,Netstreit Corp,부동산 운영 관리,601010
+UBA,Urstadt Biddle Properties Inc Class A,주택 및 상업용 리츠,601020
+SNR,New Senior Investment Group Inc,주택 및 상업용 리츠,601020
+MLR,Miller Industries Inc,자동차 및 자동차 부품,531010
+GBL,GAMCO Investors Inc Class A,투자은행 및 서비스,551020
+MTL,Mechel PAO ADR,메탈&마이닝,512010
+CTT,CatchMark Timber Trust Inc Class A,주택 및 상업용 리츠,601020
+IMPX.U,AEA-Bridges Impact Corp.,기타 금융업,556010
+PMO,Putnam Municipal Opportunities Trust,다양한 금융서비스,555010
+TFC PR F,Truist Financial Corp ADR,은행,551010
+BUI,Blackrock Utilities Infrastructure & Power Opportunities Trust,다양한 금융서비스,555010
+EQD.U,Equity Distribution Acquisition Corp,기타 금융업,556010
+NAT,Nordic American Tanker Ltd,오일 및 가스 장비 및 서비스,501030
+JIH.U,Juniper Industrial Holdings Inc Unit Class A,기타 금융업,556010
+BQ,Boqii Holding Ltd ADR,전문품 상점,534030
+SNPR,Tortoise Acquisition II Corp Class A,기타 금융업,556010
+SCE PR L,SCE Trust VI PRF,전기 유틸리티,591010
+MOTV.U,Motive Capital Corp,기타 금융업,556010
+AWP,Aberdeen Global Premier Properties Fund,다양한 금융서비스,555010
+KTF,DWS Municipal Income Trust,다양한 금융서비스,555010
+FRA,BlackRock Floating Rate Income Strategies Fund Inc,다양한 금융서비스,555010
+STK,Columbia Seligman Premium Technology Growth Fund Inc,다양한 금융서비스,555010
+SFTW.U,Osprey Technology Acquisition Corp Unit Class A,기타 금융업,556010
+KEY PR J,KeyCorp ADR,은행,551010
+EHI,Western Asset Global High Income Fund Inc,다양한 금융서비스,555010
+SBR,Sabine Royalty Trust Unit,오일 및 가스,501020
+DEH,D8 Holdings Corp Class A,기타 금융업,556010
+YAC,Yucaipa Acquisition Corp Class A,기타 금융업,556010
+NLY PR I,Annaly Capital Management Inc PRF,주택 및 상업용 리츠,601020
+MIN,MFS Intermediate Income Trust,다양한 금융서비스,555010
+JW.B,John Wiley & Sons Inc Class B,전문 및 상업 서비스,522030
+GUT,Gabelli Utility Trust,다양한 금융서비스,555010
+ENPC.U,Executive Network Partnering Corp,기타 금융업,556010
+PCPC.U,Periphas Capital Partnering Corp,기타 금융업,556010
+BFZ,BlackRock California Municipal Income Trust,다양한 금융서비스,555010
+OAC,Oaktree Acquisition Corp Class A,기타 금융업,556010
+SNPR.U,Tortoise Acquisition II Corp,기타 금융업,556010
+SOAC,Sustainable Opportunities Acquisition Corp Class A,기타 금융업,556010
+IIAC.U,Investindustrial Acquisition Corp,기타 금융업,556010
+QVCC,QVC Inc PRF,소프트웨어 및 IT서비스,572010
+TWND,Tailwind Acquisition Corp Class A,기타 금융업,556010
+RZA,Reinsurance Group of America Inc PRF,보험,553010
+TWI,Titan International Inc,자동차 및 자동차 부품,531010
+CBAH.U,CBRE Acquisition Holdings Inc,기타 금융업,556010
+HCI,Hci Group Inc,보험,553010
+MHN,Blackrock Muniholdings New York Quality Fund Inc,다양한 금융서비스,555010
+OLP,One Liberty Properties Inc,주택 및 상업용 리츠,601020
+PDAC,Peridot Acquisition Corp Class A,기타 금융업,556010
+NGAB.U,Northern Genesis Acquisition Corp II,,
+DMYI,dMY Technology Group III Inc Class A,기타 금융업,556010
+FPH,Five Point Holdings LLC Class A,부동산 운영 관리,601010
+NAN,Nuveen New York Quality Municipal Income Fund,다양한 금융서비스,555010
+MUJ,BlackRock Muniholdings New Jersy Quality Fund Inc,다양한 금융서비스,555010
+QTS PR B,QTS Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+GIK.U,Gigcapital3 Inc Unit,기타 금융업,556010
+ETM,Entercom Communications Corp Class A,미디어 및 출판,533020
+GIK,Gigcapital3 Inc,기타 금융업,556010
+ENPC,Executive Network Partnering Corp Class A,기타 금융업,556010
+VRS,Verso Corp Class A,종이 및 임산물,513010
+OIS,Oil States International Inc,오일 및 가스 장비 및 서비스,501030
+MIY,Blackrock Muniyield Michigan Quality Fund Inc,다양한 금융서비스,555010
+STON,StoneMor Partners LP,"개인, 가정 용품 및 서비스",542010
+PIAI,Prime Impact Acquisition I Class A,기타 금융업,556010
+BML PR L,Bank of America Corp ADR,은행,551010
+SFTW,Osprey Technology Acquisition Corp Class A,기타 금융업,556010
+CIO,City Office REIT Inc,주택 및 상업용 리츠,601020
+XPOA,DPCM Capital Inc Class A,기타 금융업,556010
+SPRQ.U,Spartan Acquisition II Corp,기타 금융업,556010
+NRGX,Pimco Energy and Tactical Credit Opportunities Fund,다양한 금융서비스,555010
+TPVG,Triplepoint Venture Growth BDC Corp,투자은행 및 서비스,551020
+ASA,ASA Gold and Precious Metals Ltd,다양한 금융서비스,555010
+FAII.U,Fortress Value Acquisition Corp II,기타 금융업,556010
+EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc,다양한 금융서비스,555010
+NLY PR G,Annaly Capital Management Inc PRF,주택 및 상업용 리츠,601020
+AEL PR A,American Equity Investment Life Holding Co ADR,보험,553010
+DX,Dynex Capital Inc,주택 및 상업용 리츠,601020
+TNK,Teekay Tankers Ltd Class A,오일 및 가스 장비 및 서비스,501030
+ZTR,Virtus Total Return Fund Inc,다양한 금융서비스,555010
+BTU,Peabody Energy Corp,석유,501010
+STIC.U,Northern Star Acquisition Corp,기타 금융업,556010
+RFL,Rafael Holdings Inc Class B,주택 및 상업용 리츠,601020
+ORC,Orchid Island Capital Inc,주택 및 상업용 리츠,601020
+TRC,Tejon Ranch Co,부동산 운영 관리,601010
+SOAC.U,Sustainable Opportunities Acquisition Corp Unit,기타 금융업,556010
+AENZ,Aenza SAA ADR,건설 및 엔지니어링,522010
+SCE PR G,SCE Trust II PRF,기타 금융업,556010
+AFB,Alliancebernstein National Municipal Income Fund Inc,다양한 금융서비스,555010
+ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund,다양한 금융서비스,555010
+OPY,Oppenheimer Holdings Inc Class A,은행,551010
+ACRE,Ares Commercial Real Estate Corp,주택 및 상업용 리츠,601020
+NEV,Nuveen Enhanced Municipal Value Fund,다양한 금융서비스,555010
+MUX,McEwen Mining Inc,메탈&마이닝,512010
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,다양한 금융서비스,555010
+BYM,BlackRock Municipal Income Quality Trust,다양한 금융서비스,555010
+CPLG,CorePoint Lodging Inc,주택 및 상업용 리츠,601020
+ETP PR D,Energy Transfer Operating LP PRF,오일 및 가스 장비 및 서비스,501030
+ARA,American Renal Associates Holdings Inc,헬스케어 업체 및 서비스,561020
+ESTE,Earthstone Energy Inc Class A,오일 및 가스,501020
+SGU,Star Group LP Unit,오일 및 가스,501020
+PMM,Putnam Managed Municipal Income Trust,다양한 금융서비스,555010
+SWBK.U,Switchback II Corp,기타 금융업,556010
+AMOV,America Movil SAB de CV ADR,통신 서비스,574010
+PMX,PIMCO Municipal Income Fund III,다양한 금융서비스,555010
+HIGA.U,HIG Acquisition Corp,기타 금융업,556010
+HPF,John Hancock Preferred Income Fund II,다양한 금융서비스,555010
+ETP PR C,Energy Transfer Operating LP PRF,오일 및 가스 장비 및 서비스,501030
+MBI,MBIA Inc,보험,553010
+PEO,Adams Natural Resources Fund Inc,다양한 금융서비스,555010
+SPFR.U,Jaws Spitfire Acquisition Corp,기타 금융업,556010
+BSN,Broadstone Acquisition Corp Class A,기타 금융업,556010
+HIG PR G,Hartford Financial Services Group Inc ADR,보험,553010
+PIPP,Pine Island Acquisition Corp Class A,기타 금융업,556010
+CEPU,Central Puerto SA ADR,전기 유틸리티,591010
+PDAC.U,Peridot Acquisition Corp,기타 금융업,556010
+NCZ,Allianzgi Convertible & Income Fund II,다양한 금융서비스,555010
+MCR,MFS Charter Income Trust,다양한 금융서비스,555010
+FCAX.U,Fortress Capital Acquisition Corp,,
+DSM,BNY Mellon Strategic Municipal Bond Fund Inc,다양한 금융서비스,555010
+BKT,Blackrock Income Trust Inc,다양한 금융서비스,555010
+APTS,Preferred Apartment Communities Inc,주택 및 상업용 리츠,601020
+TWND.U,Tailwind Acquisition Corp,기타 금융업,556010
+ALUS,Alussa Energy Acquisition Corp Class A,기타 금융업,556010
+MMT,MFS Multimarket Income Trust,다양한 금융서비스,555010
+ATAC,Altimar Acquisition Corp Class A,기타 금융업,556010
+DEH.U,D8 Holdings Corp Unit,기타 금융업,556010
+YAC.U,Yucaipa Acquisition Corp,기타 금융업,556010
+OAC.U,Oaktree Acquisition Corp Unit,기타 금융업,556010
+CLII,Climate Change Crisis Real Impact I Acquisition Corp Class A,기타 금융업,556010
+SNV PR E,Synovus Financial Corp PRF,은행,551010
+TGS,Transportadora de Gas del Sur SA ADR,오일 및 가스,501020
+CCAC,CITIC Capital Acquisition Corp Class A,기타 금융업,556010
+NGL,NGL Energy Partners LP Unit,오일 및 가스,501020
+WIA,Western Asset Inflation-Linked Income Fund,다양한 금융서비스,555010
+OIA,Invesco Municipal Income Opportunities Trust,다양한 금융서비스,555010
+TEI,Templeton Emerging Markets Income Fund,다양한 금융서비스,555010
+AIZP,Assurant Inc Convertible Preference Shares Series D,보험,553010
+JRO,Nuveen Floating Rate Income Opportunity Fund,다양한 금융서비스,555010
+JRI,Nuveen Real Asset Income and Growth Fund,다양한 금융서비스,555010
+DLR PR L,Digital Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+VRTV,Veritiv Corp,화물 및 물류 서비스,524050
+RPLA,Replay Acquisition Corp,기타 금융업,556010
+ASG,Liberty All-Star Growth Fund Inc,다양한 금융서비스,555010
+GFX.U,Golden Falcon Acquisition Corp,기타 금융업,556010
+MSB,Mesabi Trust,메탈&마이닝,512010
+TINV,Tiga Acquisition Corp,기타 금융업,556010
+PFL,PIMCO Income Strategy Fund,다양한 금융서비스,555010
+PLYM,Plymouth Industrial REIT Inc,주택 및 상업용 리츠,601020
+LHC.U,Leo Holdings Corp II Unit,기타 금융업,556010
+RM,Regional Management Corp,은행,551010
+CAP.U,Capitol Investment Corp V,기타 금융업,556010
+TISI,Team Inc,전문 및 상업 서비스,522030
+RMM,RiverNorth Managed Duration Municipal Income Fund Inc,다양한 금융서비스,555010
+BLE,BlackRock Municipal Income Trust II,다양한 금융서비스,555010
+VHC,VirnetX Holding Corp,소프트웨어 및 IT서비스,572010
+PMF,PIMCO Municipal Income Fund,다양한 금융서비스,555010
+WSR,Whitestone REIT,주택 및 상업용 리츠,601020
+PSA PR E,Public Storage ADR,주택 및 상업용 리츠,601020
+QD,Qudian Inc ADR,핀테크,573010
+FRC PR J,First Republic Bank ADR,은행,551010
+MEN,BlackRock MuniEnhanced Fund Inc,다양한 금융서비스,555010
+KKR PR A,KKR & Co Inc PRF,투자은행 및 서비스,551020
+JGH,Nuveen Global High Income Fund,다양한 금융서비스,555010
+CPSR,Capstar Special Purpose Acquisition Corp Class A,기타 금융업,556010
+CTAC,Cerberus Telecom Acquisition Corp Class A,기타 금융업,556010
+IVC,Invacare Corp,헬스케어 장비 및 용품,561010
+PIAI.U,Prime Impact Acquisition I,기타 금융업,556010
+USX,US Xpress Enterprises Inc Class A,화물 및 물류 서비스,524050
+BXC,Bluelinx Holdings Inc,주택건설,532030
+NSCO,Nesco Holdings Inc Class A,은행,551010
+UFI,Unifi Inc,섬유 및 의류,532020
+WTI,W&T Offshore Inc,오일 및 가스,501020
+IDT,IDT Corp Class B,통신 서비스,574010
+ACV,Allianzgi Diversified Income & Convertible Fund,다양한 금융서비스,555010
+NNN PR F,National Retail Properties Inc ADR,주택 및 상업용 리츠,601020
+IACA,Ion Acquisition Corp 1 Ltd Class A,기타 금융업,556010
+AMC,AMC Entertainment Holdings Inc Class A,호텔 및 엔터테인먼트,533010
+SAN PR B,Banco Santander SA PRF,은행,551010
+UZA,United States Cellular Corp PRF,통신 서비스,574010
+SOR,Source Capital Inc,다양한 금융서비스,555010
+XPOA.U,DPCM Capital Inc,기타 금융업,556010
+MYJ,BlackRock MuniYield New Jersey Fund Inc,다양한 금융서비스,555010
+FFA,First Trust Enhanced Equity Income Fund,다양한 금융서비스,555010
+FC,Franklin Covey Co,비즈니스교육,631030
+HYI,Western Asset High Yield Defined Opportunity Fund Inc,다양한 금융서비스,555010
+MOG.B,Moog Inc Class B,우주항공 및 국방,521010
+KRP,Kimbell Royalty Partners LP Unit,오일 및 가스,501020
+CLA,Colonnade Acquisition Corp Class A,기타 금융업,556010
+RFI,Cohen & Steers Total Return Realty Fund Inc,다양한 금융서비스,555010
+PDS,Precision Drilling Corp,오일 및 가스 장비 및 서비스,501030
+OOMA,Ooma Inc,통신 서비스,574010
+GNK,Genco Shipping & Trading Ltd,화물 및 물류 서비스,524050
+LEJU,Leju Holdings Ltd ADR,부동산 운영 관리,601010
+PCQ,PIMCO California Municipal Income Fund,다양한 금융서비스,555010
+ECC,Eagle Point Credit Company Inc,다양한 금융서비스,555010
+IPI,Intrepid Potash Inc,화학,511010
+FOF,Cohen and Steers Closed End Opportunity Fund Inc,다양한 금융서비스,555010
+NRZ PR C,New Residential Investment Corp PRF,주택 및 상업용 리츠,601020
+NGVC,Natural Grocers By Vitamin Cottage Inc,전문품 상점,534030
+RICE,Rice Acquisition Corp Class A,기타 금융업,556010
+BSN.U,Broadstone Acquisition Corp,기타 금융업,556010
+PSA PR D,Public Storage ADR,주택 및 상업용 리츠,601020
+RLJ PR A,RLJ Lodging Trust PRF,주택 및 상업용 리츠,601020
+PUK PR A,Prudential PLC PRF,보험,553010
+SRT,Startek Inc,전문 및 상업 서비스,522030
+RVI,Retail Value Inc,주택 및 상업용 리츠,601020
+FRX.U,Forest Road Acquisition Corp,기타 금융업,556010
+LPI,Laredo Petroleum Inc,오일 및 가스,501020
+VNO PR M,Vornado Realty Trust PRF,주택 및 상업용 리츠,601020
+CLII.U,Climate Change Crisis Real Impact I Acquisition Corp,기타 금융업,556010
+ARDC,Ares Dynamic Credit Allocation Fund Inc,다양한 금융서비스,555010
+HPX,HPX Corp Class A,기타 금융업,556010
+CFG PR D,Citizens Financial Group Inc ADR,은행,551010
+CLNY PR I,Colony Capital Inc PRF,주택 및 상업용 리츠,601020
+EEX,Emerald Holding Inc,전문 및 상업 서비스,522030
+VOYA PR B,Voya Financial Inc ADR,투자은행 및 서비스,551020
+NOA,North American Construction Group Ltd,오일 및 가스 장비 및 서비스,501030
+IACA.U,Ion Acquisition Corp 1 Ltd,기타 금융업,556010
+OACB,Oaktree Acquisition II Corp Class A,기타 금융업,556010
+EMPW,Empower Ltd Class A,기타 금융업,556010
+DMYI.U,dMY Technology Group III Inc,기타 금융업,556010
+HTPA.U,Highland Transcend Partners I Corp,기타 금융업,556010
+FIV,First Trust Senior Floating Rate 2022 Target Term Fund,다양한 금융서비스,555010
+CIA,Citizens Inc Class A,보험,553010
+ALUS.U,Alussa Energy Acquisition Corp Unit,기타 금융업,556010
+PIPP.U,Pine Island Acquisition Corp,기타 금융업,556010
+MVT,BlackRock MuniVest Fund II Inc,다양한 금융서비스,555010
+DL,China Distance Education Holdings Ltd ADR,전문 및 상업 서비스,522030
+HT,Hersha Hospitality Trust Class A,주택 및 상업용 리츠,601020
+KIO,KKR Income Opportunities Fund,다양한 금융서비스,555010
+ATAC.U,Altimar Acquisition Corp,기타 금융업,556010
+CCAC.U,CITIC Capital Acquisition Corp Unit,기타 금융업,556010
+FGNA,FG New America Acquisition Corp Class A,기타 금융업,556010
+AEL PR B,American Equity Investment Life Holding Co ADR,보험,553010
+GPM,Guggenheim Enhanced Equity Income Fund,다양한 금융서비스,555010
+FRC PR I,First Republic Bank ADR,은행,551010
+NMY,Nuveen Maryland Quality Municipal Income Fund,다양한 금융서비스,555010
+ASAQ,Atlantic Avenue Acquisition Corp Class A,기타 금융업,556010
+RPLA.U,Replay Acquisition Corp Unit,기타 금융업,556010
+CHN,China Fund Inc,다양한 금융서비스,555010
+LND,Brasilagro Companhia Brasileira de Propriedades Agricolas ADR,식품 및 담배,541020
+MCB,Metropolitan Bank Holding Corp,은행,551010
+YRD,Yiren Digital Ltd ADR,소프트웨어 및 IT서비스,572010
+TYG,Tortoise Energy Infrastructure Corp,다양한 금융서비스,555010
+APO PR B,Apollo Global Management Inc PRF,투자은행 및 서비스,551020
+IVAN.U,Ivanhoe Capital Acquisition Corp,기타 금융업,556010
+PSF,Cohen & Steers Select Preferred and Income Fund Inc,다양한 금융서비스,555010
+EMF,Templeton Emerging Markets Fund Inc,다양한 금융서비스,555010
+ALL PR I,Allstate Corp ADR,보험,553010
+MQT,BlackRock MuniYield Quality Fund II Inc,다양한 금융서비스,555010
+ARES PR A,Ares Management Corp PRF,투자은행 및 서비스,551020
+BAC PR E,Bank of America Corp ADR,은행,551010
+TLYS,Tillys Inc Class A,전문품 상점,534030
+PSA PR G,Public Storage ADR,주택 및 상업용 리츠,601020
+KMF,Kayne Anderson Nextgen Energy & Infrastructure Inc,다양한 금융서비스,555010
+PSA PR H,Public Storage ADR,주택 및 상업용 리츠,601020
+TINV.U,Tiga Acquisition Corp,기타 금융업,556010
+SCVX,SCVX Corp Class A,기타 금융업,556010
+EOT,Eaton Vance National Municipal Opportunities Trust,다양한 금융서비스,555010
+SCE PR J,SCE Trust IV PRF,은행,551010
+PSB PR Z,PS Business Parks Inc ADR,주택 및 상업용 리츠,601020
+VNO PR N,Vornado Realty Trust PRF,주택 및 상업용 리츠,601020
+MYC,BlackRock Muniyield California Fund Inc,다양한 금융서비스,555010
+FCT,First Trust Senior Floating Rate Income Fund II,다양한 금융서비스,555010
+RGS,Regis Corp,"개인, 가정 용품 및 서비스",542010
+FLY,FLY Leasing Ltd ADR,전문 및 상업 서비스,522030
+GF,New Germany Fund Inc,다양한 금융서비스,555010
+ASPL,Aspirational Consumer Lifestyle Corp Class A,기타 금융업,556010
+CPSR.U,Capstar Special Purpose Acquisition Corp Unit,기타 금융업,556010
+BGH,Barings Global Short Duration High Yield Fund,다양한 금융서비스,555010
+DTJ,DTE Energy Co PRF,전기 유틸리티,591010
+MIXT,MIX Telematics Ltd ADR,소프트웨어 및 IT서비스,572010
+SCE PR K,SCE Trust V PRF,다양한 금융서비스,555010
+CIM PR B,Chimera Investment Corp PRF,주택 및 상업용 리츠,601020
+TDJ,Telephone and Data Systems Inc PRF,통신 서비스,574010
+VNO PR K,Vornado Realty Trust PRF,주택 및 상업용 리츠,601020
+FEI,First Trust MLP and Energy Income Fund,다양한 금융서비스,555010
+DSSI,Diamond S Shipping Inc,오일 및 가스 장비 및 서비스,501030
+GSL,Global Ship Lease Inc Class A,화물 및 물류 서비스,524050
+ALTG,Alta Equipment Group Inc Class A,"건설장비 및 대형차, 기차, 배",521020
+PKE,Park Aerospace Corp,우주항공 및 국방,521010
+PRE PR H,PartnerRe Ltd PRF,보험,553010
+NCA,Nuveen California Municipal Value Fund Inc,다양한 금융서비스,555010
+VNO PR L,Vornado Realty Trust PRF,주택 및 상업용 리츠,601020
+VPV,Invesco Pennsylvania Value Municipal Income Trust,다양한 금융서비스,555010
+PSA PR B,Public Storage ADR,주택 및 상업용 리츠,601020
+IIF,Morgan Stanley India Investment Fund Inc,다양한 금융서비스,555010
+CLNY PR J,Colony Capital Inc PRF,주택 및 상업용 리츠,601020
+RCS,PIMCO Strategic Income Fund  Inc,다양한 금융서비스,555010
+TK,Teekay Corp,오일 및 가스 장비 및 서비스,501030
+VIAO,VIA Optronics AG ADR,반도체 및 반도체 장비,571010
+CTAC.U,Cerberus Telecom Acquisition Corp,기타 금융업,556010
+SBG,Sandbridge Acquisition Corp Class A,기타 금융업,556010
+MUE,BlackRock MuniHoldings Quality Fund II Inc,다양한 금융서비스,555010
+NSH,NavSight Holdings  Inc. Class A,기타 금융업,556010
+NUM,Nuveen Michigan Quality Income Municipal Fund Inc,다양한 금융서비스,555010
+EQH PR C,Equitable Holdings Inc ADR,투자은행 및 서비스,551020
+RTPZ,Reinvent Technology Partners Z Class A,기타 금융업,556010
+RICE.U,Rice Acquisition Corp,기타 금융업,556010
+DBL,Doubleline Opportunistic Credit Fund,다양한 금융서비스,555010
+DTY,DTE Energy Co PRF,전기 유틸리티,591010
+BTE,Baytex Energy Corp,오일 및 가스,501020
+CEM,Clearbridge MLP and Midstream Fund Inc,다양한 금융서비스,555010
+AONE,one Class A,기타 금융업,556010
+PSA PR I,Public Storage ADR,주택 및 상업용 리츠,601020
+HRTG,Heritage Insurance Holdings Inc,보험,553010
+PSA PR F,Public Storage ADR,주택 및 상업용 리츠,601020
+BKN,BlackRock Investment Quality Municipal Trust Inc,다양한 금융서비스,555010
+APO PR A,Apollo Global Management Inc PRF,투자은행 및 서비스,551020
+CND.U,Concord Acquisition Corp,기타 금융업,556010
+AHL PR C,Aspen Insurance Holdings Ltd PRF,보험,553010
+FPI,Farmland Partners Inc,주택 및 상업용 리츠,601020
+HPX.U,HPX Corp Unit,기타 금융업,556010
+PCK,PIMCO California Municipal Income Fund II,다양한 금융서비스,555010
+RTPZ.U,Reinvent Technology Partners Z,기타 금융업,556010
+SPLP,Steel Partners Holdings LP Unit,메탈&마이닝,512010
+NXP,Nuveen Select Tax-Free Income Portfolio,다양한 금융서비스,555010
+LCI,Lannett Company Inc,제약,562010
+CLA.U,Colonnade Acquisition Corp,기타 금융업,556010
+LITB,LightInTheBox Holding Co Ltd ADR,다양한 소매업,534020
+OCA.U,Omnichannel Acquisition Corp,기타 금융업,556010
+EPWR.U,Empowerment & Inclusion Capital I Corp,기타 금융업,556010
+LOKB.U,Live Oak Acquisition Corp II,기타 금융업,556010
+NUO,Nuveen Ohio Quality Municipal Income Fund,다양한 금융서비스,555010
+MHI,Pioneer Municipal High Income Trust,다양한 금융서비스,555010
+FST,FAST Acquisition Corp Class A,기타 금융업,556010
+CMCM,Cheetah Mobile Inc ADR,소프트웨어 및 IT서비스,572010
+CINR,Ciner Resources LP Unit,화학,511010
+CRU.U,Crucible Acquisition Corp,기타 금융업,556010
+FGNA.U,FG New America Acquisition Corp,기타 금융업,556010
+IRS,IRSA Inversiones y Representaciones SA ADR,식품 및 약품소매,543010
+RNR PR E,Renaissancere Holdings Ltd PRF,보험,553010
+TVE,Tennessee Valley Authority PRF,전기 유틸리티,591010
+TVC,Tennessee Valley Authority PRF,전기 유틸리티,591010
+MAV,Pioneer Municipal High Income Advantage Trust,다양한 금융서비스,555010
+CSPR,Casper Sleep Inc,가정용품,532040
+MCI,Barings Corporate Investors,다양한 금융서비스,555010
+NPV,Nuveen Virginia Quality Municipal Income Fund,다양한 금융서비스,555010
+SR PR A,Spire Inc ADR,천연가스 유틸리티,591020
+NTP,Nam Tai Property Inc,부동산 운영 관리,601010
+IVR PR C,Invesco Mortgage Capital Inc PRF,주택 및 상업용 리츠,601020
+NXQ,Nuveen Select Tax-Free Income Portfolio 2,다양한 금융서비스,555010
+BGT,BlackRock Floating Rate Income Trust,다양한 금융서비스,555010
+PUK PR,Prudential PLC PRF,보험,553010
+OACB.U,Oaktree Acquisition II Corp,기타 금융업,556010
+KIM PR M,Kimco Realty Corp ADR,주택 및 상업용 리츠,601020
+ASAQ.U,Atlantic Avenue Acquisition Corp,기타 금융업,556010
+ALP PR Q,Alabama Power Co PRF,전기 유틸리티,591010
+RNR PR F,Renaissancere Holdings Ltd ADR,보험,553010
+EMP,Entergy Mississippi LLC PRF,전기 유틸리티,591010
+AMH PR D,American Homes 4 Rent PRF,주택 및 상업용 리츠,601020
+CLNY PR H,Colony Capital Inc PRF,주택 및 상업용 리츠,601020
+NS PR B,NuStar Energy LP PRF,오일 및 가스 장비 및 서비스,501030
+MFM,MFS Municipal Income Trust,다양한 금융서비스,555010
+BNED,Barnes & Noble Education Inc,전문품 상점,534030
+KUKE,Kuke Music Holding Ltd ADR,미디어 및 출판,533020
+TWO PR B,Two Harbors Investment Corp PRF,주택 및 상업용 리츠,601020
+DUC,Duff & Phelps Utility and Corporate Bond Trust Inc,다양한 금융서비스,555010
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc,다양한 금융서비스,555010
+TWO PR C,Two Harbors Investment Corp PRF,주택 및 상업용 리츠,601020
+SCE PR H,SCE Trust III PRF,은행,551010
+PHT,Pioneer High Income Trust,다양한 금융서비스,555010
+EVC,Entravision Communications Corp Class A,미디어 및 출판,533020
+EMPW.U,Empower Ltd,기타 금융업,556010
+JOF,Japan Smaller Capitalization Fund Inc,다양한 금융서비스,555010
+AHL PR E,Aspen Insurance Holdings Ltd ADR,보험,553010
+DMB,BNY Mellon Municipal Bond Infrastructure Fund Inc,다양한 금융서비스,555010
+GHL,Greenhill & Co Inc,투자은행 및 서비스,551020
+SCVX.U,SCVX Corp Unit,기타 금융업,556010
+MEC,Mayville Engineering Company Inc,자동차 및 자동차 부품,531010
+TSI,TCW Strategic Income Fund Inc,다양한 금융서비스,555010
+HCHC,HC2 Holdings Inc,복합 기업,544010
+AHL PR D,Aspen Insurance Holdings Ltd PRF,보험,553010
+JE,Just Energy Group Inc,천연가스 유틸리티,591020
+BML PR H,Bank of America Corp ADR,은행,551010
+TMST,TimkenSteel Corp,메탈&마이닝,512010
+BWG,Brandywineglobal Global Income Opportunities Fund Inc,다양한 금융서비스,555010
+FINS,Angel Oak Financial Strategies Income Term Trust,다양한 금융서비스,555010
+AL PR A,Air Lease Corp PRF,전문 및 상업 서비스,522030
+OAK PR B,Oaktree Capital Group LLC PRF,투자은행 및 서비스,551020
+PHD,Pioneer Floating Rate Trust,다양한 금융서비스,555010
+ASPL.U,Aspirational Consumer Lifestyle Corp,기타 금융업,556010
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,다양한 금융서비스,555010
+CTRA,Contura Energy Inc,석유,501010
+MGU,Macquarie Global Infrastructure Total Return Fund Inc,다양한 금융서비스,555010
+MTT,Western Asset Municipal Defined Opportunity Trust Inc,다양한 금융서비스,555010
+BRT,BRT Apartments Corp,주택 및 상업용 리츠,601020
+NUW,Nuveen Amt-Free Municipal Value Fund,다양한 금융서비스,555010
+NRZ PR B,New Residential Investment Corp PRF,주택 및 상업용 리츠,601020
+OCA,Omnichannel Acquisition Corp,기타 금융업,556010
+NR,Newpark Resources Inc,오일 및 가스 장비 및 서비스,501030
+WRB PR G,W. R. Berkley Corp PRF,보험,553010
+SBG.U,Sandbridge Acquisition Corp,기타 금융업,556010
+MG,Mistras Group Inc,오일 및 가스,501020
+AEB,Aegon NV PRF,보험,553010
+VTN,Invesco Trust for Investment Grade New York Municipals,다양한 금융서비스,555010
+CSLT,Castlight Health Inc Class B,헬스케어 장비 및 용품,561010
+CATO,Cato Corp Class A,전문품 상점,534030
+ANH,Anworth Mortgage Asset Corp,주택 및 상업용 리츠,601020
+NSH.U,"NavSight Holdings, Inc.",기타 금융업,556010
+SAR,Saratoga Investment Corp,투자은행 및 서비스,551020
+CVEO,Civeo Corp,부동산 운영 관리,601010
+GIX,GigCapital2 Inc,기타 금융업,556010
+FVT.U,Fortress Value Acquisition III Corp,기타 금융업,556010
+ODC,Oil-Dri Corporation of America,"개인, 가정 용품 및 서비스",542010
+EVF,Eaton Vance Senior Income Trust,다양한 금융서비스,555010
+HBB,Hamilton Beach Brands Holding Co Class A,전문품 상점,534030
+ADEX.U,Adit EdTech Acquisition Cor,기타 금융업,556010
+AJX,Great Ajax Corp,주택 및 상업용 리츠,601020
+CMO PR E,Capstead Mortgage Corp PRF,주택 및 상업용 리츠,601020
+CEIX,CONSOL Energy Inc,석유,501010
+CRD.A,Crawford & Co Class A,보험,553010
+ETX,Eaton Vance Municipal Income 2028 Term Trust,다양한 금융서비스,555010
+CAS.U,Cascade Acquisition Corp,기타 금융업,556010
+EMO,Clearbridge Energy Midstream Opportunity Fund Inc,다양한 금융서비스,555010
+FST.U,FAST Acquisition Corp,기타 금융업,556010
+BGR,Blackrock Energy and Resources Trust,다양한 금융서비스,555010
+QUAD,Quad/Graphics Inc Class A,전문 및 상업 서비스,522030
+JRS,Nuveen Real Estate Income Fund,다양한 금융서비스,555010
+MFA PR C,MFA Financial Inc PRF,주택 및 상업용 리츠,601020
+BW,Babcock & Wilcox Enterprises Inc,"건설장비 및 대형차, 기차, 배",521020
+TACA.U,Trepont Acquisition I Corp,기타 금융업,556010
+LGI,Lazard Global Total Return and Income Fund Inc,다양한 금융서비스,555010
+PSA PR J,Public Storage ADR,주택 및 상업용 리츠,601020
+PSB PR X,PS Business Parks Inc ADR,주택 및 상업용 리츠,601020
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc,다양한 금융서비스,555010
+NL,NL Industries Inc,"건설장비 및 대형차, 기차, 배",521020
+HZN,Horizon Global Corp,자동차 및 자동차 부품,531010
+SCPE,SC Health Corp Class A,기타 금융업,556010
+OCN,Ocwen Financial Corp,은행,551010
+EVG,Eaton Vance Short Duration Diversified Income Fund,다양한 금융서비스,555010
+UMH PR C,UMH Properties Inc PRF,주택 및 상업용 리츠,601020
+AMH PR E,American Homes 4 Rent PRF,주택 및 상업용 리츠,601020
+VBF,Invesco Bond Fund,다양한 금융서비스,555010
+KIM PR L,Kimco Realty Corp ADR,주택 및 상업용 리츠,601020
+ATTO,Atento SA,전문 및 상업 서비스,522030
+DFNS,LGL Systems Acquisition Corp Class A,기타 금융업,556010
+VIST,Vista Oil & Gas SAB de CV ADR,오일 및 가스,501020
+SLG PR I,SL Green Realty Corp PRF,주택 및 상업용 리츠,601020
+PMVC,PMV Consumer Acquisition Corp Class A,기타 금융업,556010
+SQNS,Sequans Communications SA ADR,반도체 및 반도체 장비,571010
+NSA PR A,National Storage Affiliates Trust PRF,주택 및 상업용 리츠,601020
+PZC,PIMCO California Municipal Income Fund Iii,다양한 금융서비스,555010
+AONE.U,one,기타 금융업,556010
+TDE,Telephone and Data Systems Inc PRF,통신 서비스,574010
+CIM PR C,Chimera Investment Corp PRF,주택 및 상업용 리츠,601020
+ATCO PR H,Atlas Corp (Canada) PRF,화물 및 물류 서비스,524050
+WPG,Washington Prime Group Inc,주택 및 상업용 리츠,601020
+NXR,Nuveen Select Tax Free Income Portfolio 3,다양한 금융서비스,555010
+CHS,Chico's FAS Inc,전문품 상점,534030
+AFT,Apollo Senior Floating Rate Fund Inc,다양한 금융서비스,555010
+BH,Biglari Holdings Inc Class B,호텔 및 엔터테인먼트,533010
+DLR PR K,Digital Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+MHD,BlackRock MuniHoldings Fund Inc,다양한 금융서비스,555010
+FLC,Flaherty & Crumrine Total Return Fund Inc,다양한 금융서비스,555010
+JCE,Nuveen Core Equity Alpha Fund,다양한 금융서비스,555010
+MLP,Maui Land & Pineapple Company Inc,부동산 운영 관리,601010
+JCO,Nuveen Credit Opportunities 2022 Target Term Fund,다양한 금융서비스,555010
+AGS,PlayAGS Inc,호텔 및 엔터테인먼트,533010
+LNFA,L&F Acquisition Corp Class A,기타 금융업,556010
+INSI,Insight Select Income Fund,다양한 금융서비스,555010
+KF,Korea Fund Inc,다양한 금융서비스,555010
+GRX,Gabelli Healthcare & WellnessRx Trust,다양한 금융서비스,555010
+MOGU,Mogu Inc ADR,소프트웨어 및 IT서비스,572010
+SJIU,South Jersey Industries Inc Unit,천연가스 유틸리티,591020
+SALT,Scorpio Bulkers Inc,화물 및 물류 서비스,524050
+SF PR C,Stifel Financial Corp ADR,투자은행 및 서비스,551020
+GIX.U,GigCapital2 Inc Unit,기타 금융업,556010
+IVH,Ivy High Income Opportunities Fund,다양한 금융서비스,555010
+PSA PR K,Public Storage ADR,주택 및 상업용 리츠,601020
+EFL,Eaton Vance Floating-Rate 2022 Target Term Trust,다양한 금융서비스,555010
+EOD,Wells Fargo Global Dividend Opportunity Fund,다양한 금융서비스,555010
+DHF,BNY Mellon High Yield Strategies Fund,다양한 금융서비스,555010
+BSL,Blackstone Senior Floating Rate Term Fund,다양한 금융서비스,555010
+DWIN.U,Delwinds Insurance Acquisition Corp,기타 금융업,556010
+PIM,Putnam Master Intermediate Income Trust,다양한 금융서비스,555010
+BEP PR A,Brookfield Renewable Partners LP PRF,전기 유틸리티,591010
+EP PR C,El Paso Energy Capital Trust I Convertible Preference Shares,은행,551010
+SCD,LMP Capital And Income Fund Inc,다양한 금융서비스,555010
+MXF,Mexico Fund Inc,다양한 금융서비스,555010
+BML PR J,Bank of America Corp ADR,은행,551010
+GNPK,Genesis Park Acquisition Corp,기타 금융업,556010
+SCM,Stellus Capital Investment Corp,다양한 금융서비스,555010
+PSTL,Postal Realty Trust Inc Class A,주택 및 상업용 리츠,601020
+PFD,Flaherty & Crumrine Preferred & Income Fund Inc,다양한 금융서비스,555010
+SNV PR D,Synovus Financial Corp PRF,은행,551010
+DSX,Diana Shipping Inc,화물 및 물류 서비스,524050
+NSL,Nuveen Senior Income Fund,다양한 금융서비스,555010
+EHT,Eaton Vance 2021 Target Term Trust,다양한 금융서비스,555010
+CIT PR B,CIT Group Inc PRF,은행,551010
+CNF,CNFinance Holdings Ltd ADR,은행,551010
+ENR PR A,Energizer Holdings Inc PRF,"건설장비 및 대형차, 기차, 배",521020
+IDE,Voya Infrastructure Industrials and Materials Fund,다양한 금융서비스,555010
+GPX,GP Strategies Corp,비즈니스교육,631030
+TCI,Transcontinental Realty Investors Inc,주택 및 상업용 리츠,601020
+DLR PR J,Digital Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+AIF,Apollo Tactical Income Fund Inc,다양한 금융서비스,555010
+IHIT,Invesco High Income 2023 Target Term Fund,다양한 금융서비스,555010
+GNE,Genie Energy Ltd Class B,복합 유틸리티,591040
+PSB PR Y,PS Business Parks Inc ADR,주택 및 상업용 리츠,601020
+JTD,Nuveen Tax-Advantaged Dividend Growth Fund,다양한 금융서비스,555010
+TWN,Taiwan Fund Inc,다양한 금융서비스,555010
+FDEU,First Trust Dynamic Europe Equity Income Fund,다양한 금융서비스,555010
+FRC PR H,First Republic Bank ADR,은행,551010
+DLR PR C,Digital Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+GGT,Gabelli Multimedia Trust Inc,다양한 금융서비스,555010
+HYB,New America High Income Fund Inc,다양한 금융서비스,555010
+NRP,Natural Resource Partners LP Unit,석유,501010
+PSA PR M,Public Storage ADR,주택 및 상업용 리츠,601020
+GAM PR B,General American Investors Co Inc PRF,다양한 금융서비스,555010
+PSA PR C,Public Storage ADR,주택 및 상업용 리츠,601020
+BIP PR A,Brookfield Infrastructure Partners LP,복합 기업,544010
+BXP PR B,Boston Properties Inc ADR,주택 및 상업용 리츠,601020
+DFNS.U,LGL Systems Acquisition Corp Unit,기타 금융업,556010
+BVH,Bluegreen Vacations Holding Corp Class A,호텔 및 엔터테인먼트,533010
+FIF,First Trust Energy Infrastructure Fund,다양한 금융서비스,555010
+PANA,Panacea Acquisition Corp Class A,기타 금융업,556010
+UTI,Universal Technical Institute Inc,비즈니스교육,631030
+BGIO,BlackRock 2022 Global Income Opportunity Trust,다양한 금융서비스,555010
+ATCO PR G,Atlas Corp (Canada) PRF,화물 및 물류 서비스,524050
+OPP,Rivernorth/Doubleline Strategic Opportunity Fund Inc,다양한 금융서비스,555010
+DDT,Dillard's Capital Trust I PRF,은행,551010
+STG,Sunlands Technology Group ADR,소프트웨어 및 IT서비스,572010
+BORR,Borr Drilling Ltd,오일 및 가스 장비 및 서비스,501030
+OAK PR A,Oaktree Capital Group LLC PRF,투자은행 및 서비스,551020
+GS PR C,Goldman Sachs Group Inc ADR,투자은행 및 서비스,551020
+GTT,GTT Communications Inc,소프트웨어 및 IT서비스,572010
+SB,Safe Bulkers Inc,화물 및 물류 서비스,524050
+TDA,Telephone and Data Systems Inc PRF,통신 서비스,574010
+OSG,Overseas Shipholding Group Inc Class A,오일 및 가스 장비 및 서비스,501030
+PSB PR W,PS Business Parks Inc ADR,주택 및 상업용 리츠,601020
+SCPE.U,SC Health Corp Unit,기타 금융업,556010
+ACP,Aberdeen Income Credit Strategies Fund,다양한 금융서비스,555010
+MFA PR B,MFA Financial Inc PRF,주택 및 상업용 리츠,601020
+MPA,BlackRock Muniyield Pennsylvania Quality Fund,다양한 금융서비스,555010
+GLOP,GasLog Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+TWO PR E,Two Harbors Investment Corp PRF,주택 및 상업용 리츠,601020
+UAN,CVR Partners LP Unit,화학,511010
+PMT PR B,PennyMac Mortgage Investment Trust PRF,주택 및 상업용 리츠,601020
+MYF,BlackRock MuniYield Investment Fund,다양한 금융서비스,555010
+LNFA.U,L&F Acquisition Corp,기타 금융업,556010
+HOV,Hovnanian Enterprises Inc Class A,주택건설,532030
+NIQ,Nuveen Intermediate Duration Quality Municipal Term Fund,다양한 금융서비스,555010
+CULP,Culp Inc,섬유 및 의류,532020
+PMVC.U,PMV Consumer Acquisition Corp,기타 금융업,556010
+NYCB PR U,New York Community Capital Trust V Unit,은행,551010
+BHR,Braemar Hotels & Resorts Inc,주택 및 상업용 리츠,601020
+AT,Atlantic Power Corp,전기 유틸리티,591010
+PRE PR I,PartnerRe Ltd PRF,보험,553010
+CTA PR B,E I Du Pont De Nemours and Co PRF,복합 기업,544010
+BNY,BlackRock New York Municipal Income Trust,다양한 금융서비스,555010
+TRTN PR C,Triton International Ltd PRF,전문 및 상업 서비스,522030
+FT,Franklin Universal Trust,다양한 금융서비스,555010
+WMC,Western Asset Mortgage Capital Corp,주택 및 상업용 리츠,601020
+GNPK.U,Genesis Park Acquisition Corp,기타 금융업,556010
+MSD,Morgan Stanley Emerging Markets Debt Fund Inc,다양한 금융서비스,555010
+NS PR A,NuStar Energy LP PRF,오일 및 가스 장비 및 서비스,501030
+NC,NACCO Industries Inc Class A,석유,501010
+CBH,AllianzGI Convertible & Income 2024 Target Term Fund,다양한 금융서비스,555010
+TEAF,Tortoise Essential Assets Income Term Fund,다양한 금융서비스,555010
+CIM PR D,Chimera Investment Corp PRF,주택 및 상업용 리츠,601020
+GLEO,Galileo Acquisition Corp,기타 금융업,556010
+JHS,John Hancock Income Securities Trust,다양한 금융서비스,555010
+BXS PR A,BancorpSouth Bank PRF,은행,551010
+SRC PR A,Spirit Realty Capital Inc PRF,주택 및 상업용 리츠,601020
+SUPV,Grupo Supervielle SA ADR,은행,551010
+TFC PR I,Truist Financial Corp ADR,은행,551010
+ASGI,Aberdeen Standard Global Infrastructure Income Fund,다양한 금융서비스,555010
+PANA.U,Panacea Acquisition Corp Unit,기타 금융업,556010
+BGX,Blackstone Long-Short Credit Income Fund,다양한 금융서비스,555010
+TREC,Trecora Resources,화학,511010
+GNL PR A,Global Net Lease Inc PRF,주택 및 상업용 리츠,601020
+ORN,Orion Group Holdings Inc,건설 및 엔지니어링,522010
+SD,SandRidge Energy Inc,오일 및 가스,501020
+CRD.B,Crawford & Co Class B,보험,553010
+LEAF,Leaf Group Ltd,소프트웨어 및 IT서비스,572010
+NAZ,Nuveen Arizona Quality Municipal Income Fund,다양한 금융서비스,555010
+NGL PR B,NGL Energy Partners LP PRF,오일 및 가스,501020
+JDD,Nuveen Diversified Dividend and Income Fund,다양한 금융서비스,555010
+CCZ,Comcast Holdings Corp PRF,미디어 및 출판,533020
+AHH PR A,Armada Hoffler Properties Inc PRF,주택 및 상업용 리츠,601020
+MUS,BlackRock MuniHoldings Quality Fund Inc,다양한 금융서비스,555010
+MUH,BlackRock MuniHoldings Fund II Inc,다양한 금융서비스,555010
+BTA,BlackRock Long Term Municipal Advantage Trust,다양한 금융서비스,555010
+CEE,Central and Eastern Europe Fund Inc,다양한 금융서비스,555010
+GGM,Guggenheim Credit Allocation Fund,다양한 금융서비스,555010
+TNP,Tsakos Energy Navigation Ltd,오일 및 가스 장비 및 서비스,501030
+TTI,Tetra Technologies Inc,오일 및 가스 장비 및 서비스,501030
+TGP PR B,Teekay LNG Partners LP PRF,오일 및 가스 장비 및 서비스,501030
+NMM,Navios Maritime Partners LP Unit,화물 및 물류 서비스,524050
+RRD,RR Donnelley & Sons Co,전문 및 상업 서비스,522030
+RIV,RiverNorth Opportunities Fund Inc,다양한 금융서비스,555010
+CTK,CooTek (Cayman) Inc ADR,소프트웨어 및 IT서비스,572010
+BBK,BlackRock Municipal Bond Trust,다양한 금융서비스,555010
+SITC PR A,Site Centers Corp ADR,주택 및 상업용 리츠,601020
+WEA,Western Asset Premier Bond Fund,다양한 금융서비스,555010
+FHN PR E,First Horizon Corp (Tennessee) ADR,은행,551010
+DS,Drive Shack Inc,호텔 및 엔터테인먼트,533010
+ELVT,Elevate Credit Inc,은행,551010
+JPT,Nuveen Preferred and Income 2022 Term Fund,다양한 금융서비스,555010
+FMN,Federated Hermes Premier Municipal Income Fund,다양한 금융서비스,555010
+XYF,X Financial ADR,은행,551010
+PRE PR G,PartnerRe Ltd PRF,보험,553010
+PBT,Permian Basin Royalty Trust Unit,오일 및 가스,501020
+EXTN,Exterran Corp,오일 및 가스 장비 및 서비스,501030
+MHF,Western Asset Municipal High Income Fund Inc,다양한 금융서비스,555010
+SF PR B,Stifel Financial Corp ADR,투자은행 및 서비스,551020
+ARL,American Realty Investors Inc,부동산 운영 관리,601010
+IGA,Voya Global Advantage And Premium Opportunity Fund,다양한 금융서비스,555010
+KKR PR B,KKR & Co Inc PRF,투자은행 및 서비스,551020
+NTG,Tortoise Midstream Energy Fund Inc,다양한 금융서비스,555010
+CXE,MFS High Income Municipal Trust,다양한 금융서비스,555010
+TRTN PR D,Triton International Ltd PRF,전문 및 상업 서비스,522030
+PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Inc,다양한 금융서비스,555010
+XIN,Xinyuan Real Estate Co Ltd ADR,부동산 운영 관리,601010
+AMH PR F,American Homes 4 Rent PRF,주택 및 상업용 리츠,601020
+GHM,Graham Corp,"건설장비 및 대형차, 기차, 배",521020
+SF PR A,Stifel Financial Corp ADR,투자은행 및 서비스,551020
+HIE,Miller/Howard High Income Equity Fund,다양한 금융서비스,555010
+DMO,Western Asset Mortgage Opportunity Fund Inc,다양한 금융서비스,555010
+CBB PR B,Cincinnati Bell Inc ADR,통신 서비스,574010
+WBS PR F,Webster Financial Corp ADR,은행,551010
+GLEO.U,Galileo Acquisition Corp Unit,기타 금융업,556010
+TAP.A,Molson Coors Beverage Co Class A,음료,541010
+FRT PR C,Federal Realty Investment Trust ADR,주택 및 상업용 리츠,601020
+FRC PR G,First Republic Bank ADR,은행,551010
+NNY,Nuveen New York Municipal Value Fund Inc,다양한 금융서비스,555010
+IHD,Voya Emerging Markets High Dividend Equity Fund,다양한 금융서비스,555010
+FPI PR B,Farmland Partners Inc PRF,주택 및 상업용 리츠,601020
+CHMI,Cherry Hill Mortgage Investment Corp,주택 및 상업용 리츠,601020
+ATCO PR I,Atlas Corp (Canada) PRF,화물 및 물류 서비스,524050
+HGLB,Highland Global Allocation Fund,다양한 금융서비스,555010
+CFR PR B,Cullen/Frost Bankers Inc ADR,은행,551010
+EARN,Ellington Residential Mortgage REIT,주택 및 상업용 리츠,601020
+DLNG,Dynagas LNG Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+SJT,San Juan Basin Royalty Trust Unit,오일 및 가스,501020
+MCN,Madison Covered Call & Equity Strategy Fund,다양한 금융서비스,555010
+PSA PR O,Public Storage ADR,주택 및 상업용 리츠,601020
+MTL PR,Mechel PAO ADR,메탈&마이닝,512010
+RENN,Renren Inc ADR,소프트웨어 및 IT서비스,572010
+CDR,Cedar Realty Trust Inc,주택 및 상업용 리츠,601020
+EQC PR D,Equity Commonwealth Convertible Preference Shares Series D,주택 및 상업용 리츠,601020
+IVR PR B,Invesco Mortgage Capital Inc PRF,주택 및 상업용 리츠,601020
+NRZ PR A,New Residential Investment Corp PRF,주택 및 상업용 리츠,601020
+ARGD,Argo Group US Inc PRF,보험,553010
+NS PR C,NuStar Energy LP PRF,오일 및 가스 장비 및 서비스,501030
+PAI,Western Asset Investment Grade Income Fund Inc,다양한 금융서비스,555010
+AHT,Ashford Hospitality Trust Inc,주택 및 상업용 리츠,601020
+MGF,MFS Government Markets Income Trust,다양한 금융서비스,555010
+SITC PR K,Site Centers Corp ADR,주택 및 상업용 리츠,601020
+SUP,Superior Industries International Inc,자동차 및 자동차 부품,531010
+MNP,Western Asset Municipal Partners Fund Inc,다양한 금융서비스,555010
+DTLA PR,Brookfield DTLA Fund Office Trust Investor Inc PRF,주택 및 상업용 리츠,601020
+DCP PR B,DCP Midstream LP PRF,오일 및 가스 장비 및 서비스,501030
+BGSF,BG Staffing Inc,전문 및 상업 서비스,522030
+ENZ,Enzo Biochem Inc,헬스케어 업체 및 서비스,561020
+INN PR E,Summit Hotel Properties Inc PRF,주택 및 상업용 리츠,601020
+HT PR D,Hersha Hospitality Trust PRF,주택 및 상업용 리츠,601020
+RGT,Royce Global Value Trust Inc,다양한 금융서비스,555010
+HEQ,John Hancock Hedged Equity & Income Fund,다양한 금융서비스,555010
+NTZ,Natuzzi SpA ADR,가정용품,532040
+STL PR A,Sterling Bancorp ADR,은행,551010
+PEB PR F,Pebblebrook Hotel Trust PRF,주택 및 상업용 리츠,601020
+HFRO PR A,Highland Income Fund PRF,다양한 금융서비스,555010
+EPR PR G,EPR Properties PRF,주택 및 상업용 리츠,601020
+CCM,Concord Medical Services Holdings Ltd ADR,헬스케어 업체 및 서비스,561020
+CIM PR A,Chimera Investment Corp PRF,주택 및 상업용 리츠,601020
+TSQ,Townsquare Media Inc Class A,미디어 및 출판,533020
+ATCO PR E,Atlas Corp (Canada) PRF,화물 및 물류 서비스,524050
+IVR PR A,Invesco Mortgage Capital Inc PRF,주택 및 상업용 리츠,601020
+TWO PR A,Two Harbors Investment Corp PRF,주택 및 상업용 리츠,601020
+NMT,Nuveen Massachusetts Quality Municipal Income Fund,다양한 금융서비스,555010
+NMK PR B,Niagara Mohawk Power Corp PRF,전기 유틸리티,591010
+FTK,Flotek Industries Inc,오일 및 가스 장비 및 서비스,501030
+JSD,Nuveen Short Duration Credit Opportunities Fund,다양한 금융서비스,555010
+CTR,Clearbridge MLP and Midstream Total Return Fund Inc,다양한 금융서비스,555010
+SFE,Safeguard Scientifics Inc,투자은행 및 서비스,551020
+BBF,BlackRock Municipal Income Investment Trust,다양한 금융서비스,555010
+UBP,Urstadt Biddle Properties Inc,주택 및 상업용 리츠,601020
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,다양한 금융서비스,555010
+EDF,Stone Harbor Emerging Markets Income Fund,다양한 금융서비스,555010
+RMI,Rivernorth Opportunistic Municipal Income Fund Inc,다양한 금융서비스,555010
+AGD,Aberdeen Global Dynamic Dividend Fund,다양한 금융서비스,555010
+SOS,Sos Ltd ADR,은행,551010
+EGY,VAALCO Energy Inc,오일 및 가스,501020
+BAF,BlackRock Municipal Income Investment Quality Trust,다양한 금융서비스,555010
+FAM,First Trust/Aberdeen Global Opportunity Income Fund,다양한 금융서비스,555010
+NKG,Nuveen Georgia Quality Municipal Income Fund,다양한 금융서비스,555010
+GDL PR C,GDL Fund PRF,다양한 금융서비스,555010
+NIM,Nuveen Select Maturities Municipal Fund,다양한 금융서비스,555010
+TRTN PR B,Triton International Ltd PRF,전문 및 상업 서비스,522030
+VGI,Virtus Global Multi-Sector Income Fund,다양한 금융서비스,555010
+AAIC,Arlington Asset Investment Corp Class A,투자은행 및 서비스,551020
+HIL,Hill International Inc,건설 및 엔지니어링,522010
+RFM,Rivernorth Flexible Municipal Income Fund Inc,주택 및 상업용 리츠,601020
+AP,Ampco-Pittsburgh Corp,메탈&마이닝,512010
+MPV,Barings Participation Investors,다양한 금융서비스,555010
+JEQ,Aberdeen Japan Equity Fund Inc,다양한 금융서비스,555010
+XAN,Exantas Capital Corp,주택 및 상업용 리츠,601020
+ARR PR C,ARMOUR Residential REIT Inc PRF,주택 및 상업용 리츠,601020
+CLPR,Clipper Realty Inc,주택 및 상업용 리츠,601020
+TGP PR A,Teekay LNG Partners LP PRF,오일 및 가스 장비 및 서비스,501030
+DCF,BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund Inc,다양한 금융서비스,555010
+NGS,Natural Gas Services Group Inc,오일 및 가스 장비 및 서비스,501030
+ASC,Ardmore Shipping Corp,오일 및 가스 장비 및 서비스,501030
+ATCO PR D,Atlas Corp (Canada) PRF,화물 및 물류 서비스,524050
+SBI,Western Asset Intermediate Muni Fund Inc,다양한 금융서비스,555010
+APRN,Blue Apron Holdings  Inc. Class A,식품 및 담배,541020
+NYC,New York City REIT Inc Class A,주택 및 상업용 리츠,601020
+SPLP PR A,Steel Partners Holdings LP PRF,메탈&마이닝,512010
+EPR PR C,EPR Properties Convertible Preference Shares Series C,주택 및 상업용 리츠,601020
+AGM PR F,Federal Agricultural Mortgage Corp PRF,은행,551010
+DRH PR A,Diamondrock Hospitality Co PRF,주택 및 상업용 리츠,601020
+PCM,PCM Fund Inc,다양한 금융서비스,555010
+KSM,DWS Strategic Municipal Income Trust,다양한 금융서비스,555010
+CMU,MFS High Yield Municipal Trust,다양한 금융서비스,555010
+ALIN PR A,Altera Infrastructure LP PRF,오일 및 가스 장비 및 서비스,501030
+COF PR K,Capital One Financial Corp ADR,은행,551010
+STAR PR I,iStar Inc PRF,주택 및 상업용 리츠,601020
+FNB PR E,F.N.B. Corp ADR,은행,551010
+GDL,GDL Fund,다양한 금융서비스,555010
+PNI,PIMCO New York Municipal Income Fund II,다양한 금융서비스,555010
+GEN,Genesis Healthcare Inc Class A,헬스케어 업체 및 서비스,561020
+FPL,First Trust New Opportunities MLP & Energy Fund,다양한 금융서비스,555010
+MITT,AG Mortgage Investment Trust Inc,주택 및 상업용 리츠,601020
+DTF,DTF Tax-Free Income Inc,다양한 금융서비스,555010
+DHX,DHI Group Inc,전문 및 상업 서비스,522030
+MFT,Blackrock Muniyield Investment Quality Fund,다양한 금융서비스,555010
+GGZ,Gabelli Global Small and Mid Cap Value Trust,다양한 금융서비스,555010
+AMH PR H,American Homes 4 Rent PRF,주택 및 상업용 리츠,601020
+KWAC.U,Kingswood Acquisition Corp,기타 금융업,556010
+SPE,Special Opportunities Fund Inc,다양한 금융서비스,555010
+TNP PR F,Tsakos Energy Navigation Ltd PRF,오일 및 가스 장비 및 서비스,501030
+SFUN,Fang Holdings Ltd ADR,부동산 운영 관리,601010
+WHG,Westwood Holdings Group Inc,투자은행 및 서비스,551020
+SWZ,Swiss Helvetia Fund Inc,다양한 금융서비스,555010
+EFF,Eaton Vance Floating-Rate Income Plus Fund,다양한 금융서비스,555010
+ATA.U,Americas Technology Acquisition Corp,기타 금융업,556010
+GCV,Gabelli Convertible and Income Securities Fund Inc,다양한 금융서비스,555010
+CMRE PR E,Costamare Inc PRF,화물 및 물류 서비스,524050
+AMH PR G,American Homes 4 Rent PRF,주택 및 상업용 리츠,601020
+DEX,Delaware Enhanced Global Dividend and Income Fund,다양한 금융서비스,555010
+PEB PR D,Pebblebrook Hotel Trust PRF,주택 및 상업용 리츠,601020
+EPR PR E,EPR Properties Convertible Preference Shares Series E,주택 및 상업용 리츠,601020
+PEB PR C,Pebblebrook Hotel Trust PRF,주택 및 상업용 리츠,601020
+GTN.A,Gray Television Inc Class A,미디어 및 출판,533020
+HMLP PR A,Hoegh LNG Partners LP PRF,오일 및 가스 장비 및 서비스,501030
+NCZ PR A,Allianzgi Convertible & Income Fund II PRF,다양한 금융서비스,555010
+JAX,J Alexanders Holdings Inc,호텔 및 엔터테인먼트,533010
+LXU,LSB Industries Inc,화학,511010
+QTS PR A,QTS Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+CORR,CorEnergy Infrastructure Trust Inc,주택 및 상업용 리츠,601020
+UBP PR H,Urstadt Biddle Properties Inc PRF,주택 및 상업용 리츠,601020
+AGM.A,Federal Agricultural Mortgage Corp Class A,은행,551010
+CIO PR A,City Office REIT Inc PRF,주택 및 상업용 리츠,601020
+GLOG PR A,GasLog Ltd PRF,화물 및 물류 서비스,524050
+ALIN PR B,Altera Infrastructure LP PRF,오일 및 가스 장비 및 서비스,501030
+TDI,Telephone and Data Systems Inc PRF,통신 서비스,574010
+SHO PR E,Sunstone Hotel Investors Inc PRF,주택 및 상업용 리츠,601020
+PEI,Pennsylvania Real Estate Investment Trust,주택 및 상업용 리츠,601020
+PMT PR A,PennyMac Mortgage Investment Trust PRF,주택 및 상업용 리츠,601020
+ENO,Entergy New Orleans LLC PRF,전기 유틸리티,591010
+USDP,USD Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+ASB PR F,Associated Banc-Corp ADR,은행,551010
+PINE,Alpine Income Property Trust Inc,주택 및 상업용 리츠,601020
+CDR PR C,Cedar Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+GLOP PR A,GasLog Partners LP PRF,오일 및 가스 장비 및 서비스,501030
+PGP,PIMCO Global StocksPLUS & Income Fund,다양한 금융서비스,555010
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,다양한 금융서비스,555010
+BH.A,Biglari Holdings Inc Class A,호텔 및 엔터테인먼트,533010
+LXP PR C,Lexington Realty Trust Convertible Preference Shares Series C,주택 및 상업용 리츠,601020
+VNCE,Vince Holding Corp,섬유 및 의류,532020
+JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fund,다양한 금융서비스,555010
+JLS,Nuveen Mortgage and Income Fund,다양한 금융서비스,555010
+XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust,다양한 금융서비스,555010
+KFS,Kingsway Financial Services Inc,보험,553010
+BSD,Blackrock Strategic Municipal Trust,다양한 금융서비스,555010
+ALIN PR E,Altera Infrastructure LP PRF,오일 및 가스 장비 및 서비스,501030
+CSR PR C,Investors Real Estate Trust PRF,주택 및 상업용 리츠,601020
+AGM PR D,Federal Agricultural Mortgage Corp PRF,은행,551010
+GAB PR H,Gabelli Equity Trust Inc PRF,다양한 금융서비스,555010
+ASB PR E,Associated Banc-Corp ADR,은행,551010
+NCV PR A,Allianzgi Convertible & Income Fund PRF,다양한 금융서비스,555010
+SZC,Cushing Nextgen Infrastructure Income Fund,다양한 금융서비스,555010
+FSLF,First Eagle Senior Loan Fund,다양한 금융서비스,555010
+GNT,Gamco Natural Resources Gold & Income Trust,다양한 금융서비스,555010
+AGO PR B,Assured Guaranty Municipal Holdings Inc PRF,보험,553010
+GAB PR K,Gabelli Equity Trust Inc PRF,다양한 금융서비스,555010
+FHN PR A,First Horizon Corp (Tennessee) ADR,은행,551010
+WEI,Weidai Ltd ADR,은행,551010
+FENG,Phoenix New Media Ltd ADR,미디어 및 출판,533020
+FHN PR D,First Horizon Corp (Tennessee) ADR,은행,551010
+PEB PR E,Pebblebrook Hotel Trust PRF,주택 및 상업용 리츠,601020
+NXC,Nuveen California Select Tax-Free Income Portfolio,다양한 금융서비스,555010
+NMI,Nuveen Municipal Income Fund Inc,다양한 금융서비스,555010
+BFS PR E,Saul Centers Inc ADR,주택 및 상업용 리츠,601020
+CORR PR A,CorEnergy Infrastructure Trust Inc ADR,주택 및 상업용 리츠,601020
+ASB PR D,Associated Banc-Corp ADR,은행,551010
+STAR PR D,iStar Inc PRF,주택 및 상업용 리츠,601020
+XAN PR C,Exantas Capital Corp PRF,주택 및 상업용 리츠,601020
+GDV PR G,Gabelli Dividend & Income Trust PRF,다양한 금융서비스,555010
+CMRE PR D,Costamare Inc PRF,화물 및 물류 서비스,524050
+VCIF,Vertical Capital Income Fund,다양한 금융서비스,555010
+TNP PR E,Tsakos Energy Navigation Ltd PRF,오일 및 가스 장비 및 서비스,501030
+CODI PR B,Compass Diversified Holdings PRF,기타 금융업,556010
+CMRE PR C,Costamare Inc PRF,화물 및 물류 서비스,524050
+CODI PR A,Compass Diversified Holdings PRF,기타 금융업,556010
+BANC PR E,Banc of California Inc ADR,은행,551010
+CODI PR C,Compass Diversified Holdings PRF,기타 금융업,556010
+MN,Manning & Napier Inc Class A,투자은행 및 서비스,551020
+NWHM,New Home Company Inc,주택건설,532030
+DX PR C,Dynex Capital Inc PRF,주택 및 상업용 리츠,601020
+NMK PR C,Niagara Mohawk Power Corp PRF,전기 유틸리티,591010
+RPT PR D,RPT Realty Convertible Preference Shares Series D,주택 및 상업용 리츠,601020
+EXD,Eaton Vance Tax-Managed Buy-Write Strategy Fund,다양한 금융서비스,555010
+UBP PR K,Urstadt Biddle Properties Inc PRF,주택 및 상업용 리츠,601020
+BANC PR D,Banc of California Inc ADR,은행,551010
+SRL,Scully Royalty Ltd,투자은행 및 서비스,551020
+EFC PR A,Ellington Financial Inc PRF,주택 및 상업용 리츠,601020
+SMM,Salient Midstream & MLP Fund,다양한 금융서비스,555010
+PNF,PIMCO New York Municipal Income Fund,다양한 금융서비스,555010
+EIC,Eagle Point Income Company Inc,다양한 금융서비스,555010
+NINE,Nine Energy Service Inc,오일 및 가스 장비 및 서비스,501030
+RSF,RiverNorth Specialty Finance Corp,다양한 금융서비스,555010
+AFI,Armstrong Flooring Inc,주택건설,532030
+EDI,Stone Harbor Emerging Markets Total Income Fund,다양한 금융서비스,555010
+REXR PR A,Rexford Industrial Realty Inc PRF,주택 및 상업용 리츠,601020
+MITT PR B,AG Mortgage Investment Trust Inc PRF,주택 및 상업용 리츠,601020
+MITT PR C,AG Mortgage Investment Trust Inc PRF,주택 및 상업용 리츠,601020
+DCP PR C,DCP Midstream LP PRF,오일 및 가스 장비 및 서비스,501030
+CXH,MFS Investment Grade Municipal Trust,다양한 금융서비스,555010
+BSE,BlackRock New York Municipal Income Quality Trust,다양한 금융서비스,555010
+LUB,Luby's Inc,호텔 및 엔터테인먼트,533010
+NREF,Nexpoint Real Estate Finance Inc,부동산 운영 관리,601010
+RLH,Red Lion Hotels Corp,호텔 및 엔터테인먼트,533010
+VLT,Invesco Van Kampen High Income Trust II,다양한 금융서비스,555010
+FTAI PR B,Fortress Transportation and Infrastructure Investors LLC PRF,은행,551010
+BHR PR B,Braemar Hotels & Resorts Inc Convertible Preference Shares Series B,주택 및 상업용 리츠,601020
+BML PR G,Bank of America Corp ADR,은행,551010
+ARC,ARC Document Solutions Inc,전문 및 상업 서비스,522030
+PEI PR C,Pennsylvania Real Estate Investment Trust PRF,주택 및 상업용 리츠,601020
+NMS,Nuveen Minnesota Quality Municipal Income Fund,다양한 금융서비스,555010
+AGM PR E,Federal Agricultural Mortgage Corp PRF,은행,551010
+DVD,Dover Motorsports Inc,호텔 및 엔터테인먼트,533010
+PGZ,Principal Real Estate Income Fund,다양한 금융서비스,555010
+NHA,Nuveen Municipal 2021 Target Term Fund,다양한 금융서비스,555010
+CUBI PR F,Customers Bancorp Inc PRF,은행,551010
+FET,Forum Energy Technologies Inc,오일 및 가스 장비 및 서비스,501030
+GAB PR J,Gabelli Equity Trust Inc PRF,다양한 금융서비스,555010
+CLNY PR G,Colony Capital Inc PRF,주택 및 상업용 리츠,601020
+EXPR,Express Inc,전문품 상점,534030
+LEE,Lee Enterprises Inc,미디어 및 출판,533020
+TPZ,Tortoise Power and Energy Infrastructure Fund Inc,다양한 금융서비스,555010
+EDN,Empresa Distribuidora y Comercializadora Norte SA ADR,전기 유틸리티,591010
+TRTN PR A,Triton International Ltd PRF,전문 및 상업 서비스,522030
+LFT,Lument Finance Trust Inc,주택 및 상업용 리츠,601020
+AMPY,Amplify Energy Corp,오일 및 가스,501020
+FHN PR B,First Horizon Corp (Tennessee) ADR,은행,551010
+CHRA,Charah Solutions Inc,전문 및 상업 서비스,522030
+GLOP PR B,GasLog Partners LP PRF,오일 및 가스 장비 및 서비스,501030
+STAR PR G,iStar Inc PRF,주택 및 상업용 리츠,601020
+AGM PR C,Federal Agricultural Mortgage Corp PRF,은행,551010
+REXR PR C,Rexford Industrial Realty Inc PRF,주택 및 상업용 리츠,601020
+JMP,JMP Group LLC,투자은행 및 서비스,551020
+GER,Goldman Sachs MLP and Energy Renaissance Fund,다양한 금융서비스,555010
+EEA,European Equity Fund Inc,다양한 금융서비스,555010
+IHTA,Invesco High Income 2024 Target Term Fund,다양한 금융서비스,555010
+REXR PR B,Rexford Industrial Realty Inc PRF,주택 및 상업용 리츠,601020
+LAIX,LAIX Inc ADR,소프트웨어 및 IT서비스,572010
+JHAA,Nuveen Corporate Income 2023 Target Term Fund,다양한 금융서비스,555010
+TNP PR D,Tsakos Energy Navigation Ltd PRF,오일 및 가스 장비 및 서비스,501030
+STAG PR C,STAG Industrial Inc PRF,주택 및 상업용 리츠,601020
+MFD,Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund,다양한 금융서비스,555010
+SMHI,SEACOR Marine Holdings Inc,오일 및 가스 장비 및 서비스,501030
+HT PR E,Hersha Hospitality Trust PRF,주택 및 상업용 리츠,601020
+GNL PR B,Global Net Lease Inc PRF,주택 및 상업용 리츠,601020
+RNGR,Ranger Energy Services Inc Class A,오일 및 가스 장비 및 서비스,501030
+DYFN,Angel Oak Dynamic Financial Strategies Inc Trm Tr,,
+DDF,Delaware Investments Dividend and Income Fund Inc,투자은행 및 서비스,551020
+FEO,First Trust/Aberdeen Emerging Opportunity Fund,다양한 금융서비스,555010
+BBW,Build-A-Bear Workshop Inc,전문품 상점,534030
+TWO PR D,Two Harbors Investment Corp PRF,주택 및 상업용 리츠,601020
+SBOW,SilverBow Resources Inc,오일 및 가스,501020
+BFS PR D,Saul Centers Inc ADR,주택 및 상업용 리츠,601020
+BFY,BlackRock New York Municipal Income Trust II,다양한 금융서비스,555010
+SHO PR F,Sunstone Hotel Investors Inc PRF,주택 및 상업용 리츠,601020
+GAB PR G,Gabelli Equity Trust Inc PRF,다양한 금융서비스,555010
+INN PR D,Summit Hotel Properties Inc PRF,주택 및 상업용 리츠,601020
+RYB,RYB Education Inc ADR,교육서비스,631010
+GLOP PR C,GasLog Partners LP PRF,오일 및 가스 장비 및 서비스,501030
+MZA,Blackrock Muniyield Arizona Fund Inc,다양한 금융서비스,555010
+MH PR C,Maiden Holdings Ltd PRF,보험,553010
+GLP PR A,Global Partners LP PRF,오일 및 가스,501020
+MIE,Cohen & Steers MLP Income & Energy Opportunity Fund,다양한 금융서비스,555010
+DLNG PR A,Dynagas LNG Partners LP Unit Series A,오일 및 가스 장비 및 서비스,501030
+DX PR B,Dynex Capital Inc PRF,주택 및 상업용 리츠,601020
+CHMI PR A,Cherry Hill Mortgage Investment Corp PRF,주택 및 상업용 리츠,601020
+GMRE PR A,Global Medical REIT Inc PRF,주택 및 상업용 리츠,601020
+WPG PR H,Washington Prime Group Inc PRF,주택 및 상업용 리츠,601020
+FTAI PR A,Fortress Transportation and Infrastructure Investors LLC PRF,은행,551010
+AHT PR G,Ashford Hospitality Trust Inc PRF,주택 및 상업용 리츠,601020
+SB PR D,Safe Bulkers Inc PRF,화물 및 물류 서비스,524050
+ASB PR C,Associated Banc-Corp ADR,은행,551010
+JMM,Nuveen Multi-Market Income Fund Inc,다양한 금융서비스,555010
+SMLP,Summit Midstream Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+MAA PR I,Mid-America Apartment Communities Inc PRF,주택 및 상업용 리츠,601020
+IRR,Voya Natural Resources Equity Income Fund,다양한 금융서비스,555010
+DSX PR B,Diana Shipping Inc PRF,화물 및 물류 서비스,524050
+BPT,BP Prudhoe Bay Royalty Trust Unit,오일 및 가스,501020
+MH PR D,Maiden Holdings Ltd PRF,보험,553010
+MH PR A,Maiden Holdings Ltd PRF,보험,553010
+EGF,BlackRock Enhanced Government Fund Inc,다양한 금융서비스,555010
+NNA,Navios Maritime Acquisition Corp,화물 및 물류 서비스,524050
+JP,Jupai Holdings Ltd ADR,투자은행 및 서비스,551020
+HTY,John Hancock Tax-Advantaged Global Shareholder Yield Fund,다양한 금융서비스,555010
+NM,Navios Maritime Holdings Inc,운송 인프라,524070
+WPG PR I,Washington Prime Group Inc PRF,주택 및 상업용 리츠,601020
+CTA PR A,E I Du Pont De Nemours and Co PRF,복합 기업,544010
+PEI PR D,Pennsylvania Real Estate Investment Trust PRF,주택 및 상업용 리츠,601020
+JT,Jianpu Technology Inc ADR,소프트웨어 및 IT서비스,572010
+PHX,PHX Minerals Inc Class A,오일 및 가스,501020
+SPE PR B,Special Opportunities Fund Inc PRF,다양한 금융서비스,555010
+AXR,AMREP Corp,부동산 운영 관리,601010
+HT PR C,Hersha Hospitality Trust PRF,주택 및 상업용 리츠,601020
+CUBI PR C,Customers Bancorp Inc PRF,은행,551010
+CUBI PR E,Customers Bancorp Inc PRF,은행,551010
+FMY,First Trust Mortgage Income Fund,다양한 금융서비스,555010
+FHN PR C,First Horizon Corp (Tennessee) ADR,은행,551010
+CAI PR A,CAI International Inc PRF,화물 및 물류 서비스,524050
+SPG PR J,Simon Property Group Inc PRF,주택 및 상업용 리츠,601020
+IRL,New Ireland Fund Inc,다양한 금융서비스,555010
+NXN,Nuveen New York Select Tax Free Income Portfolio,다양한 금융서비스,555010
+SRV,Cushing MLP & Infrastructure Total Return Fund,다양한 금융서비스,555010
+OPP PR A,Rivernorth/Doubleline Strategic Opportunity Fund Inc PRF,다양한 금융서비스,555010
+GDV PR H,Gabelli Dividend & Income Trust PRF,다양한 금융서비스,555010
+CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,다양한 금융서비스,555010
+ATV,Acorn International Inc ADR,전문품 상점,534030
+AHT PR I,Ashford Hospitality Trust Inc PRF,주택 및 상업용 리츠,601020
+GGT PR G,Gabelli Multimedia Trust Inc PRF,다양한 금융서비스,555010
+GGT PR E,Gabelli Multimedia Trust Inc PRF,다양한 금융서비스,555010
+GUT PR C,Gabelli Utility Trust PRF,다양한 금융서비스,555010
+FMO,Fiduciary/Claymore Energy Infrastructure Fund,다양한 금융서비스,555010
+KTN,Credit Enhanced Corts Trust For Aon Capital A PRF,은행,551010
+CRT,Cross Timbers Royalty Trust Unit,오일 및 가스,501020
+NCB,Nuveen California Municipal Value Fund 2,다양한 금융서비스,555010
+PYN,Pimco New York Municipal Income Fund III,다양한 금융서비스,555010
+CAI PR B,CAI International Inc PRF,화물 및 물류 서비스,524050
+FEDU,Four Seasons Education (Cayman) Inc ADR,교육서비스,631010
+VOC,VOC Energy Trust Unit,오일 및 가스,501020
+CMRE PR B,Costamare Inc PRF,화물 및 물류 서비스,524050
+PYS,PPLUS Trust Series RRD-1 PRF,투자은행 및 서비스,551020
+UMH PR D,UMH Properties Inc PRF,주택 및 상업용 리츠,601020
+SB PR C,Safe Bulkers Inc PRF,화물 및 물류 서비스,524050
+PCF,High Income Securities Fund,다양한 금융서비스,555010
+NREF PR A,Nexpoint Real Estate Finance Inc PRF,부동산 운영 관리,601010
+NBR PR A,Nabors Industries Ltd Convertible Preference Shares Series A,오일 및 가스 장비 및 서비스,501030
+CIF,MFS Intermediate High Income Fund,다양한 금융서비스,555010
+TTP,Tortoise Pipeline & Energy Fund Inc,다양한 금융서비스,555010
+ANH PR A,Anworth Mortgage Asset Corp PRF,주택 및 상업용 리츠,601020
+SRG PR A,Seritage Growth Properties PRF,주택 및 상업용 리츠,601020
+IO,ION Geophysical Corp,오일 및 가스 장비 및 서비스,501030
+FGB,First Trust Specialty Finance and Financial Opportunities Fund,다양한 금융서비스,555010
+MVO,MV Oil Trust Unit,오일 및 가스,501020
+HVT.A,Haverty Furniture Companies Inc Class A,전문품 상점,534030
+HPR,HighPoint Resources Corp,오일 및 가스,501020
+AHT PR F,Ashford Hospitality Trust Inc PRF,주택 및 상업용 리츠,601020
+DLNG PR B,Dynagas LNG Partners LP PRF,오일 및 가스 장비 및 서비스,501030
+MFV,MFS Special Value Trust,다양한 금융서비스,555010
+PEI PR B,Pennsylvania Real Estate Investment Trust PRF,주택 및 상업용 리츠,601020
+TY PR,Tri-Continental Corp PRF,다양한 금융서비스,555010
+RMPL PR,RiverNorth Specialty Finance Corp PRF,다양한 금융서비스,555010
+GSL PR B,Global Ship Lease Inc ADR,화물 및 물류 서비스,524050
+AHT PR H,Ashford Hospitality Trust Inc PRF,주택 및 상업용 리츠,601020
+MITT PR A,AG Mortgage Investment Trust Inc PRF,주택 및 상업용 리츠,601020
+AHC,A. H. Belo Corp Series A,미디어 및 출판,533020
+CMS PR B,Consumers Energy Co PRF,전기 유틸리티,591010
+CHMI PR B,Cherry Hill Mortgage Investment Corp PRF,주택 및 상업용 리츠,601020
+ABR PR A,Arbor Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+CGA,China Green Agriculture Inc,화학,511010
+IID,Voya International High Dividend Equity Income Fund,다양한 금융서비스,555010
+PRT,PermRock Royalty Trust Unit,오일 및 가스,501020
+ETI PR,Entergy Texas Inc PRF,전기 유틸리티,591010
+JILL,J.Jill Inc,전문품 상점,534030
+AAIC PR B,Arlington Asset Investment Corp PRF,투자은행 및 서비스,551020
+CSU,Capital Senior Living Corp,헬스케어 업체 및 서비스,561020
+OFG PR B,OFG Bancorp PRF,은행,551010
+NYV,Nuveen New York Municipal Value Fund 2,다양한 금융서비스,555010
+OFG PR A,OFG Bancorp PRF,은행,551010
+PRIF PR C,Priority Income Fund Inc PRF,다양한 금융서비스,555010
+CDR PR B,Cedar Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+PRIF PR A,Priority Income Fund Inc PRF,다양한 금융서비스,555010
+KTH,Structured Products Corp Corts Tr for Peco Energy Cap Tr III PRF,다양한 금융서비스,555010
+PVL,Permianville Royalty Trust Unit,오일 및 가스,501020
+PYT,PPLUS Trust Series GSC-2 PRF,다양한 금융서비스,555010
+CELP,Cypress Environmental Partners LP Unit,오일 및 가스 장비 및 서비스,501030
+NOM,Nuveen Missouri Quality Municipal Income Fund,다양한 금융서비스,555010
+NRT,North European Oil Royalty Trust Unit,오일 및 가스,501020
+GUT PR A,Gabelli Utility Trust PRF,다양한 금융서비스,555010
+BZM,BlackRock Maryland Municipal Bond Trust,다양한 금융서비스,555010
+ABR PR B,Arbor Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+GSLD,Global Ship Lease Inc PRF,화물 및 물류 서비스,524050
+MHE,Blackrock Massachusetts Tax-Exempt Trust,다양한 금융서비스,555010
+SCX,L S Starrett Co Class A,"건설장비 및 대형차, 기차, 배",521020
+MDLY,Medley Management Inc Class A,투자은행 및 서비스,551020
+GGZ PR A,Gabelli Global Small and Mid Cap Value Trust PRF,다양한 금융서비스,555010
+GNT PR A,Gamco Natural Resources Gold & Income Trust PRF,다양한 금융서비스,555010
+BHR PR D,Braemar Hotels & Resorts Inc PRF,주택 및 상업용 리츠,601020
+ALTG PR A,Alta Equipment Group Inc ADR,"건설장비 및 대형차, 기차, 배",521020
+ENJ,Entergy New Orleans LLC PRF,전기 유틸리티,591010
+ECCB,Eagle Point Credit Company Inc PRF,다양한 금융서비스,555010
+AHT PR D,Ashford Hospitality Trust Inc PRF,주택 및 상업용 리츠,601020
+JBK,Goldman Sachs Capital I Securities-Backed Series 2004-6 Trust PRF,은행,551010
+NDP,Tortoise Energy Independence Fund Inc,다양한 금융서비스,555010
+PRIF PR F,Priority Income Fund Inc PRF,다양한 금융서비스,555010
+NGL PR C,NGL Energy Partners LP Unit Class C,오일 및 가스,501020
+BHV,BlackRock Virginia Municipal Bond Trust,다양한 금융서비스,555010
+ICD,Independence Contract Drilling Inc,오일 및 가스 장비 및 서비스,501030
+AAIC PR C,Arlington Asset Investment Corp PRF,투자은행 및 서비스,551020
+DS PR B,Drive Shack Inc PRF,호텔 및 엔터테인먼트,533010
+CUBI PR D,Customers Bancorp Inc PRF,은행,551010
+OFG PR D,OFG Bancorp PRF,은행,551010
+PRIF PR B,Priority Income Fund Inc PRF,다양한 금융서비스,555010
+PRIF PR E,Priority Income Fund Inc PRF,다양한 금융서비스,555010
+ABR PR C,Arbor Realty Trust Inc PRF,주택 및 상업용 리츠,601020
+RY PR T,Royal Bank of Canada ADR,은행,551010
+EQS,EQUUS Total Return Inc,다양한 금융서비스,555010
+NJV,Nuveen New Jersey Municipal Value Fund,다양한 금융서비스,555010
+GNE PR A,Genie Energy Ltd PRF,복합 유틸리티,591040
+IIPR PR A,Innovative Industrial Properties Inc PRF,주택 및 상업용 리츠,601020
+ANH PR B,Anworth Mortgage Asset Corp Convertible Preference Shares Series B,주택 및 상업용 리츠,601020
+PRIF PR D,Priority Income Fund Inc PRF,다양한 금융서비스,555010
+MXE,Mexico Equity and Income Fund Inc,다양한 금융서비스,555010
+GJP,STRATS SM Trust for Dominion Resources Inc Securities Series 2005-6 PRF,다양한 금융서비스,555010
+NPN,Nuveen Pennsylvania Municipal Value Fund,다양한 금융서비스,555010
+ARGO PR A,Argo Group International Holdings Ltd ADR,보험,553010
+DSE,Duff & Phelps Select Mlp and Midstream Energy Fund Inc,다양한 금융서비스,555010
+GJH,Strats Trust US Cellular PRF,다양한 금융서비스,555010
+ANH PR C,Anworth Mortgage Asset Corp PRF,주택 및 상업용 리츠,601020
+DS PR D,Drive Shack Inc PRF,호텔 및 엔터테인먼트,533010
+NM PR H,Navios Maritime Holdings Inc ADR,운송 인프라,524070
+HL PR B,Hecla Mining Co Convertible Preference Shares Series B,메탈&마이닝,512010
+MTR,Mesa Royalty Trust,오일 및 가스,501020
+KSU PR,Kansas City Southern PRF,화물 및 물류 서비스,524050
+DS PR C,Drive Shack Inc PRF,호텔 및 엔터테인먼트,533010
+NM PR G,Navios Maritime Holdings Inc ADR,운송 인프라,524070
+NAV PR D,Navistar International Corp Convertible Preference Shares Series D,"건설장비 및 대형차, 기차, 배",521020
+AEFC,Aegon Funding Company LLC PRF,은행,551010
+AFGC,American Financial Group Inc PRF,보험,553010
+AFGB,American Financial Group Inc PRF,보험,553010
+AFGD,American Financial Group Inc PRF,보험,553010
+AJXA,Great Ajax Corp PRF,주택 및 상업용 리츠,601020
+BC PR A,Brunswick Corp PRF,레저 상품,532050
+BC PR B,Brunswick Corp PRF,레저 상품,532050
+CELG RT,Bristol-Myers Squibb Co Rights,제약,562010
+DTW,DTE Energy Co PRF,전기 유틸리티,591010
+DUKB,Duke Energy Corp PRF,전기 유틸리티,591010
+EAI,Entergy Arkansas LLC PRF,전기 유틸리티,591010
+GL PR C,Globe Life Inc PRF,보험,553010
+GJT,STRATSSM Trust for Allstate Securities Series 2006-3 Corp PRF,다양한 금융서비스,555010
+GJR,Strats (SM) Trust for Procter & Gamble Securities Series 2006-1 PRF,은행,551010
+GIX RT,GigCapital2 Inc Rights,기타 금융업,556010
+GYC,CABCO Series 2004-102 Trust (SBC Communications Inc) PRF,은행,551010
+GJS,STRATSSM Certificates series supplement 2006-2 Trust PRF,,
+GJO,Strats SM Trust for Wal Mart Stores Inc Securities Series 2005-4 PRF,다양한 금융서비스,555010
+INSW PR A,International Seaways Inc PRF,오일 및 가스 장비 및 서비스,501030
+MDLX,Medley LLC PRF,투자은행 및 서비스,551020
+QVCD,QVC Inc PRF,소프트웨어 및 IT서비스,572010
+RCB,Ready Capital Corp PRF,주택 및 상업용 리츠,601020
+RCA,Ready Capital Corp PRF,주택 및 상업용 리츠,601020
+RZB,Reinsurance Group of America Inc PRF,보험,553010
+SBBA,Scorpio Tankers Inc PRF,오일 및 가스 장비 및 서비스,501030
+SFB,Stifel Financial Corp PRF,투자은행 및 서비스,551020
+UZB,United States Cellular Corp PRF,통신 서비스,574010
+UZC,United States Cellular Corp PRF,통신 서비스,574010
+WALA,Western Alliance Bancorp PRF,은행,551010
+WRB PR E,W. R. Berkley Corp PRF,보험,553010
+WRB PR C,W. R. Berkley Corp PRF,보험,553010
+WRB PR D,W. R. Berkley Corp PRF,보험,553010
+WRB PR F,W. R. Berkley Corp PRF,보험,553010
+AFGE,American Financial Group Inc PRF,보험,553010
+RIV RT WI,RiverNorth Opportunities Fund Inc,다양한 금융서비스,555010
+DTB,DTE Energy Co PRF,전기 유틸리티,591010
+ASPI,Aspire Real Estate Investors Inc,부동산 운영 관리,601010
+CNO PR A,CNO Financial Group Inc PRF,보험,553010
+NHF PR A,NexPoint Strategic Opportunities Fund PRF,다양한 금융서비스,555010
+FRX,Forest Road Acquisition Corp,기타 금융업,556010
+CAS,Cascade Acquisition Corp,기타 금융업,556010
+CLAS.U,Class Acceleration Corp,기타 금융업,556010
+SPRQ,Spartan Acquisition II Corp,기타 금융업,556010
+TBA,Thoma Bravo Advantage,기타 금융업,556010
+ROT.U,Rotor Acquisition Corp,기타 금융업,556010
